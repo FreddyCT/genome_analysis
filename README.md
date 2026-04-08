@@ -6,6 +6,7 @@ Covers:
 - Genome assembly of *E. faecium* E745 (PacBio long-reads)
 - Assembly evaluation + annotation
 - Synteny comparision
+- Trimming
 - RNA-Seq DE between serum and BHI medium
 ```
 
