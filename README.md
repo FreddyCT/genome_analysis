@@ -1,3 +1,25 @@
 # genome_analysis
+Pipeline for re-analysis of some of the methods in Paper 1 Zhang et al. 2017<br>
+DOI: [10.1186/s12864-017-4299-9](https://doi.org/10.1186/s12864-017-4299-9) <br>
+Covers: <br>
+- Genome assembly of *E. faecium* E745 (PacBio long-reads)
+- Assembly evaluation + annotation
+- Synteny comparision
+- RNA-Seq DE between serum and BHI medium
+<img width="830" height="1198" alt="bild" src="https://github.com/user-attachments/assets/f825b147-136b-465b-a736-6e90e78b4ae6" /> <br>
 Diagram made with help of AI <br>
-<img width="830" height="1198" alt="bild" src="https://github.com/user-attachments/assets/f825b147-136b-465b-a736-6e90e78b4ae6" />
+
+## Repository Structure <br>
+```
+.
+├── README.md
+├── analyses/
+│   ├── 01_qc/
+│   └── (todo)
+├── code/
+│   └── (todo)
+└── data/
+    ├── metadata/
+    ├── raw_data/
+    └── trimmed_data/
+```
