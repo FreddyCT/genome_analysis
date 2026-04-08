@@ -1,2 +1,2 @@
 # genome_analysis
-pipeline
+pipeline description
