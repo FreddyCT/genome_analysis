@@ -18,9 +18,9 @@ Covers:
 ├── README.md
 ├── analyses/
 │   ├── 01_qc/
-│   └── (todo)
+│   └── (WIP)
 ├── code/
-│   └── (todo)
+│   └── (WIP)
 └── data/
     ├── metadata/
     ├── raw_data/
