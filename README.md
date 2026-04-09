@@ -25,5 +25,7 @@ Covers:
     ├── metadata/ 
     │	└──sample_information.csv
     ├── raw_data/
+    │   ├── DNA/
+    │   └── RNA/
     └── trimmed_data/
 ```
