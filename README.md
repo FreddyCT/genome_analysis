@@ -22,7 +22,8 @@ Covers:
 ├── code/
 │   └── (WIP)
 └── data/
-    ├── metadata/
+    ├── metadata/ 
+    │	└──sample_information.csv
     ├── raw_data/
     └── trimmed_data/
 ```
