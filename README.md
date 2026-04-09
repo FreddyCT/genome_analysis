@@ -1,5 +1,5 @@
 # genome_analysis
-Pipeline for re-analysis of some of the methods in Paper 1 Zhang et al. 2017<br>
+Pipeline for re-analysis of core methods in Paper 1 Zhang et al. 2017<br>
 
 ```
 Covers:
