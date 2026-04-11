@@ -5,9 +5,10 @@
 #SBATCH -t 05:00:00
 #SBATCH -J canu_assembly
 #SBATCH --mail-type=ALL
-#SBATCH --output=~/genome_analysis/analyses/02_assembly/%x.%j.out
+#SBATCH --output=%x.%j.out
 
 module load canu/2.3-GCCcore-13.3.0-Java-17
+module load SAMtools/1.22.1-GCC-13.3.0
 
 mkdir -p ~/genome_analysis/analyses/02_assembly/canu/
 
