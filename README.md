@@ -19,7 +19,10 @@ Covers:
 ├── analyses/
 │   ├── 01_qc/
 │   ├── 02_assembly/
+│   │   └── canu/
 │   ├── 03_assembly_eval/
+│   │   ├── quast/
+│   │   └── mummer/
 │   ├── 04_annotation/
 │   ├── 05_synteny/
 │   ├── 06_rna_mapping/
@@ -29,17 +32,20 @@ Covers:
 │   ├── 01_qc.sh
 │   ├── 02_trimming.sh
 │   ├── 03_assembly.sh
-│   ├── 04_assembly_eval.sh
-│   ├── 05_annotation.sh
-│   ├── 06_synteny.sh
-│   ├── 07_rna_mapping.sh
-│   ├── 08_htseq.sh
-│   └── 09_deseq2.R
+│   ├── 04_quast.sh
+│   ├── 05_mummer.sh
+│   ├── 06_annotation.sh
+│   ├── 07_synteny.sh
+│   ├── 08_rna_mapping.sh
+│   ├── 09_htseq.sh
+│   └── 10_deseq2.R
 └── data/
     ├── metadata/ 
     │	└──sample_information.csv
     ├── raw_data/
     │   ├── DNA/
     │   └── RNA/
+    ├── reference/
+    │   └──CP014529_chromosome.fasta
     └── trimmed_data/
 ```
