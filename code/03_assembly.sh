@@ -5,7 +5,6 @@
 #SBATCH -t 05:00:00
 #SBATCH -J canu_assembly
 #SBATCH --mail-type=ALL
-#SBATCH --mail-user=freddy.truong98@gmail.com
 #SBATCH --output=~/genome_analysis/analyses/02_assembly/%x.%j.out
 
 module load canu/2.3-GCCcore-13.3.0-Java-17
