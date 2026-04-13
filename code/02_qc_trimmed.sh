@@ -2,7 +2,7 @@
 #SBATCH -A uppmax2026-1-61
 #SBATCH -p pelle
 #SBATCH -c 2
-#SBATCH -t 00:15:00
+#SBATCH -t 00:30:00
 #SBATCH -J fastqc_trimmed
 #SBATCH --mail-type=ALL
 #SBATCH --output=%x.%j.out
