@@ -29,16 +29,6 @@ Covers:
 │   ├── 07_counting/
 │   └── 08_deseq2
 ├── code/
-│   ├── 01_qc.sh
-│   ├── 02_trimming.sh
-│   ├── 03_assembly.sh
-│   ├── 04_quast.sh
-│   ├── 05_mummer.sh
-│   ├── 06_annotation.sh
-│   ├── 07_synteny.sh
-│   ├── 08_rna_mapping.sh
-│   ├── 09_htseq.sh
-│   └── 10_deseq2.R
 └── data/
     ├── metadata/ 
     │	└──sample_information.csv
