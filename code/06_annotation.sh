@@ -18,4 +18,5 @@ prokka \
     --species faecium \
     --strain E745 \
     --cpus 2 \
+    --force \
     ~/genome_analysis/analyses/02_assembly/canu/efaecium_e745.contigs.fasta
