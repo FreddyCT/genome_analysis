@@ -15,7 +15,7 @@ mkdir -p ~/genome_analysis/analyses/01_qc/fastqc_trimmed/
 # Run FastQC on trimmed paired files only (not unpaired)
 fastqc -t 2 \
     -o ~/genome_analysis/analyses/01_qc/fastqc_trimmed/ \
-    ~/genome_analysis/data/trimmed_data/*_paired.fastq.gz
+    /proj/uppmax2026-1-61/nobackup/chiki/trimmed_data/*_paired.fastq.gz
 
 # Combine all reports into one
 multiqc ~/genome_analysis/analyses/01_qc/fastqc_trimmed/ \
