@@ -1,4 +1,3 @@
-  GNU nano 5.6.1                                                          01_trimming.sh
 #!/bin/bash -l
 #SBATCH -A uppmax2026-1-61
 #SBATCH -p pelle
