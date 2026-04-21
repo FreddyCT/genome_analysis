@@ -1,0 +1,3123 @@
+AENJPLPP_00001		hypothetical protein	139
+AENJPLPP_00003		Putative phosphatase	1467
+AENJPLPP_00004		hypothetical protein	341
+AENJPLPP_00005	srrA_1	Transcriptional regulatory protein SrrA	1225
+AENJPLPP_00006		hypothetical protein	767
+AENJPLPP_00007	phoR_1	Alkaline phosphatase synthesis sensor protein PhoR	504
+AENJPLPP_00008		hypothetical protein	82
+AENJPLPP_00009		hypothetical protein	121
+AENJPLPP_00010	ltaS1_1	Lipoteichoic acid synthase 1	8911
+AENJPLPP_00011	rlmI	Ribosomal RNA large subunit methyltransferase I	1420
+AENJPLPP_00012	aroD	3-dehydroquinate dehydratase	638
+AENJPLPP_00013	ybaK_1	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK	585
+AENJPLPP_00014	baiN	3-dehydro-bile acid delta(4%2C6)-reductase	1022
+AENJPLPP_00015	gdh	NADP-specific glutamate dehydrogenase	4168
+AENJPLPP_00016	pgi	Glucose-6-phosphate isomerase	21170
+AENJPLPP_00017		ISL3 family transposase ISEfa11	12
+AENJPLPP_00018		hypothetical protein	34
+AENJPLPP_00019		IS1182 family transposase ISEfa7	0
+AENJPLPP_00020		IS982 family transposase ISEfm1	9
+AENJPLPP_00021		IS30 family transposase IS1062	297
+AENJPLPP_00022		hypothetical protein	839
+AENJPLPP_00023		hypothetical protein	16
+AENJPLPP_00024		hypothetical protein	985
+AENJPLPP_00025		hypothetical protein	2171
+AENJPLPP_00026		hypothetical protein	764
+AENJPLPP_00027		IS30 family transposase IS1252	7
+AENJPLPP_00028		hypothetical protein	118
+AENJPLPP_00029		hypothetical protein	151
+AENJPLPP_00030		hypothetical protein	1
+AENJPLPP_00031		hypothetical protein	38
+AENJPLPP_00032		hypothetical protein	4934
+AENJPLPP_00034	xerC_1	Tyrosine recombinase XerC	529
+AENJPLPP_00035		hypothetical protein	1810
+AENJPLPP_00036		hypothetical protein	995
+AENJPLPP_00037		hypothetical protein	212
+AENJPLPP_00038		hypothetical protein	1042
+AENJPLPP_00039		hypothetical protein	283
+AENJPLPP_00040		hypothetical protein	335
+AENJPLPP_00041		hypothetical protein	232
+AENJPLPP_00042		hypothetical protein	26
+AENJPLPP_00043		hypothetical protein	517
+AENJPLPP_00044		hypothetical protein	1125
+AENJPLPP_00045		hypothetical protein	344
+AENJPLPP_00046		hypothetical protein	443
+AENJPLPP_00047		hypothetical protein	389
+AENJPLPP_00048		hypothetical protein	75
+AENJPLPP_00049		hypothetical protein	22
+AENJPLPP_00050		hypothetical protein	29
+AENJPLPP_00051		hypothetical protein	294
+AENJPLPP_00052		hypothetical protein	85
+AENJPLPP_00053		hypothetical protein	89
+AENJPLPP_00054		hypothetical protein	0
+AENJPLPP_00055		hypothetical protein	0
+AENJPLPP_00056		hypothetical protein	390
+AENJPLPP_00057		hypothetical protein	0
+AENJPLPP_00058		hypothetical protein	864
+AENJPLPP_00059		hypothetical protein	435
+AENJPLPP_00060	yjcQ	putative protein YjcQ	772
+AENJPLPP_00061		hypothetical protein	67
+AENJPLPP_00062		hypothetical protein	42
+AENJPLPP_00063		hypothetical protein	85
+AENJPLPP_00064		hypothetical protein	93
+AENJPLPP_00065		hypothetical protein	268
+AENJPLPP_00066		hypothetical protein	235
+AENJPLPP_00067		hypothetical protein	233
+AENJPLPP_00068		hypothetical protein	612
+AENJPLPP_00069		hypothetical protein	7
+AENJPLPP_00070		hypothetical protein	101
+AENJPLPP_00071		hypothetical protein	16
+AENJPLPP_00072		hypothetical protein	76
+AENJPLPP_00073		hypothetical protein	118
+AENJPLPP_00074		hypothetical protein	163
+AENJPLPP_00075		hypothetical protein	342
+AENJPLPP_00076		hypothetical protein	84
+AENJPLPP_00077		hypothetical protein	516
+AENJPLPP_00078		hypothetical protein	0
+AENJPLPP_00079		hypothetical protein	0
+AENJPLPP_00080		hypothetical protein	0
+AENJPLPP_00081		hypothetical protein	13
+AENJPLPP_00082		hypothetical protein	9
+AENJPLPP_00083		hypothetical protein	12
+AENJPLPP_00084		hypothetical protein	16
+AENJPLPP_00085		hypothetical protein	206
+AENJPLPP_00086		IS3 family transposase ISEnfa3	21
+AENJPLPP_00087		hypothetical protein	1
+AENJPLPP_00088	cbh_1	Choloylglycine hydrolase	58
+AENJPLPP_00089		IS256 family transposase ISEf1	6
+AENJPLPP_00090	cbh_2	Choloylglycine hydrolase	68
+AENJPLPP_00091		IS1182 family transposase ISEfa7	2
+AENJPLPP_00092	asnB	Asparagine synthetase [glutamine-hydrolyzing] 1	15784
+AENJPLPP_00093		hypothetical protein	300
+AENJPLPP_00094	rpmGA_1	50S ribosomal protein L33 1	2062
+AENJPLPP_00095	folA_1	Dihydrofolate reductase	1980
+AENJPLPP_00096	yfiY	putative siderophore-binding lipoprotein YfiY	525
+AENJPLPP_00097	fepC	Ferric enterobactin transport ATP-binding protein FepC	302
+AENJPLPP_00098	feuB	Iron-uptake system permease protein FeuB	112
+AENJPLPP_00099	feuC	Iron-uptake system permease protein FeuC	191
+AENJPLPP_00100	yqgN	putative protein YqgN	621
+AENJPLPP_00101	gluP	Rhomboid protease GluP	550
+AENJPLPP_00102	yqgQ	putative protein YqgQ	1083
+AENJPLPP_00103	glcK	Glucokinase	6353
+AENJPLPP_00104	yibN	putative protein YibN	1633
+AENJPLPP_00105		hypothetical protein	151
+AENJPLPP_00106		hypothetical protein	626
+AENJPLPP_00107		hypothetical protein	1309
+AENJPLPP_00108	galE	UDP-glucose 4-epimerase	4777
+AENJPLPP_00109	galT	Galactose-1-phosphate uridylyltransferase	6238
+AENJPLPP_00110	melR_1	HTH-type transcriptional repressor MelR	1806
+AENJPLPP_00111	tsaB	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB	1334
+AENJPLPP_00112		hypothetical protein	820
+AENJPLPP_00113	rimI	[Ribosomal protein S18]-alanine N-acetyltransferase	1754
+AENJPLPP_00114	tsaD	tRNA N6-adenosine threonylcarbamoyltransferase	4457
+AENJPLPP_00115		hypothetical protein	619
+AENJPLPP_00116	arcA	Arginine deiminase	6717
+AENJPLPP_00117	arcB	Ornithine carbamoyltransferase%2C catabolic	3386
+AENJPLPP_00118	arcC1	Carbamate kinase 1	999
+AENJPLPP_00119	argS	Arginine--tRNA ligase	13202
+AENJPLPP_00120	phnX_1	Phosphonoacetaldehyde hydrolase	36
+AENJPLPP_00121	phnX_2	Phosphonoacetaldehyde hydrolase	0
+AENJPLPP_00122	phnW	2-aminoethylphosphonate--pyruvate transaminase	55
+AENJPLPP_00123	argR_1	Arginine repressor	1557
+AENJPLPP_00124	rpsB	30S ribosomal protein S2	52892
+AENJPLPP_00125	tsf	Elongation factor Ts	53781
+AENJPLPP_00126	pyrH	Uridylate kinase	6297
+AENJPLPP_00127	frr	Ribosome-recycling factor	3757
+AENJPLPP_00128	uppS	Ditrans%2Cpolycis-undecaprenyl-diphosphate synthase ((2E%2C6E)-farnesyl-diphosphate specific)	3095
+AENJPLPP_00129		hypothetical protein	1085
+AENJPLPP_00130	rasP	Regulator of sigma-W protease RasP	4754
+AENJPLPP_00131	proS	Proline--tRNA ligase	12019
+AENJPLPP_00132	polC_1	DNA polymerase III PolC-type	10784
+AENJPLPP_00133	rimP	Ribosome maturation factor RimP	5918
+AENJPLPP_00134	nusA	Transcription termination/antitermination protein NusA	14249
+AENJPLPP_00135		hypothetical protein	2601
+AENJPLPP_00136	rplGA	putative ribosomal protein YlxQ	4019
+AENJPLPP_00137	infB	Translation initiation factor IF-2	21307
+AENJPLPP_00138	rbfA	Ribosome-binding factor A	6650
+AENJPLPP_00139		phosphoketolase	186
+AENJPLPP_00140	xpkA_1	Xylulose-5-phosphate phosphoketolase	687
+AENJPLPP_00141	xpkA_2	Xylulose-5-phosphate phosphoketolase	333
+AENJPLPP_00142	truB	tRNA pseudouridine synthase B	787
+AENJPLPP_00143	ribF	Bifunctional riboflavin kinase/FMN adenylyltransferase	1516
+AENJPLPP_00144	gdhIV	Glucose 1-dehydrogenase 4	1024
+AENJPLPP_00145	glcU_1	Glucose uptake protein GlcU	558
+AENJPLPP_00146		hypothetical protein	76
+AENJPLPP_00147	fra	Intracellular iron chaperone frataxin	108
+AENJPLPP_00148		hypothetical protein	68
+AENJPLPP_00149	mccF	Microcin C7 self-immunity protein MccF	256
+AENJPLPP_00150		hypothetical protein	550
+AENJPLPP_00151	ydeA	putative protease YdeA	163
+AENJPLPP_00152		hypothetical protein	108
+AENJPLPP_00153	hemW	Heme chaperone HemW	719
+AENJPLPP_00154	hrcA	Heat-inducible transcription repressor HrcA	6742
+AENJPLPP_00155	grpE	Protein GrpE	6487
+AENJPLPP_00156	dnaK	Chaperone protein DnaK	35445
+AENJPLPP_00157	dnaJ	Chaperone protein DnaJ	6084
+AENJPLPP_00158		hypothetical protein	11
+AENJPLPP_00159	artM_1	Arginine transport ATP-binding protein ArtM	18095
+AENJPLPP_00160	mltF_1	Membrane-bound lytic murein transglycosylase F	29287
+AENJPLPP_00161	uvrB	UvrABC system protein B	2322
+AENJPLPP_00162	uvrA	UvrABC system protein A	3836
+AENJPLPP_00163		D-aspartate ligase	7978
+AENJPLPP_00164		Aspartate racemase	8017
+AENJPLPP_00165	yvcJ	Nucleotide-binding protein YvcJ	2499
+AENJPLPP_00166		Putative gluconeogenesis factor	4376
+AENJPLPP_00167	whiA	putative cell division protein WhiA	2316
+AENJPLPP_00168		hypothetical protein	35
+AENJPLPP_00169		hypothetical protein	46
+AENJPLPP_00170		hypothetical protein	141
+AENJPLPP_00171		IS30 family transposase IS1252	3
+AENJPLPP_00172		hypothetical protein	103
+AENJPLPP_00173		hypothetical protein	30
+AENJPLPP_00174		hypothetical protein	25
+AENJPLPP_00175		hypothetical protein	26
+AENJPLPP_00176		hypothetical protein	1264
+AENJPLPP_00177		Pyruvate:ferredoxin oxidoreductase	6301
+AENJPLPP_00178	cdaA	Cyclic di-AMP synthase CdaA	2572
+AENJPLPP_00179		hypothetical protein	6974
+AENJPLPP_00180	glmM	Phosphoglucosamine mutase	8361
+AENJPLPP_00181	glmS	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	19248
+AENJPLPP_00182		hypothetical protein	748
+AENJPLPP_00183	sppA	Putative signal peptide peptidase SppA	2369
+AENJPLPP_00184		hypothetical protein	957
+AENJPLPP_00185		hypothetical protein	909
+AENJPLPP_00186	tig	Trigger factor	42088
+AENJPLPP_00187	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	22196
+AENJPLPP_00188	engB	putative GTP-binding protein EngB	4247
+AENJPLPP_00189		hypothetical protein	649
+AENJPLPP_00190		hypothetical protein	42
+AENJPLPP_00191		hypothetical protein	18
+AENJPLPP_00192	glcR	HTH-type transcriptional repressor GlcR	10120
+AENJPLPP_00193	lacC_1	Tagatose-6-phosphate kinase	16760
+AENJPLPP_00194	fruA_1	PTS system fructose-specific EIIABC component	16691
+AENJPLPP_00195	clcA	H(+)/Cl(-) exchange transporter ClcA	1684
+AENJPLPP_00196	pcrA	ATP-dependent DNA helicase PcrA	5321
+AENJPLPP_00197	ligA_1	DNA ligase	4602
+AENJPLPP_00198	gatC_1	Glutamyl-tRNA(Gln) amidotransferase subunit C	2299
+AENJPLPP_00199	gatA_1	Glutamyl-tRNA(Gln) amidotransferase subunit A	4656
+AENJPLPP_00200	gatB	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	7880
+AENJPLPP_00201	dagK_1	Diacylglycerol kinase	13780
+AENJPLPP_00202		putative RNA methyltransferase	4873
+AENJPLPP_00203		hypothetical protein	124
+AENJPLPP_00204	aes_1	Acetyl esterase	1409
+AENJPLPP_00205	melR_2	HTH-type transcriptional repressor MelR	242
+AENJPLPP_00206	melA	Alpha-galactosidase Mel36A	155
+AENJPLPP_00207	lacL	Beta-galactosidase large subunit	62
+AENJPLPP_00208	lacM	Beta-galactosidase small subunit	83
+AENJPLPP_00209	aroF	Phospho-2-dehydro-3-deoxyheptonate aldolase	1855
+AENJPLPP_00210	aroB	3-dehydroquinate synthase	2036
+AENJPLPP_00211	aroC	Chorismate synthase	2959
+AENJPLPP_00212		hypothetical protein	2767
+AENJPLPP_00213	aroA	3-phosphoshikimate 1-carboxyvinyltransferase	3436
+AENJPLPP_00214	aroK	Shikimate kinase	792
+AENJPLPP_00215	pheA	Bifunctional chorismate mutase/prephenate dehydratase	2236
+AENJPLPP_00216		hypothetical protein	423
+AENJPLPP_00217	rhaR_1	HTH-type transcriptional activator RhaR	37
+AENJPLPP_00218	cheB	Protein-glutamate methylesterase/protein-glutamine glutaminase	59
+AENJPLPP_00219	lacE_1	Lactose-binding protein	110
+AENJPLPP_00220	lacF_1	Lactose transport system permease protein LacF	75
+AENJPLPP_00221	lacG_1	Lactose transport system permease protein LacG	30
+AENJPLPP_00222	umpB_1	Na(+)%2C Li(+)%2C K(+)/H(+) antiporter subunit B	43
+AENJPLPP_00223	umpB_2	Na(+)%2C Li(+)%2C K(+)/H(+) antiporter subunit B	80
+AENJPLPP_00224		hypothetical protein	26
+AENJPLPP_00225		hypothetical protein	812
+AENJPLPP_00226		hypothetical protein	531
+AENJPLPP_00227	gpmA_1	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase	1207
+AENJPLPP_00228	gph_1	Phosphoglycolate phosphatase	933
+AENJPLPP_00229		hypothetical protein	1360
+AENJPLPP_00230	tcyP	L-cystine uptake protein TcyP	31008
+AENJPLPP_00231		hypothetical protein	708
+AENJPLPP_00232		hypothetical protein	0
+AENJPLPP_00233		hypothetical protein	1100
+AENJPLPP_00234	pphA	Serine/threonine-protein phosphatase 1	841
+AENJPLPP_00235	yhgF	Protein YhgF	3409
+AENJPLPP_00236		Protein SprT-like protein	1703
+AENJPLPP_00237	ydcF	Protein YdcF	1525
+AENJPLPP_00238	murC	UDP-N-acetylmuramate--L-alanine ligase	13398
+AENJPLPP_00239		hypothetical protein	2481
+AENJPLPP_00240	ybhL	Inner membrane protein YbhL	6019
+AENJPLPP_00241	polA	DNA polymerase I	5046
+AENJPLPP_00242	mutM	Formamidopyrimidine-DNA glycosylase	1733
+AENJPLPP_00243	coaE	Dephospho-CoA kinase	456
+AENJPLPP_00244		hypothetical protein	2138
+AENJPLPP_00245	nrdR	Transcriptional repressor NrdR	986
+AENJPLPP_00246	dnaB	Replication initiation and membrane attachment protein	3732
+AENJPLPP_00247	dnaI_1	Primosomal protein DnaI	270
+AENJPLPP_00248	dnaI_2	Primosomal protein DnaI	3395
+AENJPLPP_00249		hypothetical protein	2365
+AENJPLPP_00250		ISL3 family transposase ISEfa5	1
+AENJPLPP_00251	trmK	tRNA (adenine(22)-N(1))-methyltransferase	433
+AENJPLPP_00252		GTP cyclohydrolase 1 type 2 	13
+AENJPLPP_00253		GTP cyclohydrolase 1 type 2 	305
+AENJPLPP_00254	pepT	Peptidase T	861
+AENJPLPP_00255	dagK_2	Diacylglycerol kinase	2088
+AENJPLPP_00256		hypothetical protein	473
+AENJPLPP_00257		hypothetical protein	1034
+AENJPLPP_00258	clpB	Chaperone protein ClpB	3249
+AENJPLPP_00259		hypothetical protein	651
+AENJPLPP_00260		hypothetical protein	875
+AENJPLPP_00261	eis_1	N-acetyltransferase Eis	1466
+AENJPLPP_00262	lepA	Elongation factor 4	7033
+AENJPLPP_00263	xerC_2	Tyrosine recombinase XerC	94
+AENJPLPP_00264		IS30 family transposase IS1252	1
+AENJPLPP_00265		IS256 family transposase ISEf1	8
+AENJPLPP_00266		hypothetical protein	496
+AENJPLPP_00267		hypothetical protein	191
+AENJPLPP_00268		hypothetical protein	381
+AENJPLPP_00269	fabG_1	3-oxoacyl-[acyl-carrier-protein] reductase FabG	21
+AENJPLPP_00270	licR_1	putative licABCH operon regulator	41
+AENJPLPP_00271		hypothetical protein	5
+AENJPLPP_00272	srlA	PTS system glucitol/sorbitol-specific EIIC component	9
+AENJPLPP_00273	srlE	PTS system glucitol/sorbitol-specific EIIB component	29
+AENJPLPP_00274		IS110 family transposase ISSpn10	0
+AENJPLPP_00275	srlB	PTS system glucitol/sorbitol-specific EIIA component	18
+AENJPLPP_00276	fsaA	Fructose-6-phosphate aldolase 1	52
+AENJPLPP_00277	prsA_1	Foldase protein PrsA	1533
+AENJPLPP_00278		hypothetical protein	391
+AENJPLPP_00279		hypothetical protein	48
+AENJPLPP_00280		hypothetical protein	62
+AENJPLPP_00281		hypothetical protein	314
+AENJPLPP_00282	spxA_1	Regulatory protein Spx	10
+AENJPLPP_00283	sttH	Streptothricin hydrolase	252
+AENJPLPP_00284		hypothetical protein	70
+AENJPLPP_00285	aes_2	Acetyl esterase	85
+AENJPLPP_00286		hypothetical protein	261
+AENJPLPP_00287	murR_1	HTH-type transcriptional regulator MurR	351
+AENJPLPP_00288		6-phosphogluconate dehydrogenase%2C NAD(+)-dependent%2C decarboxylating	4
+AENJPLPP_00289	fldH	Phenyllactate dehydrogenase	1
+AENJPLPP_00290		hypothetical protein	0
+AENJPLPP_00291	hcxA	Hydroxycarboxylate dehydrogenase A	4
+AENJPLPP_00292		hypothetical protein	0
+AENJPLPP_00293	manZ_1	PTS system mannose-specific EIID component	3
+AENJPLPP_00294	sorB_1	PTS system sorbose-specific EIIB component	4
+AENJPLPP_00295		hypothetical protein	2
+AENJPLPP_00296		hypothetical protein	1
+AENJPLPP_00297	manX_1	PTS system mannose-specific EIIAB component	3
+AENJPLPP_00298	uxuA_1	Mannonate dehydratase	15
+AENJPLPP_00299	ppaX	Pyrophosphatase PpaX	21
+AENJPLPP_00300		hypothetical protein	310
+AENJPLPP_00301	cspL	Cold shock protein 2	18432
+AENJPLPP_00302		hypothetical protein	24
+AENJPLPP_00303		hypothetical protein	169
+AENJPLPP_00304		hypothetical protein	276
+AENJPLPP_00305		hypothetical protein	197
+AENJPLPP_00306		hypothetical protein	174
+AENJPLPP_00308		hypothetical protein	85
+AENJPLPP_00309	yidA_1	Sugar phosphatase YidA	79
+AENJPLPP_00310	gspA_1	General stress protein A	44
+AENJPLPP_00311	gspA_2	General stress protein A	35
+AENJPLPP_00312		hypothetical protein	6
+AENJPLPP_00313		hypothetical protein	57
+AENJPLPP_00314	yghA	putative oxidoreductase YghA	99
+AENJPLPP_00315		hypothetical protein	489
+AENJPLPP_00316		hypothetical protein	1471
+AENJPLPP_00317		hypothetical protein	266
+AENJPLPP_00318		hypothetical protein	167
+AENJPLPP_00319		hypothetical protein	64
+AENJPLPP_00320		hypothetical protein	133
+AENJPLPP_00321		hypothetical protein	34
+AENJPLPP_00322		hypothetical protein	1482
+AENJPLPP_00323		hypothetical protein	403
+AENJPLPP_00324		Stress response regulator gls24 	1321
+AENJPLPP_00325		hypothetical protein	168
+AENJPLPP_00326		ISL3 family transposase ISEfa11	0
+AENJPLPP_00327	amt	Ammonia channel	78
+AENJPLPP_00328	gadC_1	Glutamate/gamma-aminobutyrate antiporter	118
+AENJPLPP_00329	glsA	Glutaminase	65
+AENJPLPP_00330		hypothetical protein	44
+AENJPLPP_00331	dxs	1-deoxy-D-xylulose-5-phosphate synthase	4770
+AENJPLPP_00332		hypothetical protein	322
+AENJPLPP_00333	nanE_1	Putative N-acetylmannosamine-6-phosphate 2-epimerase	493
+AENJPLPP_00334		hypothetical protein	3518
+AENJPLPP_00335		hypothetical protein	306
+AENJPLPP_00336	ftsW_1	putative peptidoglycan glycosyltransferase FtsW	889
+AENJPLPP_00337	msrR	Regulatory protein MsrR	194
+AENJPLPP_00338		hypothetical protein	4084
+AENJPLPP_00339	pbp	Beta-lactam-inducible penicillin-binding protein	53143
+AENJPLPP_00340	napA_1	Na(+)/H(+) antiporter	521
+AENJPLPP_00341	napA_2	Na(+)/H(+) antiporter	214
+AENJPLPP_00342		hypothetical protein	595
+AENJPLPP_00343		hypothetical protein	291
+AENJPLPP_00344	ahpF	NADH dehydrogenase	18078
+AENJPLPP_00345	ahpC	Alkyl hydroperoxide reductase C	5778
+AENJPLPP_00346	rspR_1	HTH-type transcriptional repressor RspR	190
+AENJPLPP_00347	uxuA_2	Mannonate dehydratase	278
+AENJPLPP_00348	uxuA_3	Mannonate dehydratase	106
+AENJPLPP_00349		hypothetical protein	362
+AENJPLPP_00350		hypothetical protein	157
+AENJPLPP_00351		hypothetical protein	140
+AENJPLPP_00352		hypothetical protein	824
+AENJPLPP_00353	ohrR	Organic hydroperoxide resistance transcriptional regulator	1024
+AENJPLPP_00354	ohrA	Organic hydroperoxide resistance protein OhrA	95
+AENJPLPP_00355		hypothetical protein	60
+AENJPLPP_00356		hypothetical protein	199
+AENJPLPP_00357	bbmA	Intracellular maltogenic amylase	18
+AENJPLPP_00358	mdxE	Maltodextrin-binding protein MdxE	64
+AENJPLPP_00359		hypothetical protein	75
+AENJPLPP_00360	malG	Maltose/maltodextrin transport system permease protein MalG	33
+AENJPLPP_00361		hypothetical protein	36
+AENJPLPP_00362	cfa	Cyclopropane-fatty-acyl-phospholipid synthase	7226
+AENJPLPP_00363		hypothetical protein	2682
+AENJPLPP_00364	pyrDA	Dihydroorotate dehydrogenase A (fumarate)	5654
+AENJPLPP_00365	nylA	6-aminohexanoate-cyclic-dimer hydrolase	1987
+AENJPLPP_00366	yckB	putative ABC transporter extracellular-binding protein YckB	661
+AENJPLPP_00367	yecS_1	L-cystine transport system permease protein YecS	278
+AENJPLPP_00368		hypothetical protein	312
+AENJPLPP_00369		hypothetical protein	891
+AENJPLPP_00370		hypothetical protein	800
+AENJPLPP_00371	gmk_1	Guanylate kinase	897
+AENJPLPP_00372	nupC	Nucleoside permease NupC	3575
+AENJPLPP_00373		hypothetical protein	5568
+AENJPLPP_00374		hypothetical protein	2151
+AENJPLPP_00375		hypothetical protein	2001
+AENJPLPP_00376		hypothetical protein	3279
+AENJPLPP_00377		hypothetical protein	625
+AENJPLPP_00378		hypothetical protein	814
+AENJPLPP_00379		hypothetical protein	1051
+AENJPLPP_00380	ygaZ_1	Inner membrane protein YgaZ	3358
+AENJPLPP_00381		hypothetical protein	411
+AENJPLPP_00382	murJ_1	Lipid II flippase MurJ	6878
+AENJPLPP_00383	degV	Protein DegV	4035
+AENJPLPP_00384		hypothetical protein	1494
+AENJPLPP_00385		hypothetical protein	4890
+AENJPLPP_00386	malL_1	Oligo-1%2C6-glucosidase	2029
+AENJPLPP_00387		hypothetical protein	741
+AENJPLPP_00388	hmpT	Thiamine precursor transporter HmpT	1204
+AENJPLPP_00389	pdxK	Pyridoxine kinase	1846
+AENJPLPP_00390	menE	2-succinylbenzoate--CoA ligase	1396
+AENJPLPP_00391	xerC_3	Tyrosine recombinase XerC	321
+AENJPLPP_00392	ysnF	Stress response protein YsnF	438
+AENJPLPP_00393	sasA_1	Adaptive-response sensory-kinase SasA	322
+AENJPLPP_00394	mprA	Response regulator MprA	294
+AENJPLPP_00395		putative ABC transporter permease	195
+AENJPLPP_00396	lolD_1	Lipoprotein-releasing system ATP-binding protein LolD	24
+AENJPLPP_00397	hrtA_1	Putative hemin import ATP-binding protein HrtA	28
+AENJPLPP_00398		hypothetical protein	226
+AENJPLPP_00399		hypothetical protein	76
+AENJPLPP_00400		hypothetical protein	15
+AENJPLPP_00401		hypothetical protein	9
+AENJPLPP_00402		hypothetical protein	140
+AENJPLPP_00403		hypothetical protein	42
+AENJPLPP_00404		hypothetical protein	34
+AENJPLPP_00405		hypothetical protein	122
+AENJPLPP_00406		hypothetical protein	258
+AENJPLPP_00407	ybbH_1	putative HTH-type transcriptional regulator YbbH	593
+AENJPLPP_00408	yhhX	putative oxidoreductase YhhX	3156
+AENJPLPP_00409		hypothetical protein	4038
+AENJPLPP_00410		hypothetical protein	149
+AENJPLPP_00411		hypothetical protein	12
+AENJPLPP_00412	ulaA_1	Ascorbate-specific PTS system EIIC component	53
+AENJPLPP_00413		hypothetical protein	135
+AENJPLPP_00414		hypothetical protein	36
+AENJPLPP_00415	rhaS_1	HTH-type transcriptional activator RhaS	8
+AENJPLPP_00416		hypothetical protein	0
+AENJPLPP_00417	ldh_1	L-lactate dehydrogenase	4268
+AENJPLPP_00418		hypothetical protein	48
+AENJPLPP_00419		hypothetical protein	310
+AENJPLPP_00420		hypothetical protein	694
+AENJPLPP_00421	topB_1	DNA topoisomerase 3	5830
+AENJPLPP_00422		hypothetical protein	1637
+AENJPLPP_00423	tagU_1	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU	3977
+AENJPLPP_00424	aroE	Shikimate dehydrogenase (NADP(+))	743
+AENJPLPP_00425	cmpD	Bicarbonate transport ATP-binding protein CmpD	900
+AENJPLPP_00426		hypothetical protein	472
+AENJPLPP_00427		hypothetical protein	1083
+AENJPLPP_00428		hypothetical protein	566
+AENJPLPP_00429		IS30 family transposase IS1252	2
+AENJPLPP_00430	rqcH	Rqc2 RqcH	6167
+AENJPLPP_00431	hdfR_1	HTH-type transcriptional regulator HdfR	3798
+AENJPLPP_00432	cah	Carbonic anhydrase	2139
+AENJPLPP_00433	yfbR	5'-deoxynucleotidase YfbR	1265
+AENJPLPP_00434	pyrE	Orotate phosphoribosyltransferase	900
+AENJPLPP_00435	pyrF	Orotidine 5'-phosphate decarboxylase	919
+AENJPLPP_00436	pyrDB	Dihydroorotate dehydrogenase B (NAD(+))%2C catalytic subunit	508
+AENJPLPP_00437	pyrK_1	Dihydroorotate dehydrogenase B (NAD(+))%2C electron transfer subunit	210
+AENJPLPP_00438	pyrK_2	Dihydroorotate dehydrogenase B (NAD(+))%2C electron transfer subunit	376
+AENJPLPP_00439	carB	Carbamoyl-phosphate synthase large chain	3105
+AENJPLPP_00440	carA	Carbamoyl-phosphate synthase small chain	944
+AENJPLPP_00441	pyrC	Dihydroorotase	706
+AENJPLPP_00442	pyrB	Aspartate carbamoyltransferase	615
+AENJPLPP_00443	pyrP	Uracil permease	778
+AENJPLPP_00444	pyrR	Bifunctional protein pyrR	474
+AENJPLPP_00445	rluD_1	Ribosomal large subunit pseudouridine synthase D	3992
+AENJPLPP_00446	lspA	Lipoprotein signal peptidase	1111
+AENJPLPP_00447		hypothetical protein	671
+AENJPLPP_00448		hypothetical protein	1286
+AENJPLPP_00449	fhs1	Formate--tetrahydrofolate ligase 1	1842
+AENJPLPP_00450		hypothetical protein	1657
+AENJPLPP_00451		hypothetical protein	1427
+AENJPLPP_00452	rnhA	14.7 kDa ribonuclease H-like protein	423
+AENJPLPP_00453	fieF	Ferrous-iron efflux pump FieF	1625
+AENJPLPP_00454	panT_1	Pantothenate transporter PanT	1523
+AENJPLPP_00455	alaS	Alanine--tRNA ligase	23207
+AENJPLPP_00456		Acetyltransferase	199
+AENJPLPP_00457	cshB	DEAD-box ATP-dependent RNA helicase CshB	11462
+AENJPLPP_00458		hypothetical protein	2134
+AENJPLPP_00459		hypothetical protein	42
+AENJPLPP_00460	steT_1	Serine/threonine exchanger SteT	71
+AENJPLPP_00461		putative epimerase/dehydratase	35
+AENJPLPP_00462		Putative pyridoxal phosphate-dependent acyltransferase	70
+AENJPLPP_00463		hypothetical protein	13
+AENJPLPP_00464	yedJ	putative protein YedJ	951
+AENJPLPP_00465	ypwA	Carboxypeptidase 1	7113
+AENJPLPP_00466	rlmL	Ribosomal RNA large subunit methyltransferase L	7791
+AENJPLPP_00467	gpsB	Cell cycle protein GpsB	6639
+AENJPLPP_00468		hypothetical protein	750
+AENJPLPP_00469	recU	Holliday junction resolvase RecU	993
+AENJPLPP_00470	ponA_1	Penicillin-binding protein 1A	10546
+AENJPLPP_00471		ISL3 family transposase ISEfa5	0
+AENJPLPP_00472		hypothetical protein	107
+AENJPLPP_00473	nth	Endonuclease III	1561
+AENJPLPP_00474	dnaD	DNA replication protein DnaD	1508
+AENJPLPP_00475	tetA	Tetracycline resistance protein%2C class C	284
+AENJPLPP_00476		hypothetical protein	124
+AENJPLPP_00477		hypothetical protein	742
+AENJPLPP_00478	nox_1	NADH oxidase	5107
+AENJPLPP_00479	perR	Peroxide operon regulator	1637
+AENJPLPP_00480	cysK	Cysteine synthase	3777
+AENJPLPP_00481		Autolysin	899
+AENJPLPP_00482		IS30 family transposase IS1252	265
+AENJPLPP_00483	tkt	Transketolase	26389
+AENJPLPP_00484		hypothetical protein	1733
+AENJPLPP_00485	lexA	LexA repressor	2435
+AENJPLPP_00486		hypothetical protein	359
+AENJPLPP_00487	apt	Adenine phosphoribosyltransferase	6757
+AENJPLPP_00488		hypothetical protein	16033
+AENJPLPP_00489		hypothetical protein	995
+AENJPLPP_00490	hcaB	3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase	1359
+AENJPLPP_00491	rnz	Ribonuclease Z	1953
+AENJPLPP_00492		hypothetical protein	3859
+AENJPLPP_00493	obg	GTPase Obg	11108
+AENJPLPP_00494	gap_1	Glyceraldehyde-3-phosphate dehydrogenase	4089
+AENJPLPP_00495	menH_1	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase	2716
+AENJPLPP_00496		IS30 family transposase IS6770	22
+AENJPLPP_00497		hypothetical protein	865
+AENJPLPP_00498		hypothetical protein	2946
+AENJPLPP_00499	fabZ_1	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ	7890
+AENJPLPP_00500	fabI	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI	13233
+AENJPLPP_00501	ilvE	Branched-chain-amino-acid aminotransferase	5310
+AENJPLPP_00502	ykuT	putative MscS family protein YkuT	1106
+AENJPLPP_00503		hypothetical protein	1850
+AENJPLPP_00504		hypothetical protein	355
+AENJPLPP_00505	rph	Ribonuclease PH	3931
+AENJPLPP_00506	murI	Glutamate racemase	1322
+AENJPLPP_00507	glnP	putative glutamine ABC transporter permease protein GlnP	1300
+AENJPLPP_00508	glnM	putative glutamine ABC transporter permease protein GlnM	849
+AENJPLPP_00509	glnH	ABC transporter glutamine-binding protein GlnH	5362
+AENJPLPP_00510	glnQ_1	Glutamine transport ATP-binding protein GlnQ	4106
+AENJPLPP_00511	trpS2	Tryptophan--tRNA ligase 2	4332
+AENJPLPP_00512	pheT	Phenylalanine--tRNA ligase beta subunit	13554
+AENJPLPP_00513	pheS	Phenylalanine--tRNA ligase alpha subunit	5949
+AENJPLPP_00514	yodB	HTH-type transcriptional regulator YodB	3418
+AENJPLPP_00515	addA	ATP-dependent helicase/nuclease subunit A	8524
+AENJPLPP_00516	addB_1	ATP-dependent helicase/deoxyribonuclease subunit B	4691
+AENJPLPP_00517	addB_2	ATP-dependent helicase/deoxyribonuclease subunit B	2296
+AENJPLPP_00518		ISL3 family transposase ISEfa11	2
+AENJPLPP_00519	dtpT_1	Di-/tripeptide transporter	2300
+AENJPLPP_00520	dtpT_2	Di-/tripeptide transporter	4376
+AENJPLPP_00521		hypothetical protein	575
+AENJPLPP_00522		hypothetical protein	467
+AENJPLPP_00523		hypothetical protein	351
+AENJPLPP_00524		hypothetical protein	479
+AENJPLPP_00525		hypothetical protein	791
+AENJPLPP_00527		hypothetical protein	615
+AENJPLPP_00528		hypothetical protein	119
+AENJPLPP_00529		hypothetical protein	429
+AENJPLPP_00530		hypothetical protein	1129
+AENJPLPP_00531		hypothetical protein	52
+AENJPLPP_00532		hypothetical protein	176
+AENJPLPP_00533		hypothetical protein	57
+AENJPLPP_00534		Putative universal stress protein	217
+AENJPLPP_00535		hypothetical protein	1606
+AENJPLPP_00537		hypothetical protein	166
+AENJPLPP_00538		hypothetical protein	2491
+AENJPLPP_00539		hypothetical protein	1139
+AENJPLPP_00540		hypothetical protein	1637
+AENJPLPP_00541	dinG_1	3'-5' exonuclease DinG	2228
+AENJPLPP_00542		putative metallo-hydrolase	1708
+AENJPLPP_00543	gpmA_2	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase	743
+AENJPLPP_00544	uppP	Undecaprenyl-diphosphatase	1711
+AENJPLPP_00545	zosA	Zinc-transporting ATPase	4933
+AENJPLPP_00546		hypothetical protein	714
+AENJPLPP_00547		hypothetical protein	815
+AENJPLPP_00548	rpsT	30S ribosomal protein S20	10557
+AENJPLPP_00549	yqeN	putative protein YqeN	1260
+AENJPLPP_00550	comEC	ComE operon protein 3	362
+AENJPLPP_00551	tadA_1	tRNA-specific adenosine deaminase	569
+AENJPLPP_00552		hypothetical protein	292
+AENJPLPP_00553		hypothetical protein	174
+AENJPLPP_00554		hypothetical protein	73
+AENJPLPP_00555	ylbL	putative protein YlbL	2819
+AENJPLPP_00556	coaD	Phosphopantetheine adenylyltransferase	774
+AENJPLPP_00557	rsmD	Ribosomal RNA small subunit methyltransferase D	1247
+AENJPLPP_00558		hypothetical protein	2163
+AENJPLPP_00559		hypothetical protein	1717
+AENJPLPP_00560		hypothetical protein	4215
+AENJPLPP_00561	pycA	Pyruvate carboxylase	21020
+AENJPLPP_00562	ftsW_2	putative peptidoglycan glycosyltransferase FtsW	6081
+AENJPLPP_00563		hypothetical protein	1149
+AENJPLPP_00564	recQ_1	ATP-dependent DNA helicase RecQ	3204
+AENJPLPP_00565	typA	GTP-binding protein TypA/BipA	24669
+AENJPLPP_00566	cysQ	3'(2')%2C5'-bisphosphate nucleotidase CysQ	1218
+AENJPLPP_00567		hypothetical protein	499
+AENJPLPP_00568	pdhD	Dihydrolipoyl dehydrogenase	9591
+AENJPLPP_00569		hypothetical protein	12181
+AENJPLPP_00570	pdhB	Pyruvate dehydrogenase E1 component subunit beta	4837
+AENJPLPP_00571	pdhA	Pyruvate dehydrogenase E1 component subunit alpha	8153
+AENJPLPP_00572	norG	HTH-type transcriptional regulator NorG	448
+AENJPLPP_00573	guaC	GMP reductase	2640
+AENJPLPP_00574	xylH	Xylose transport system permease protein XylH	13
+AENJPLPP_00575	xylG	Xylose import ATP-binding protein XylG	8
+AENJPLPP_00576	chvE	Multiple sugar-binding periplasmic receptor ChvE	11
+AENJPLPP_00577	ytfQ	ABC transporter periplasmic-binding protein YtfQ	36
+AENJPLPP_00578		hypothetical protein	43
+AENJPLPP_00579	rhaR_2	HTH-type transcriptional activator RhaR	74
+AENJPLPP_00580	ydhF	Oxidoreductase YdhF	1060
+AENJPLPP_00581	purD	Phosphoribosylamine--glycine ligase	217
+AENJPLPP_00582	purH	Bifunctional purine biosynthesis protein PurH	162
+AENJPLPP_00583	purN	Phosphoribosylglycinamide formyltransferase	56
+AENJPLPP_00584	purM	Phosphoribosylformylglycinamidine cyclo-ligase	119
+AENJPLPP_00585	purF	Amidophosphoribosyltransferase	81
+AENJPLPP_00586	purL	Phosphoribosylformylglycinamidine synthase subunit PurL	158
+AENJPLPP_00587	purQ	Phosphoribosylformylglycinamidine synthase subunit PurQ	40
+AENJPLPP_00588	purS	Phosphoribosylformylglycinamidine synthase subunit PurS	6
+AENJPLPP_00589	purC	Phosphoribosylaminoimidazole-succinocarboxamide synthase	50
+AENJPLPP_00590		hypothetical protein	279
+AENJPLPP_00591	purB	Adenylosuccinate lyase	3872
+AENJPLPP_00592	purK	N5-carboxyaminoimidazole ribonucleotide synthase	1682
+AENJPLPP_00593	purE	N5-carboxyaminoimidazole ribonucleotide mutase	128
+AENJPLPP_00594		Nucleobase transporter PlUacP	6102
+AENJPLPP_00595	xpt	Xanthine phosphoribosyltransferase	3014
+AENJPLPP_00596	yteT	Putative oxidoreductase YteT	45
+AENJPLPP_00597		hypothetical protein	18
+AENJPLPP_00598	araQ_1	L-arabinose transport system permease protein AraQ	21
+AENJPLPP_00599	lacF_2	Lactose transport system permease protein LacF	21
+AENJPLPP_00600	yesO	Putative ABC transporter substrate-binding protein YesO	30
+AENJPLPP_00601		hypothetical protein	1916
+AENJPLPP_00602	lytG	Exo-glucosaminidase LytG	1951
+AENJPLPP_00603		hypothetical protein	3629
+AENJPLPP_00604		hypothetical protein	1000
+AENJPLPP_00605	iolU_1	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU	1430
+AENJPLPP_00606		hypothetical protein	374
+AENJPLPP_00607		hypothetical protein	269
+AENJPLPP_00608	yqiK	Inner membrane protein YqiK	1963
+AENJPLPP_00609	yuaF	putative membrane protein YuaF	461
+AENJPLPP_00610	dcuS_1	Sensor histidine kinase DcuS	68
+AENJPLPP_00611	dcuS_2	Sensor histidine kinase DcuS	34
+AENJPLPP_00612	dcuR	Transcriptional regulatory protein DcuR	50
+AENJPLPP_00613	hgdH	(R)-2-hydroxyglutarate dehydrogenase	59
+AENJPLPP_00614		hypothetical protein	25
+AENJPLPP_00615	agaA_1	N-acetylgalactosamine-6-phosphate deacetylase	7493
+AENJPLPP_00616		hypothetical protein	3222
+AENJPLPP_00617	alaA	Glutamate-pyruvate aminotransferase AlaA	4281
+AENJPLPP_00618		hypothetical protein	95
+AENJPLPP_00620		hypothetical protein	444
+AENJPLPP_00621		hypothetical protein	405
+AENJPLPP_00622		IS256 family transposase ISEf1	12
+AENJPLPP_00623		hypothetical protein	414
+AENJPLPP_00624	fosX	Fosfomycin resistance protein FosX	67
+AENJPLPP_00625		hypothetical protein	370
+AENJPLPP_00626	smc_1	Chromosome partition protein Smc	705
+AENJPLPP_00627		hypothetical protein	2514
+AENJPLPP_00628	ycfH	putative metal-dependent hydrolase YcfH	349
+AENJPLPP_00629	ssuB	Aliphatic sulfonates import ATP-binding protein SsuB	218
+AENJPLPP_00630	thiY	Formylaminopyrimidine-binding protein	461
+AENJPLPP_00631	ribX	Riboflavin transport system permease protein RibX	321
+AENJPLPP_00632	garB	Glutathione amide reductase	1696
+AENJPLPP_00633		hypothetical protein	86
+AENJPLPP_00634	opuCA_1	Carnitine transport ATP-binding protein OpuCA	959
+AENJPLPP_00635		hypothetical protein	1728
+AENJPLPP_00636		hypothetical protein	107
+AENJPLPP_00637		hypothetical protein	2318
+AENJPLPP_00638		hypothetical protein	3072
+AENJPLPP_00639	exuR_1	putative HTH-type transcriptional repressor ExuR	672
+AENJPLPP_00640		hypothetical protein	65
+AENJPLPP_00641		hypothetical protein	52
+AENJPLPP_00642		hypothetical protein	539
+AENJPLPP_00643		hypothetical protein	89
+AENJPLPP_00644		hypothetical protein	1444
+AENJPLPP_00645	ppaC	putative manganese-dependent inorganic pyrophosphatase	7612
+AENJPLPP_00646	pflA	Pyruvate formate-lyase-activating enzyme	1690
+AENJPLPP_00647	pflB	Formate acetyltransferase	6473
+AENJPLPP_00648	parC	DNA topoisomerase 4 subunit A	17226
+AENJPLPP_00649	parE	DNA topoisomerase 4 subunit B	11383
+AENJPLPP_00650	yccU	putative protein YccU	1143
+AENJPLPP_00651	plsY	Glycerol-3-phosphate acyltransferase	2581
+AENJPLPP_00652	lacX	Protein LacX%2C plasmid	3522
+AENJPLPP_00653	codY	GTP-sensing transcriptional pleiotropic repressor CodY	5050
+AENJPLPP_00654	clpY	ATP-dependent protease ATPase subunit ClpY	8934
+AENJPLPP_00655	hslV	ATP-dependent protease subunit HslV	3139
+AENJPLPP_00656	xerC_4	Tyrosine recombinase XerC	2548
+AENJPLPP_00657	trmFO	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO	6889
+AENJPLPP_00658	topA	DNA topoisomerase 1	11087
+AENJPLPP_00659	dprA	DNA processing protein DprA	502
+AENJPLPP_00660	rnhB	Ribonuclease HII	1621
+AENJPLPP_00661	rbgA	Ribosome biogenesis GTPase A	2029
+AENJPLPP_00662		hypothetical protein	101
+AENJPLPP_00663	folT_1	Folate transporter FolT	276
+AENJPLPP_00664	sipV	Signal peptidase I V	3001
+AENJPLPP_00665		hypothetical protein	436
+AENJPLPP_00666	msrA_1	Peptide methionine sulfoxide reductase MsrA	1783
+AENJPLPP_00667		hypothetical protein	1618
+AENJPLPP_00668		hypothetical protein	3080
+AENJPLPP_00669		DegV domain-containing protein	9399
+AENJPLPP_00670		hypothetical protein	582
+AENJPLPP_00671	folA_2	Dihydrofolate reductase	1168
+AENJPLPP_00672	thyA	Thymidylate synthase	1920
+AENJPLPP_00673	ettA	Energy-dependent translational throttle protein EttA	4657
+AENJPLPP_00674		hypothetical protein	5136
+AENJPLPP_00675		hypothetical protein	1487
+AENJPLPP_00676		hypothetical protein	1717
+AENJPLPP_00677	cca	CCA-adding enzyme	3088
+AENJPLPP_00678	ypjD	putative protein YpjD	956
+AENJPLPP_00679		hypothetical protein	317
+AENJPLPP_00680		hypothetical protein	2147
+AENJPLPP_00681	bepA	Beta-barrel assembly-enhancing protease	4850
+AENJPLPP_00682		hypothetical protein	647
+AENJPLPP_00683	hupA	DNA-binding protein HU 1	27705
+AENJPLPP_00684	der	GTPase Der	11574
+AENJPLPP_00685	ypfD	30S ribosomal protein S1 	20681
+AENJPLPP_00686	cmk	Cytidylate kinase	3557
+AENJPLPP_00687		hypothetical protein	7150
+AENJPLPP_00688	recQ_2	ATP-dependent DNA helicase RecQ	354
+AENJPLPP_00689		hypothetical protein	54
+AENJPLPP_00690		hypothetical protein	761
+AENJPLPP_00691		hypothetical protein	418
+AENJPLPP_00692		Putative dipeptidase	8369
+AENJPLPP_00693		hypothetical protein	11869
+AENJPLPP_00694	fmnP	Riboflavin transporter FmnP	827
+AENJPLPP_00695	rluB_1	Ribosomal large subunit pseudouridine synthase B	3719
+AENJPLPP_00696	scpB	Segregation and condensation protein B	1889
+AENJPLPP_00697	scpA	Segregation and condensation protein A	2520
+AENJPLPP_00698	ribT	Protein RibT	853
+AENJPLPP_00699	xerD	Tyrosine recombinase XerD	3535
+AENJPLPP_00700		hypothetical protein	5
+AENJPLPP_00701	fur	Ferric uptake regulation protein	1839
+AENJPLPP_00702	cvfB	Conserved virulence factor B	2495
+AENJPLPP_00703	mapZ	Mid-cell-anchored protein Z	8132
+AENJPLPP_00704		ISL3 family transposase ISEfa11	2
+AENJPLPP_00705	sigA	RNA polymerase sigma factor SigA	12520
+AENJPLPP_00706	dnaG	DNA primase	7360
+AENJPLPP_00707	ctpE_1	Calcium-transporting ATPase CtpE	7805
+AENJPLPP_00708		hypothetical protein	782
+AENJPLPP_00709		hypothetical protein	159
+AENJPLPP_00710	ydjP	AB hydrolase superfamily protein YdjP	465
+AENJPLPP_00711	mprF_1	Phosphatidylglycerol lysyltransferase	2750
+AENJPLPP_00712	tuf_1	Elongation factor Tu	4696
+AENJPLPP_00713		hypothetical protein	1305
+AENJPLPP_00714		hypothetical protein	2807
+AENJPLPP_00715	yvgN	Glyoxal reductase	2060
+AENJPLPP_00716		hypothetical protein	141
+AENJPLPP_00717		hypothetical protein	9176
+AENJPLPP_00718	mvaA	3-hydroxy-3-methylglutaryl-coenzyme A reductase	7212
+AENJPLPP_00719	thlA	Acetyl-CoA acetyltransferase	5015
+AENJPLPP_00720	mvaS	Hydroxymethylglutaryl-CoA synthase	4844
+AENJPLPP_00721		hypothetical protein	465
+AENJPLPP_00722		Calcium-transporting ATPase	15641
+AENJPLPP_00723	clsA_1	Major cardiolipin synthase ClsA	4674
+AENJPLPP_00724	thiD	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase	1758
+AENJPLPP_00725		hypothetical protein	37
+AENJPLPP_00726	spxA_2	Regulatory protein Spx	99
+AENJPLPP_00727		hypothetical protein	781
+AENJPLPP_00728		hypothetical protein	214
+AENJPLPP_00729		Putative universal stress protein	957
+AENJPLPP_00730	gmuD_1	6-phospho-beta-glucosidase GmuD	423
+AENJPLPP_00731	gmuC_1	PTS system oligo-beta-mannoside-specific EIIC component	38
+AENJPLPP_00732	gmuR	HTH-type transcriptional regulator GmuR	723
+AENJPLPP_00733	mhqA	Putative ring-cleaving dioxygenase MhqA	171
+AENJPLPP_00734	mhqD	Putative hydrolase MhqD	48
+AENJPLPP_00735	mtnB	Methylthioribulose-1-phosphate dehydratase	23
+AENJPLPP_00736		hypothetical protein	4
+AENJPLPP_00737	gatC_2	PTS system galactitol-specific EIIC component	25
+AENJPLPP_00738		hypothetical protein	3
+AENJPLPP_00739	gatA_2	PTS system galactitol-specific EIIA component	3
+AENJPLPP_00740	lacR_1	Lactose phosphotransferase system repressor	132
+AENJPLPP_00741	lacC_2	Tagatose-6-phosphate kinase	237
+AENJPLPP_00742		putative protein	81
+AENJPLPP_00743		putative HTH-type transcriptional regulator	377
+AENJPLPP_00744		hypothetical protein	179
+AENJPLPP_00745	arsC	Arsenate reductase	163
+AENJPLPP_00746	manR_1	Transcriptional regulator ManR	366
+AENJPLPP_00747	manP_1	PTS system mannose-specific EIIBCA component	103
+AENJPLPP_00748	manP_2	PTS system mannose-specific EIIBCA component	373
+AENJPLPP_00749	dgaF	2-dehydro-3-deoxy-phosphogluconate aldolase	108
+AENJPLPP_00750	dgaE	D-glucosaminate-6-phosphate ammonia lyase	139
+AENJPLPP_00751		Deacetylase	114
+AENJPLPP_00752		hypothetical protein	43
+AENJPLPP_00753		hypothetical protein	49
+AENJPLPP_00754		hypothetical protein	13
+AENJPLPP_00755		hypothetical protein	34
+AENJPLPP_00756		IS110 family transposase ISSpn10	0
+AENJPLPP_00757		hypothetical protein	10
+AENJPLPP_00758		hypothetical protein	208
+AENJPLPP_00759		IS30 family transposase IS1252	2
+AENJPLPP_00760		hypothetical protein	39
+AENJPLPP_00761		hypothetical protein	66
+AENJPLPP_00762		hypothetical protein	177
+AENJPLPP_00763	araD	L-ribulose-5-phosphate 4-epimerase AraD	27
+AENJPLPP_00764	ulaE	L-ribulose-5-phosphate 3-epimerase UlaE	17
+AENJPLPP_00765	sgbH	3-keto-L-gulonate-6-phosphate decarboxylase SgbH	17
+AENJPLPP_00766		hypothetical protein	6
+AENJPLPP_00767	ulaA_2	Ascorbate-specific PTS system EIIC component	11
+AENJPLPP_00768		hypothetical protein	3
+AENJPLPP_00769	ulaG	putative L-ascorbate-6-phosphate lactonase UlaG	5
+AENJPLPP_00770	srlR	Glucitol operon repressor	65
+AENJPLPP_00771		hypothetical protein	1503
+AENJPLPP_00772		hypothetical protein	257
+AENJPLPP_00773		hypothetical protein	2
+AENJPLPP_00774	licC_1	Lichenan permease IIC component	27
+AENJPLPP_00775	ptsG_1	PTS system glucose-specific EIICBA component	9
+AENJPLPP_00776	malH	Maltose-6'-phosphate glucosidase MalH	18
+AENJPLPP_00777	gamP	Putative PTS system glucosamine-specific EIICBA component	6
+AENJPLPP_00778		Carbohydrate deacetylase	1
+AENJPLPP_00779	licT_1	Transcription antiterminator LicT	44
+AENJPLPP_00796	sasA_2	Adaptive-response sensory-kinase SasA	8757
+AENJPLPP_00797	arlR_1	Response regulator ArlR	4089
+AENJPLPP_00798	gnd	6-phosphogluconate dehydrogenase%2C decarboxylating	20245
+AENJPLPP_00799	rpmF_1	50S ribosomal protein L32	2252
+AENJPLPP_00800		hypothetical protein	22881
+AENJPLPP_00801	gltC_1	HTH-type transcriptional regulator GltC	231
+AENJPLPP_00802	pyk	Pyruvate kinase	67049
+AENJPLPP_00803	pfkA	ATP-dependent 6-phosphofructokinase	59251
+AENJPLPP_00804	dnaE	DNA polymerase III subunit alpha	4264
+AENJPLPP_00805		hypothetical protein	654
+AENJPLPP_00806	sbnD_1	Staphyloferrin B transporter	2753
+AENJPLPP_00807		ISL3 family transposase ISEfa5	2
+AENJPLPP_00808	pbuO	Guanine/hypoxanthine permease PbuO	1274
+AENJPLPP_00809	yitU	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU	2700
+AENJPLPP_00810		ISL3 family transposase IS1251	1
+AENJPLPP_00811	penA	Penicillin-binding protein 2B	7268
+AENJPLPP_00812	ybbH_2	putative HTH-type transcriptional regulator YbbH	882
+AENJPLPP_00813	thrS	Threonine--tRNA ligase	16390
+AENJPLPP_00814		putative tautomerase	1427
+AENJPLPP_00815	ziaA	Zinc-transporting ATPase	1293
+AENJPLPP_00816	helD_1	DNA helicase IV	4831
+AENJPLPP_00817		hypothetical protein	496
+AENJPLPP_00818		ISL3 family transposase ISEfa11	0
+AENJPLPP_00819	yeeN	putative transcriptional regulatory protein YeeN	14719
+AENJPLPP_00820	tmcAL	tRNA(Met) cytidine acetate ligase	7876
+AENJPLPP_00821	COQ5_1	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial	13433
+AENJPLPP_00822	rsfS	Ribosomal silencing factor RsfS	7801
+AENJPLPP_00823		hypothetical protein	11207
+AENJPLPP_00824	nadD	Nicotinate-nucleotide adenylyltransferase	10773
+AENJPLPP_00825		RNA-binding protein	2445
+AENJPLPP_00826	yqeH	putative protein YqeH	17310
+AENJPLPP_00827		hypothetical protein	12469
+AENJPLPP_00828	accA	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	27681
+AENJPLPP_00829	accD	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	26753
+AENJPLPP_00830	cfiB	2-oxoglutarate carboxylase small subunit	53148
+AENJPLPP_00831	fabZ_2	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ	15092
+AENJPLPP_00832	accB	Biotin carboxyl carrier protein of acetyl-CoA carboxylase	18568
+AENJPLPP_00833	fabF	3-oxoacyl-[acyl-carrier-protein] synthase 2	37044
+AENJPLPP_00834	fabG_2	3-oxoacyl-[acyl-carrier-protein] reductase FabG	34494
+AENJPLPP_00835	fabD	Malonyl CoA-acyl carrier protein transacylase	30804
+AENJPLPP_00836	acpA	Acyl carrier protein	25125
+AENJPLPP_00837	fabH	3-oxoacyl-[acyl-carrier-protein] synthase 3	34514
+AENJPLPP_00838		hypothetical protein	19343
+AENJPLPP_00839	uvrC_1	UvrABC system protein C	446
+AENJPLPP_00840	ykuJ	putative protein YkuJ	6007
+AENJPLPP_00841	glxR	2-hydroxy-3-oxopropionate reductase	3001
+AENJPLPP_00842		Alpha-monoglucosyldiacylglycerol synthase	2815
+AENJPLPP_00843	dgs	Processive diacylglycerol alpha-glucosyltransferase	2882
+AENJPLPP_00844	ptsI	Phosphoenolpyruvate-protein phosphotransferase	96398
+AENJPLPP_00845	ptsH	Phosphocarrier protein HPr	25027
+AENJPLPP_00846	clpE	ATP-dependent Clp protease ATP-binding subunit ClpE	11256
+AENJPLPP_00847		hypothetical protein	1921
+AENJPLPP_00848		hypothetical protein	64
+AENJPLPP_00849	prfC	Peptide chain release factor 3	7761
+AENJPLPP_00850		hypothetical protein	9639
+AENJPLPP_00851	yhhT	Putative transport protein YhhT	3200
+AENJPLPP_00852		Acetyltransferase	697
+AENJPLPP_00853		hypothetical protein	9780
+AENJPLPP_00854	mutY	Adenine DNA glycosylase	1838
+AENJPLPP_00855	recX	Regulatory protein RecX	580
+AENJPLPP_00856	rlmCD	23S rRNA (uracil-C(5))-methyltransferase RlmCD	3485
+AENJPLPP_00857		Lytic chitin monooxygenase	574
+AENJPLPP_00858	crtK-2	Tryptophan-rich protein TspO	801
+AENJPLPP_00859	tagU_2	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU	7159
+AENJPLPP_00860	cspD	Cold shock protein CspD	8474
+AENJPLPP_00861	sodA	Superoxide dismutase [Mn]	9429
+AENJPLPP_00862		hypothetical protein	910
+AENJPLPP_00863	czcD	Cadmium%2C cobalt and zinc/H(+)-K(+) antiporter	247
+AENJPLPP_00864		hypothetical protein	733
+AENJPLPP_00865	ghrB_1	Glyoxylate/hydroxypyruvate reductase B	532
+AENJPLPP_00866		IS66 family transposase ISRob1	0
+AENJPLPP_00867		hypothetical protein	0
+AENJPLPP_00868		hypothetical protein	26
+AENJPLPP_00869		hypothetical protein	1638
+AENJPLPP_00870	ktrA	Ktr system potassium uptake protein A	4764
+AENJPLPP_00871	vraR	Response regulator protein VraR	2599
+AENJPLPP_00872	liaS	Sensor histidine kinase LiaS	4248
+AENJPLPP_00873		hypothetical protein	4571
+AENJPLPP_00874	greA	Transcription elongation factor GreA	19564
+AENJPLPP_00875	mltG	Endolytic murein transglycosylase	10102
+AENJPLPP_00876	pbpX_1	Putative penicillin-binding protein PbpX	964
+AENJPLPP_00877		IS1182 family transposase ISEfa7	1
+AENJPLPP_00878	wbgU_1	UDP-N-acetylglucosamine 4-epimerase	11270
+AENJPLPP_00879		hypothetical protein	6900
+AENJPLPP_00880	pglH_1	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1%2C4-N-acetyl-D-galactosaminyltransferase	5711
+AENJPLPP_00881		hypothetical protein	4598
+AENJPLPP_00882		hypothetical protein	1007
+AENJPLPP_00883	glyG	Glycosyltransferase GlyG	877
+AENJPLPP_00884	arnC_1	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	3254
+AENJPLPP_00885	rfbB	dTDP-glucose 4%2C6-dehydratase	4488
+AENJPLPP_00886	ispD	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	3855
+AENJPLPP_00887		hypothetical protein	1391
+AENJPLPP_00888		hypothetical protein	1019
+AENJPLPP_00889	wbbD_1	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1%2C3-galactosyltransferase	2344
+AENJPLPP_00890	wbbD_2	UDP-Gal:alpha-D-GlcNAc-diphosphoundecaprenol beta-1%2C3-galactosyltransferase	462
+AENJPLPP_00891		hypothetical protein	6732
+AENJPLPP_00892		IS30 family transposase IS6770	0
+AENJPLPP_00893	arnC_2	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	19208
+AENJPLPP_00894		hypothetical protein	7311
+AENJPLPP_00895	btuD_1	Vitamin B12 import ATP-binding protein BtuD	5164
+AENJPLPP_00896	tagG	Teichoic acid translocation permease protein TagG	2470
+AENJPLPP_00897		hypothetical protein	6388
+AENJPLPP_00898		hypothetical protein	12706
+AENJPLPP_00899	rmlD	dTDP-4-dehydrorhamnose reductase	7059
+AENJPLPP_00900	rmlB	dTDP-glucose 4%2C6-dehydratase	18008
+AENJPLPP_00901	rfbC	dTDP-4-dehydrorhamnose 3%2C5-epimerase	3913
+AENJPLPP_00902	rfbA	Glucose-1-phosphate thymidylyltransferase 1	7311
+AENJPLPP_00903		hypothetical protein	3710
+AENJPLPP_00904		hypothetical protein	2031
+AENJPLPP_00905		hypothetical protein	2722
+AENJPLPP_00906	tagO	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase	2465
+AENJPLPP_00907		hypothetical protein	3163
+AENJPLPP_00908	map	Methionine aminopeptidase 1	7894
+AENJPLPP_00909		Flavodoxin	4846
+AENJPLPP_00910		hypothetical protein	306
+AENJPLPP_00911	pepS	Aminopeptidase PepS	4102
+AENJPLPP_00912		hypothetical protein	46
+AENJPLPP_00913		hypothetical protein	0
+AENJPLPP_00914		hypothetical protein	0
+AENJPLPP_00915		hypothetical protein	2
+AENJPLPP_00916		IS3 family transposase ISEnfa3	0
+AENJPLPP_00917		IS3 family transposase ISEfa8	0
+AENJPLPP_00918		IS3 family transposase ISEfa8	0
+AENJPLPP_00920		hypothetical protein	4
+AENJPLPP_00921		hypothetical protein	0
+AENJPLPP_00922		hypothetical protein	0
+AENJPLPP_00923		hypothetical protein	0
+AENJPLPP_00924		hypothetical protein	13
+AENJPLPP_00925		hypothetical protein	0
+AENJPLPP_00926		hypothetical protein	0
+AENJPLPP_00927		hypothetical protein	0
+AENJPLPP_00928		hypothetical protein	17
+AENJPLPP_00929		hypothetical protein	40
+AENJPLPP_00930		hypothetical protein	79
+AENJPLPP_00931		hypothetical protein	1
+AENJPLPP_00932		hypothetical protein	6
+AENJPLPP_00933		hypothetical protein	6
+AENJPLPP_00934		hypothetical protein	6
+AENJPLPP_00935		hypothetical protein	6
+AENJPLPP_00936		hypothetical protein	3
+AENJPLPP_00937		hypothetical protein	5
+AENJPLPP_00938		hypothetical protein	2
+AENJPLPP_00939		hypothetical protein	17
+AENJPLPP_00940		hypothetical protein	1
+AENJPLPP_00941		hypothetical protein	55
+AENJPLPP_00942		hypothetical protein	15
+AENJPLPP_00943		hypothetical protein	27
+AENJPLPP_00944		hypothetical protein	3
+AENJPLPP_00945		hypothetical protein	2
+AENJPLPP_00946		hypothetical protein	47
+AENJPLPP_00947		hypothetical protein	21
+AENJPLPP_00948		hypothetical protein	13
+AENJPLPP_00949		hypothetical protein	1
+AENJPLPP_00950		hypothetical protein	451
+AENJPLPP_00951		hypothetical protein	66
+AENJPLPP_00952		hypothetical protein	22
+AENJPLPP_00953		hypothetical protein	0
+AENJPLPP_00954		hypothetical protein	0
+AENJPLPP_00955		hypothetical protein	0
+AENJPLPP_00956		hypothetical protein	0
+AENJPLPP_00957		hypothetical protein	23
+AENJPLPP_00958		hypothetical protein	8
+AENJPLPP_00959		hypothetical protein	31
+AENJPLPP_00960		hypothetical protein	7
+AENJPLPP_00961		hypothetical protein	28
+AENJPLPP_00962		hypothetical protein	3
+AENJPLPP_00963		hypothetical protein	20
+AENJPLPP_00964		hypothetical protein	13
+AENJPLPP_00965		hypothetical protein	3
+AENJPLPP_00966		hypothetical protein	207
+AENJPLPP_00967		hypothetical protein	114
+AENJPLPP_00968		hypothetical protein	92
+AENJPLPP_00969		hypothetical protein	0
+AENJPLPP_00970		hypothetical protein	22
+AENJPLPP_00971		hypothetical protein	2
+AENJPLPP_00972		hypothetical protein	8
+AENJPLPP_00973		hypothetical protein	22
+AENJPLPP_00974		hypothetical protein	79
+AENJPLPP_00975		hypothetical protein	13
+AENJPLPP_00976		hypothetical protein	35
+AENJPLPP_00977		hypothetical protein	169
+AENJPLPP_00978		hypothetical protein	963
+AENJPLPP_00979		hypothetical protein	66
+AENJPLPP_00980		hypothetical protein	218
+AENJPLPP_00981		hypothetical protein	25
+AENJPLPP_00982		hypothetical protein	882
+AENJPLPP_00983		hypothetical protein	384
+AENJPLPP_00984		hypothetical protein	169
+AENJPLPP_00985	xerC_5	Tyrosine recombinase XerC	1115
+AENJPLPP_00986	groL	60 kDa chaperonin	23984
+AENJPLPP_00987	groS	10 kDa chaperonin	3019
+AENJPLPP_00988	MroQ	Membrane-embedded CAAX protease MroQ	1664
+AENJPLPP_00989	gmuC_2	PTS system oligo-beta-mannoside-specific EIIC component	162
+AENJPLPP_00990		hypothetical protein	481
+AENJPLPP_00991	yycJ	Putative metallo-hydrolase YycJ	5318
+AENJPLPP_00992		hypothetical protein	3475
+AENJPLPP_00993		hypothetical protein	4923
+AENJPLPP_00994	walK_1	Sensor histidine kinase WalK	5042
+AENJPLPP_00995	walR_1	Transcriptional regulatory protein WalR	3635
+AENJPLPP_00996		DegV domain-containing protein	9738
+AENJPLPP_00997		hypothetical protein	3741
+AENJPLPP_00999		IS30 family transposase IS1252	127
+AENJPLPP_01000		IS30 family transposase IS1252	0
+AENJPLPP_01001		hypothetical protein	26
+AENJPLPP_01002		hypothetical protein	27
+AENJPLPP_01003	pisA	Bacteriocin piscicolin-126	30
+AENJPLPP_01004		hypothetical protein	11174
+AENJPLPP_01005	opuAA	Glycine betaine transport ATP-binding protein OpuAA	4549
+AENJPLPP_01006		hypothetical protein	510
+AENJPLPP_01007		hypothetical protein	26
+AENJPLPP_01008	feoB	Fe(2+) transporter FeoB	294
+AENJPLPP_01009		hypothetical protein	63
+AENJPLPP_01010	nrdH	Glutaredoxin-like protein NrdH	3905
+AENJPLPP_01011	nrdE2	Ribonucleoside-diphosphate reductase subunit alpha 2	15781
+AENJPLPP_01012	nrdF	Ribonucleoside-diphosphate reductase 2 subunit beta	8564
+AENJPLPP_01013		hypothetical protein	909
+AENJPLPP_01014	sapB	Protein SapB	393
+AENJPLPP_01015	nagB	Glucosamine-6-phosphate deaminase	895
+AENJPLPP_01016	ybiT_1	putative ABC transporter ATP-binding protein YbiT	2459
+AENJPLPP_01017		IS982 family transposase ISEfm1	56
+AENJPLPP_01018		putative transporter	432
+AENJPLPP_01019		hypothetical protein	111
+AENJPLPP_01020	rplL	50S ribosomal protein L7/L12	91636
+AENJPLPP_01021	rplJ	50S ribosomal protein L10	176543
+AENJPLPP_01022	rplA	50S ribosomal protein L1	43843
+AENJPLPP_01023	rplK	50S ribosomal protein L11	52822
+AENJPLPP_01024	sdhB	L-serine dehydratase%2C beta chain	1077
+AENJPLPP_01025	sdhA	L-serine dehydratase%2C alpha chain	1407
+AENJPLPP_01026		Lactate 2-monooxygenase	1287
+AENJPLPP_01027		hypothetical protein	707
+AENJPLPP_01028	nusG	Transcription termination/antitermination protein NusG	5137
+AENJPLPP_01029	secE	Protein translocase subunit SecE	103
+AENJPLPP_01030	rpmG3	50S ribosomal protein L33 3	498
+AENJPLPP_01031		hypothetical protein	1691
+AENJPLPP_01032	queT_1	Queuosine precursor transporter QueT	1505
+AENJPLPP_01033	ytlR	Putative lipid kinase YtlR	1125
+AENJPLPP_01034		hypothetical protein	177
+AENJPLPP_01035		hypothetical protein	143
+AENJPLPP_01036	lnrL	Linearmycin resistance ATP-binding protein LnrL	50
+AENJPLPP_01037		hypothetical protein	317
+AENJPLPP_01038	lnrK	Transcriptional regulatory protein LnrK	176
+AENJPLPP_01039		hypothetical protein	659
+AENJPLPP_01040	recD2	ATP-dependent RecD-like DNA helicase	4120
+AENJPLPP_01041	pspA	Phosphoserine phosphatase 1	1734
+AENJPLPP_01042	trmL	tRNA (cytidine(34)-2'-O)-methyltransferase	992
+AENJPLPP_01043	rlmA	23S rRNA (guanine(745)-N(1))-methyltransferase	590
+AENJPLPP_01044	cutC	Copper homeostasis protein CutC	1825
+AENJPLPP_01045	mgtE	Magnesium transporter MgtE	4991
+AENJPLPP_01046		hypothetical protein	4452
+AENJPLPP_01047	ppnKA	NAD kinase 1	1219
+AENJPLPP_01048	yjbM	GTP pyrophosphokinase YjbM	823
+AENJPLPP_01049	yjbK	Putative triphosphatase YjbK	864
+AENJPLPP_01050		hypothetical protein	6857
+AENJPLPP_01051		ISL3 family transposase IS1251	0
+AENJPLPP_01052		ISL3 family transposase IS1251	0
+AENJPLPP_01053	pepF1_1	Oligoendopeptidase F%2C plasmid	8756
+AENJPLPP_01054		hypothetical protein	591
+AENJPLPP_01055	mecA	Adapter protein MecA 1	4936
+AENJPLPP_01056	spxA_3	Regulatory protein Spx	6078
+AENJPLPP_01057	yfnB_1	Putative HAD-hydrolase YfnB	721
+AENJPLPP_01058	rapA	RNA polymerase-associated protein RapA	8991
+AENJPLPP_01059		hypothetical protein	2023
+AENJPLPP_01060		hypothetical protein	4223
+AENJPLPP_01061	sbcD	Nuclease SbcCD subunit D	835
+AENJPLPP_01062	plsC	1-acyl-sn-glycerol-3-phosphate acyltransferase	1522
+AENJPLPP_01063	yfiC	tRNA1(Val) (adenine(37)-N6)-methyltransferase	450
+AENJPLPP_01064		hypothetical protein	361
+AENJPLPP_01065	oatA	O-acetyltransferase OatA	14360
+AENJPLPP_01066		hypothetical protein	7307
+AENJPLPP_01067	aspS	Aspartate--tRNA ligase	16932
+AENJPLPP_01068	hisS	Histidine--tRNA ligase	7171
+AENJPLPP_01069	iolS	Aldo-keto reductase IolS	1761
+AENJPLPP_01070	cypC	Fatty-acid peroxygenase	1119
+AENJPLPP_01071	dtd	D-aminoacyl-tRNA deacylase	2746
+AENJPLPP_01072	relA	GTP pyrophosphokinase	27759
+AENJPLPP_01073	rsmE	Ribosomal RNA small subunit methyltransferase E	1215
+AENJPLPP_01074	prmA	Ribosomal protein L11 methyltransferase	1137
+AENJPLPP_01075		hypothetical protein	530
+AENJPLPP_01076		Putative 3-methyladenine DNA glycosylase	946
+AENJPLPP_01077		putative AAA domain-containing protein	1176
+AENJPLPP_01078		hypothetical protein	187
+AENJPLPP_01079		Putative universal stress protein	2762
+AENJPLPP_01080		hypothetical protein	484
+AENJPLPP_01081	ybiT_2	putative ABC transporter ATP-binding protein YbiT	759
+AENJPLPP_01082	ackA	Acetate kinase	8097
+AENJPLPP_01083		hypothetical protein	7775
+AENJPLPP_01084		hypothetical protein	23
+AENJPLPP_01085		hypothetical protein	21
+AENJPLPP_01086		hypothetical protein	18
+AENJPLPP_01087		hypothetical protein	19
+AENJPLPP_01088		hypothetical protein	5
+AENJPLPP_01089		hypothetical protein	39
+AENJPLPP_01090	comGA	ComG operon protein 1	45
+AENJPLPP_01091	adeC	Adenine deaminase	659
+AENJPLPP_01092	trmB	tRNA (guanine-N(7)-)-methyltransferase	969
+AENJPLPP_01093	thiK	Thiamine kinase	2749
+AENJPLPP_01094		hypothetical protein	1326
+AENJPLPP_01095	ecsA	ABC-type transporter ATP-binding protein EcsA	710
+AENJPLPP_01096	hit	Protein hit	1016
+AENJPLPP_01097		hypothetical protein	1365
+AENJPLPP_01098	prsA_2	Foldase protein PrsA	7303
+AENJPLPP_01099	yhaM	3'-5' exoribonuclease YhaM	2981
+AENJPLPP_01100		hypothetical protein	3615
+AENJPLPP_01101		hypothetical protein	642
+AENJPLPP_01102	ywpJ_1	Phosphatase YwpJ	475
+AENJPLPP_01103		hypothetical protein	174
+AENJPLPP_01104	yjmB	putative symporter YjmB	31
+AENJPLPP_01105	xynB	Beta-xylosidase	131
+AENJPLPP_01106		hypothetical protein	8
+AENJPLPP_01107	pemA	Pectinesterase A	37
+AENJPLPP_01108		hypothetical protein	27
+AENJPLPP_01109		hypothetical protein	50
+AENJPLPP_01110	yteR	Unsaturated rhamnogalacturonyl hydrolase YteR	25
+AENJPLPP_01111	lipO	Lipoprotein LipO	50
+AENJPLPP_01112		hypothetical protein	8
+AENJPLPP_01113	yteP_1	putative multiple-sugar transport system permease YteP	13
+AENJPLPP_01114		hypothetical protein	12
+AENJPLPP_01115	araQ_2	L-arabinose transport system permease protein AraQ	15
+AENJPLPP_01116	yesS	HTH-type transcriptional regulator YesS	84
+AENJPLPP_01117	exuR_2	putative HTH-type transcriptional repressor ExuR	539
+AENJPLPP_01118	uxaB	Altronate oxidoreductase	64
+AENJPLPP_01119	uxaA	Altronate dehydratase	142
+AENJPLPP_01120	uxaC	Uronate isomerase	171
+AENJPLPP_01121	rhgT	Rhamnogalacturonan acetylesterase RhgT	142
+AENJPLPP_01122		hypothetical protein	269
+AENJPLPP_01123		Putative multidrug export ATP-binding/permease protein	349
+AENJPLPP_01124		hypothetical protein	8736
+AENJPLPP_01125	pbpF	Penicillin-binding protein 1F	4466
+AENJPLPP_01126	rluD_2	Ribosomal large subunit pseudouridine synthase D	1178
+AENJPLPP_01127	gmuE_1	Putative fructokinase	321
+AENJPLPP_01128	mngB	Mannosylglycerate hydrolase	237
+AENJPLPP_01129		hypothetical protein	180
+AENJPLPP_01130	araR_1	Arabinose metabolism transcriptional repressor	522
+AENJPLPP_01131		hypothetical protein	537
+AENJPLPP_01132	rhaR_3	HTH-type transcriptional activator RhaR	326
+AENJPLPP_01133		hypothetical protein	269
+AENJPLPP_01134		hypothetical protein	69
+AENJPLPP_01135		hypothetical protein	93
+AENJPLPP_01136	araQ_3	L-arabinose transport system permease protein AraQ	16
+AENJPLPP_01137	yteP_2	putative multiple-sugar transport system permease YteP	18
+AENJPLPP_01138	rluB_2	Ribosomal large subunit pseudouridine synthase B	2734
+AENJPLPP_01139	murJ_2	Lipid II flippase MurJ	1512
+AENJPLPP_01140		hypothetical protein	84
+AENJPLPP_01141	murE	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase	3976
+AENJPLPP_01142	licC_2	Lichenan permease IIC component	195
+AENJPLPP_01143		hypothetical protein	29
+AENJPLPP_01144	licA_1	Lichenan-specific phosphotransferase enzyme IIA component	8
+AENJPLPP_01145	licR_2	putative licABCH operon regulator	62
+AENJPLPP_01146		hypothetical protein	9
+AENJPLPP_01147		hypothetical protein	264
+AENJPLPP_01148		hypothetical protein	802
+AENJPLPP_01149		hypothetical protein	1065
+AENJPLPP_01150		hypothetical protein	1437
+AENJPLPP_01151		hypothetical protein	113
+AENJPLPP_01152		hypothetical protein	1342
+AENJPLPP_01153		putative ABC transporter ATP-binding protein	39091
+AENJPLPP_01154		putative ABC transporter ATP-binding protein	30032
+AENJPLPP_01155		hypothetical protein	964
+AENJPLPP_01156	leuS	Leucine--tRNA ligase	20918
+AENJPLPP_01157		Muramidase-2	7730
+AENJPLPP_01158		hypothetical protein	1354
+AENJPLPP_01159		hypothetical protein	4632
+AENJPLPP_01160		hypothetical protein	3856
+AENJPLPP_01161		putative ABC transporter ATP-binding protein	5874
+AENJPLPP_01162		putative ABC transporter ATP-binding protein	4690
+AENJPLPP_01163		hypothetical protein	496
+AENJPLPP_01164		hypothetical protein	1546
+AENJPLPP_01165	bmr3	Multidrug resistance protein 3	89
+AENJPLPP_01166		ISL3 family transposase ISEfa5	0
+AENJPLPP_01167	metK	S-adenosylmethionine synthase	7895
+AENJPLPP_01194		ISL3 family transposase ISEfa11	0
+AENJPLPP_01195	lysS	Lysine--tRNA ligase	36445
+AENJPLPP_01196	dusB	tRNA-dihydrouridine synthase B	2948
+AENJPLPP_01197	hslO	33 kDa chaperonin	2872
+AENJPLPP_01198	ftsH	ATP-dependent zinc metalloprotease FtsH	24324
+AENJPLPP_01199	hpt	Hypoxanthine-guanine phosphoribosyltransferase	5305
+AENJPLPP_01200	tilS	tRNA(Ile)-lysidine synthase	2370
+AENJPLPP_01201	pnp_1	Polyribonucleotide nucleotidyltransferase	8315
+AENJPLPP_01202		hypothetical protein	3707
+AENJPLPP_01203		hypothetical protein	896
+AENJPLPP_01204	murJ_3	Lipid II flippase MurJ	2351
+AENJPLPP_01205	mfd	Transcription-repair-coupling factor	9374
+AENJPLPP_01206	pth	Peptidyl-tRNA hydrolase	697
+AENJPLPP_01207	ldh_2	L-lactate dehydrogenase	78765
+AENJPLPP_01208		hypothetical protein	4319
+AENJPLPP_01209		putative transcriptional regulatory protein	1877
+AENJPLPP_01210		hypothetical protein	315
+AENJPLPP_01211	pepF1_2	Oligoendopeptidase F%2C plasmid	2415
+AENJPLPP_01212		hypothetical protein	66948
+AENJPLPP_01213		hypothetical protein	1326
+AENJPLPP_01214	mreC	Cell shape-determining protein MreC	4878
+AENJPLPP_01215	thiN	Thiamine pyrophosphokinase	2974
+AENJPLPP_01216	rpe_1	Ribulose-phosphate 3-epimerase	1133
+AENJPLPP_01217	rsgA	Small ribosomal subunit biogenesis GTPase RsgA	3595
+AENJPLPP_01218	prkC	Serine/threonine-protein kinase PrkC	18509
+AENJPLPP_01219	stp	Serine/threonine phosphatase stp	6432
+AENJPLPP_01220	rsmB	Ribosomal RNA small subunit methyltransferase B	6150
+AENJPLPP_01221	fmt	Methionyl-tRNA formyltransferase	3615
+AENJPLPP_01222	def_1	Peptide deformylase	1744
+AENJPLPP_01223	priA	primosomal protein N'	4623
+AENJPLPP_01224	rpoZ	DNA-directed RNA polymerase subunit omega	4444
+AENJPLPP_01225	gmk_2	Guanylate kinase	9286
+AENJPLPP_01226		hypothetical protein	807
+AENJPLPP_01227		hypothetical protein	1720
+AENJPLPP_01228		hypothetical protein	382
+AENJPLPP_01229		hypothetical protein	719
+AENJPLPP_01230		hypothetical protein	2897
+AENJPLPP_01231	thiT	Thiamine transporter ThiT	602
+AENJPLPP_01232	prs	Ribose-phosphate pyrophosphokinase	9120
+AENJPLPP_01233	glmU	Bifunctional protein GlmU	12905
+AENJPLPP_01234	purR_1	Pur operon repressor	3672
+AENJPLPP_01235	znuB	High-affinity zinc uptake system membrane protein ZnuB	693
+AENJPLPP_01236	znuC	High-affinity zinc uptake system ATP-binding protein ZnuC	871
+AENJPLPP_01237	znuA	High-affinity zinc uptake system binding-protein ZnuA	1816
+AENJPLPP_01238	ispE	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	3842
+AENJPLPP_01239	mprF_2	Phosphatidylglycerol lysyltransferase	4863
+AENJPLPP_01240	proC	Pyrroline-5-carboxylate reductase	1584
+AENJPLPP_01241	rny	Ribonuclease Y	20414
+AENJPLPP_01242	recA	Protein RecA	13835
+AENJPLPP_01243	cinA	Putative competence-damage inducible protein	3063
+AENJPLPP_01244	pgsA	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	4135
+AENJPLPP_01245		hypothetical protein	5191
+AENJPLPP_01246		hypothetical protein	2644
+AENJPLPP_01247		hypothetical protein	1499
+AENJPLPP_01248	mscL	Large-conductance mechanosensitive channel	2035
+AENJPLPP_01249	elaA	Protein ElaA	1014
+AENJPLPP_01250	veg	Protein Veg	3083
+AENJPLPP_01251	sigH	RNA polymerase sigma-H factor	88
+AENJPLPP_01252		hypothetical protein	2456
+AENJPLPP_01253		Putative TrmH family tRNA/rRNA methyltransferase	4004
+AENJPLPP_01254	mrnC	Mini-ribonuclease 3	1730
+AENJPLPP_01255	cysS	Cysteine--tRNA ligase	5881
+AENJPLPP_01256	cysE	Serine acetyltransferase	2051
+AENJPLPP_01257	gltX	Glutamate--tRNA ligase	18579
+AENJPLPP_01258	yacL	putative PIN and TRAM-domain containing protein YacL	3470
+AENJPLPP_01259	radA	DNA repair protein RadA	5149
+AENJPLPP_01260	dut	Deoxyuridine 5'-triphosphate nucleotidohydrolase	1796
+AENJPLPP_01261	proB	Glutamate 5-kinase 1	1614
+AENJPLPP_01262	proA	Gamma-glutamyl phosphate reductase	4491
+AENJPLPP_01263		hypothetical protein	1988
+AENJPLPP_01264		hypothetical protein	412
+AENJPLPP_01265	yfmO_1	Multidrug efflux protein YfmO	30
+AENJPLPP_01266	yfmO_2	Multidrug efflux protein YfmO	2
+AENJPLPP_01267		hypothetical protein	828
+AENJPLPP_01268		hypothetical protein	445
+AENJPLPP_01269	msr(C)	ABC-F type ribosomal protection protein Msr(C)	286
+AENJPLPP_01270	yodC_1	Putative NAD(P)H nitroreductase YodC	419
+AENJPLPP_01271	yodC_2	Putative NAD(P)H nitroreductase YodC	370
+AENJPLPP_01272		hypothetical protein	636
+AENJPLPP_01273		hypothetical protein	15768
+AENJPLPP_01274		putative oxidoreductase	459
+AENJPLPP_01275		Putative acetyltransferase	74
+AENJPLPP_01276	hdfR_2	HTH-type transcriptional regulator HdfR	358
+AENJPLPP_01277	sacY	Levansucrase and sucrase synthesis operon antiterminator	1158
+AENJPLPP_01278	ptsG_2	PTS system glucose-specific EIICBA component	1570
+AENJPLPP_01279		hypothetical protein	15
+AENJPLPP_01280	qorB	Quinone oxidoreductase 2	128
+AENJPLPP_01281	ywnA	Putative HTH-type transcriptional regulator YwnA	362
+AENJPLPP_01282		hypothetical protein	178
+AENJPLPP_01283		hypothetical protein	178
+AENJPLPP_01284		hypothetical protein	96
+AENJPLPP_01285	xylB_1	Xylulose kinase	7
+AENJPLPP_01286	ygaZ_2	Inner membrane protein YgaZ	599
+AENJPLPP_01287		hypothetical protein	420
+AENJPLPP_01288		Zinc-type alcohol dehydrogenase-like protein	953
+AENJPLPP_01289	dus	putative tRNA-dihydrouridine synthase	3230
+AENJPLPP_01290	yadH	Inner membrane transport permease YadH	576
+AENJPLPP_01291	yadG	putative ABC transporter ATP-binding protein YadG	2608
+AENJPLPP_01292		hypothetical protein	38
+AENJPLPP_01293	mutS_1	DNA mismatch repair protein MutS	763
+AENJPLPP_01294	phoR_2	Alkaline phosphatase synthesis sensor protein PhoR	1094
+AENJPLPP_01295	arlR_2	Response regulator ArlR	491
+AENJPLPP_01296		hypothetical protein	67
+AENJPLPP_01297	bcrA_1	Bacitracin transport ATP-binding protein BcrA	276
+AENJPLPP_01298		hypothetical protein	4
+AENJPLPP_01299		hypothetical protein	137
+AENJPLPP_01300		hypothetical protein	5
+AENJPLPP_01301		hypothetical protein	5
+AENJPLPP_01302		hypothetical protein	10
+AENJPLPP_01303		hypothetical protein	111
+AENJPLPP_01304		hypothetical protein	0
+AENJPLPP_01305		hypothetical protein	47
+AENJPLPP_01306		hypothetical protein	1226
+AENJPLPP_01307		hypothetical protein	100
+AENJPLPP_01308	hhaIM	Modification methylase HhaI	3
+AENJPLPP_01309		hypothetical protein	4
+AENJPLPP_01310		hypothetical protein	4
+AENJPLPP_01311		hypothetical protein	8
+AENJPLPP_01312		hypothetical protein	7
+AENJPLPP_01313		hypothetical protein	0
+AENJPLPP_01314		hypothetical protein	23
+AENJPLPP_01315		hypothetical protein	0
+AENJPLPP_01316		hypothetical protein	18
+AENJPLPP_01317		hypothetical protein	41
+AENJPLPP_01318		hypothetical protein	53
+AENJPLPP_01319		hypothetical protein	138
+AENJPLPP_01320		hypothetical protein	925
+AENJPLPP_01321	ribZ_1	Riboflavin transporter RibZ	624
+AENJPLPP_01322		hypothetical protein	138
+AENJPLPP_01323		hypothetical protein	202
+AENJPLPP_01324	noxE	NADH oxidase	98
+AENJPLPP_01325		hypothetical protein	2535
+AENJPLPP_01326		hypothetical protein	86
+AENJPLPP_01327	rhaR_4	HTH-type transcriptional activator RhaR	186
+AENJPLPP_01328		hypothetical protein	10
+AENJPLPP_01329		hypothetical protein	5
+AENJPLPP_01330		hypothetical protein	124
+AENJPLPP_01331		hypothetical protein	50
+AENJPLPP_01332		ISL3 family transposase IS1251	147
+AENJPLPP_01333		hypothetical protein	898
+AENJPLPP_01334		hypothetical protein	32
+AENJPLPP_01335		hypothetical protein	40
+AENJPLPP_01336		hypothetical protein	759
+AENJPLPP_01337	yjiA	P-loop guanosine triphosphatase YjiA	466
+AENJPLPP_01338	rpmGA_2	50S ribosomal protein L33 1	40
+AENJPLPP_01339		hypothetical protein	215
+AENJPLPP_01340	rpmF_2	50S ribosomal protein L32	15
+AENJPLPP_01341	rpsN2_1	Alternate 30S ribosomal protein S14	90
+AENJPLPP_01342	ndvA	Beta-(1-->2)glucan export ATP-binding/permease protein NdvA	308
+AENJPLPP_01343	btuD_2	Vitamin B12 import ATP-binding protein BtuD	149
+AENJPLPP_01344		hypothetical protein	52
+AENJPLPP_01345	btuD_3	Vitamin B12 import ATP-binding protein BtuD	12
+AENJPLPP_01346	ykoD	Putative HMP/thiamine import ATP-binding protein YkoD	23
+AENJPLPP_01347		hypothetical protein	25
+AENJPLPP_01348		hypothetical protein	201
+AENJPLPP_01349		hypothetical protein	12
+AENJPLPP_01350		hypothetical protein	27
+AENJPLPP_01351	ssaB_1	Manganese ABC transporter substrate-binding lipoprotein	511
+AENJPLPP_01352	mntD	Manganese transport system membrane protein MntD	239
+AENJPLPP_01353		hypothetical protein	76
+AENJPLPP_01354		IS110 family transposase ISBth13	0
+AENJPLPP_01355	scaC_1	Manganese import ATP-binding protein ScaC	402
+AENJPLPP_01356	xerC_6	Tyrosine recombinase XerC	232
+AENJPLPP_01357	rpsI	30S ribosomal protein S9	35827
+AENJPLPP_01358	rplM	50S ribosomal protein L13	59724
+AENJPLPP_01359	dps	DNA protection during starvation protein	20428
+AENJPLPP_01360	xylB_2	Xylulose kinase	1068
+AENJPLPP_01361	comC	Type 4 prepilin-like proteins leader peptide-processing enzyme	115
+AENJPLPP_01362	msrA_2	Peptide methionine sulfoxide reductase MsrA	153
+AENJPLPP_01363	yvdM_1	Beta-phosphoglucomutase	63
+AENJPLPP_01364	glxK	Glycerate kinase	144
+AENJPLPP_01365	ycjT	Kojibiose phosphorylase	78
+AENJPLPP_01366	rifL	Putative UDP-kanosamine synthase oxidoreductase subunit	16
+AENJPLPP_01367		hypothetical protein	7
+AENJPLPP_01368	tdh	L-threonine 3-dehydrogenase	5
+AENJPLPP_01369	ycjP	Inner membrane ABC transporter permease protein YcjP	18
+AENJPLPP_01370	ycjO	Inner membrane ABC transporter permease protein YcjO	34
+AENJPLPP_01371		hypothetical protein	14
+AENJPLPP_01372	ycjM	Glucosylglycerate phosphorylase	30
+AENJPLPP_01373	purR_2	HTH-type transcriptional repressor PurR	1238
+AENJPLPP_01374	rpoC	DNA-directed RNA polymerase subunit beta'	65425
+AENJPLPP_01375	rpoB	DNA-directed RNA polymerase subunit beta	67062
+AENJPLPP_01376		hypothetical protein	484
+AENJPLPP_01377		hypothetical protein	197
+AENJPLPP_01378	yxdL_1	ABC transporter ATP-binding protein YxdL	300
+AENJPLPP_01379	birA	Bifunctional ligase/repressor BirA	1935
+AENJPLPP_01380		hypothetical protein	1434
+AENJPLPP_01381		hypothetical protein	10370
+AENJPLPP_01382	hepT	Heptaprenyl diphosphate synthase component 2	2079
+AENJPLPP_01383		hypothetical protein	801
+AENJPLPP_01384		hypothetical protein	798
+AENJPLPP_01385	norW	Nitric oxide reductase FlRd-NAD(+) reductase	6192
+AENJPLPP_01386		hypothetical protein	7155
+AENJPLPP_01387	apbE	FAD:protein FMN transferase	1425
+AENJPLPP_01388	menA	1%2C4-dihydroxy-2-naphthoate octaprenyltransferase	271
+AENJPLPP_01389	gor	Glutathione reductase	7397
+AENJPLPP_01390		hypothetical protein	5768
+AENJPLPP_01391	rlhA	23S rRNA 5-hydroxycytidine synthase	4700
+AENJPLPP_01392	clpC	Negative regulator of genetic competence ClpC/MecB	9527
+AENJPLPP_01393	ctsR	Transcriptional regulator CtsR	847
+AENJPLPP_01403	srrA_2	Transcriptional regulatory protein SrrA	2140
+AENJPLPP_01404	rcsC	Sensor histidine kinase RcsC	1416
+AENJPLPP_01405	serS	Serine--tRNA ligase	4876
+AENJPLPP_01406	guaB	Inosine-5'-monophosphate dehydrogenase	14344
+AENJPLPP_01407		hypothetical protein	6647
+AENJPLPP_01408	ychF	Ribosome-binding ATPase YchF	9819
+AENJPLPP_01409		hypothetical protein	898
+AENJPLPP_01410	spo0J	Stage 0 sporulation protein J	4076
+AENJPLPP_01411	soj_1	Sporulation initiation inhibitor protein Soj	3461
+AENJPLPP_01412	rsmG	Ribosomal RNA small subunit methyltransferase G	2143
+AENJPLPP_01413	mnmG	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG	8715
+AENJPLPP_01414	mnmE_1	tRNA modification GTPase MnmE	1119
+AENJPLPP_01415	mnmE_2	tRNA modification GTPase MnmE	2500
+AENJPLPP_01416		hypothetical protein	120
+AENJPLPP_01417		hypothetical protein	5715
+AENJPLPP_01418	misCA	Membrane protein insertase MisCA	6298
+AENJPLPP_01419	rnpA	Ribonuclease P protein component	1641
+AENJPLPP_01420	rpmH	50S ribosomal protein L34	1470
+AENJPLPP_01421	dnaA	Chromosomal replication initiator protein DnaA	9742
+AENJPLPP_01422	dnaN	Beta sliding clamp	5144
+AENJPLPP_01423		hypothetical protein	1198
+AENJPLPP_01424	recF	DNA replication and repair protein RecF	6586
+AENJPLPP_01425	gyrB	DNA gyrase subunit B	16230
+AENJPLPP_01426	gyrA	DNA gyrase subunit A	34718
+AENJPLPP_01427	rpsF	30S ribosomal protein S6	12829
+AENJPLPP_01428	ssb_1	Single-stranded DNA-binding protein	31026
+AENJPLPP_01429	rpsR	30S ribosomal protein S18	13094
+AENJPLPP_01430		hypothetical protein	1
+AENJPLPP_01431	gdpP	Cyclic-di-AMP phosphodiesterase GdpP	4440
+AENJPLPP_01432	rplI	50S ribosomal protein L9	2509
+AENJPLPP_01433	dnaC	Replicative DNA helicase	3893
+AENJPLPP_01434	purA	Adenylosuccinate synthetase	10506
+AENJPLPP_01435		DegV domain-containing protein	4841
+AENJPLPP_01436	ybiT_3	putative ABC transporter ATP-binding protein YbiT	10620
+AENJPLPP_01437		hypothetical protein	1942
+AENJPLPP_01438	pox5	Pyruvate oxidase	1285
+AENJPLPP_01439	zupT	Zinc transporter ZupT	1103
+AENJPLPP_01440		hypothetical protein	672
+AENJPLPP_01441		Potassium channel	667
+AENJPLPP_01442		hypothetical protein	8
+AENJPLPP_01443		hypothetical protein	295
+AENJPLPP_01444		hypothetical protein	1200
+AENJPLPP_01445		hypothetical protein	1274
+AENJPLPP_01446		hypothetical protein	49
+AENJPLPP_01447		hypothetical protein	92
+AENJPLPP_01448		hypothetical protein	6
+AENJPLPP_01449		hypothetical protein	111
+AENJPLPP_01450	yvdM_2	Beta-phosphoglucomutase	480
+AENJPLPP_01451	lacR_2	Lactose phosphotransferase system repressor	498
+AENJPLPP_01452	lacG_2	6-phospho-beta-galactosidase	41
+AENJPLPP_01453	lacF_3	PTS system lactose-specific EIIA component	21
+AENJPLPP_01454	lacE_2	PTS system lactose-specific EIICB component	36
+AENJPLPP_01455		hypothetical protein	150
+AENJPLPP_01456	guaA_1	GMP synthase [glutamine-hydrolyzing]	50479
+AENJPLPP_01457	coaA	Pantothenate kinase	4708
+AENJPLPP_01458	rsmC	Ribosomal RNA small subunit methyltransferase C	1492
+AENJPLPP_01459	degA_1	HTH-type transcriptional regulator DegA	1010
+AENJPLPP_01460	pdp	Pyrimidine-nucleoside phosphorylase	9385
+AENJPLPP_01461	deoC	Deoxyribose-phosphate aldolase	7701
+AENJPLPP_01462	cdd	Cytidine deaminase	2949
+AENJPLPP_01463	tmpC	Membrane lipoprotein TmpC	31005
+AENJPLPP_01464	mglA	Galactose/methyl galactoside import ATP-binding protein MglA	16490
+AENJPLPP_01465		hypothetical protein	9040
+AENJPLPP_01466		hypothetical protein	6809
+AENJPLPP_01467	deoB	Phosphopentomutase	9478
+AENJPLPP_01468	punA	Purine nucleoside phosphorylase 1	7559
+AENJPLPP_01469	deoD	Purine nucleoside phosphorylase DeoD-type	6173
+AENJPLPP_01470	gpmA_3	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase	68458
+AENJPLPP_01471	hin	DNA-invertase hin	6425
+AENJPLPP_01472	rpiA	Ribose-5-phosphate isomerase A	2945
+AENJPLPP_01473	rpsL	30S ribosomal protein S12	60037
+AENJPLPP_01474	rpsG	30S ribosomal protein S7	57527
+AENJPLPP_01475	fus	Elongation factor G	140317
+AENJPLPP_01476	tuf_2	Elongation factor Tu	348053
+AENJPLPP_01477	rpsJ	30S ribosomal protein S10	11545
+AENJPLPP_01478	rplC	50S ribosomal protein L3	48770
+AENJPLPP_01479	rplD	50S ribosomal protein L4	31998
+AENJPLPP_01480	rplW	50S ribosomal protein L23	15526
+AENJPLPP_01481	rplB	50S ribosomal protein L2	55701
+AENJPLPP_01482	rpsS	30S ribosomal protein S19	26513
+AENJPLPP_01483	rplV	50S ribosomal protein L22	26462
+AENJPLPP_01484	rpsC	30S ribosomal protein S3	78621
+AENJPLPP_01485	rplP	50S ribosomal protein L16	34549
+AENJPLPP_01486	rpmC	50S ribosomal protein L29	14453
+AENJPLPP_01487	rpsQ	30S ribosomal protein S17	52787
+AENJPLPP_01488	rplN	50S ribosomal protein L14	31888
+AENJPLPP_01489	rplX	50S ribosomal protein L24	61763
+AENJPLPP_01490	rplE	50S ribosomal protein L5	37058
+AENJPLPP_01491	rpsZ	30S ribosomal protein S14 type Z	21042
+AENJPLPP_01492	rpsH	30S ribosomal protein S8	37595
+AENJPLPP_01493	rplF	50S ribosomal protein L6	42883
+AENJPLPP_01494	rplR	50S ribosomal protein L18	40658
+AENJPLPP_01495	rpsE	30S ribosomal protein S5	55909
+AENJPLPP_01496	rpmD	50S ribosomal protein L30	12249
+AENJPLPP_01497	rplO	50S ribosomal protein L15	47020
+AENJPLPP_01498	secY	Protein translocase subunit SecY	142414
+AENJPLPP_01499	adk	Adenylate kinase	46069
+AENJPLPP_01500	infA	Translation initiation factor IF-1	17579
+AENJPLPP_01501	rpmJ	50S ribosomal protein L36	19226
+AENJPLPP_01502	rpsM	30S ribosomal protein S13	27715
+AENJPLPP_01503	rpsK	30S ribosomal protein S11	22798
+AENJPLPP_01504	rpoA	DNA-directed RNA polymerase subunit alpha	74643
+AENJPLPP_01505	rplQ	50S ribosomal protein L17	91392
+AENJPLPP_01506	ecfA1	Energy-coupling factor transporter ATP-binding protein EcfA1	2431
+AENJPLPP_01507	ecfA2	Energy-coupling factor transporter ATP-binding protein EcfA2	3012
+AENJPLPP_01508	ecfT	Energy-coupling factor transporter transmembrane protein EcfT	1384
+AENJPLPP_01509	truA	tRNA pseudouridine synthase A	1052
+AENJPLPP_01510		hypothetical protein	1155
+AENJPLPP_01511	lrpC	HTH-type transcriptional regulator LrpC	236
+AENJPLPP_01512		IS256 family transposase IS256	131
+AENJPLPP_01513		IS256 family transposase ISEf1	30
+AENJPLPP_01514		hypothetical protein	76
+AENJPLPP_01515		hypothetical protein	44
+AENJPLPP_01516		hypothetical protein	72
+AENJPLPP_01517		IS982 family transposase ISEfm1	40
+AENJPLPP_01518		hypothetical protein	3756
+AENJPLPP_01519	rpmB	50S ribosomal protein L28	7469
+AENJPLPP_01520		putative protein	2462
+AENJPLPP_01521		putative protein	36910
+AENJPLPP_01522	recG	ATP-dependent DNA helicase RecG	6380
+AENJPLPP_01523	plsX	Phosphate acyltransferase	9855
+AENJPLPP_01524	acpP	Acyl carrier protein	9682
+AENJPLPP_01525		IS110 family transposase ISBth13	41
+AENJPLPP_01526	oppD_1	Oligopeptide transport ATP-binding protein OppD	2238
+AENJPLPP_01527	oppF_1	Oligopeptide transport ATP-binding protein OppF	3234
+AENJPLPP_01528	gsiC	Glutathione transport system permease protein GsiC	1723
+AENJPLPP_01529		hypothetical protein	1763
+AENJPLPP_01530		hypothetical protein	12086
+AENJPLPP_01531	rnc	Ribonuclease 3	2790
+AENJPLPP_01532	smc_2	Chromosome partition protein Smc	14897
+AENJPLPP_01533	yidA_2	Sugar phosphatase YidA	2032
+AENJPLPP_01534	ftsY	Signal recognition particle receptor FtsY	4238
+AENJPLPP_01535	gshAB	Glutathione biosynthesis bifunctional protein GshAB	6393
+AENJPLPP_01536	yueI	putative protein YueI	640
+AENJPLPP_01537	yclN	Petrobactin import system permease protein YclN	85
+AENJPLPP_01538	yclO	Petrobactin import system permease protein YclO	144
+AENJPLPP_01539	yclP	Petrobactin import ATP-binding protein YclP	109
+AENJPLPP_01540	yclQ	Petrobactin-binding protein YclQ	292
+AENJPLPP_01541		hypothetical protein	34
+AENJPLPP_01542		IS30 family transposase IS1252	83
+AENJPLPP_01543		hypothetical protein	97
+AENJPLPP_01544		IS256 family transposase IS256	13
+AENJPLPP_01545		hypothetical protein	2552
+AENJPLPP_01546		hypothetical protein	1514
+AENJPLPP_01547		IS982 family transposase ISEfm1	19
+AENJPLPP_01548		hypothetical protein	54
+AENJPLPP_01549		hypothetical protein	140
+AENJPLPP_01550		IS30 family transposase IS6770	0
+AENJPLPP_01551	gla	Glycerol facilitator-aquaporin gla	16535
+AENJPLPP_01552	cidA	Holin-like protein CidA	310
+AENJPLPP_01553	yohK	Inner membrane protein YohK	554
+AENJPLPP_01554		hypothetical protein	1690
+AENJPLPP_01555		hypothetical protein	124
+AENJPLPP_01556		3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2	1963
+AENJPLPP_01557	queT_2	Queuosine precursor transporter QueT	1053
+AENJPLPP_01558	bioY2	Biotin transporter BioY2	470
+AENJPLPP_01559	rpsD	30S ribosomal protein S4	52853
+AENJPLPP_01560	nirC	Nitrite transporter NirC	1170
+AENJPLPP_01561		hypothetical protein	1568
+AENJPLPP_01562		Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase	2037
+AENJPLPP_01563	ymdB	2'%2C3'-cyclic-nucleotide 2'-phosphodiesterase	1308
+AENJPLPP_01564		hypothetical protein	578
+AENJPLPP_01565	mutS_2	DNA mismatch repair protein MutS	7416
+AENJPLPP_01566	mutL	DNA mismatch repair protein MutL	5485
+AENJPLPP_01567	maf	dTTP/UTP pyrophosphatase	2137
+AENJPLPP_01568		hypothetical protein	2792
+AENJPLPP_01569	treR	HTH-type transcriptional regulator TreR	1201
+AENJPLPP_01570	msrB	Peptide methionine sulfoxide reductase MsrB	1211
+AENJPLPP_01571	ruvA	Holliday junction ATP-dependent DNA helicase RuvA	3125
+AENJPLPP_01572	ruvB	Holliday junction ATP-dependent DNA helicase RuvB	5039
+AENJPLPP_01573		hypothetical protein	1832
+AENJPLPP_01574	yfkJ	Low molecular weight protein-tyrosine-phosphatase YfkJ	4654
+AENJPLPP_01575		hypothetical protein	4400
+AENJPLPP_01576		IS30 family transposase IS1252	61
+AENJPLPP_01577	brnQ_1	Branched-chain amino acid transport system 2 carrier protein	2496
+AENJPLPP_01578		Potassium channel	910
+AENJPLPP_01579	cycA	D-serine/D-alanine/glycine transporter	1312
+AENJPLPP_01580	artM_2	Arginine transport ATP-binding protein ArtM	4491
+AENJPLPP_01581	mltF_2	Membrane-bound lytic murein transglycosylase F	7087
+AENJPLPP_01582		hypothetical protein	1734
+AENJPLPP_01583		hypothetical protein	932
+AENJPLPP_01584	cobB	NAD-dependent protein deacetylase	936
+AENJPLPP_01585	dapH_1	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase	1649
+AENJPLPP_01586	nadR	Transcription repressor NadR	1680
+AENJPLPP_01587	def_2	Peptide deformylase	1628
+AENJPLPP_01588	rpsO	30S ribosomal protein S15	20428
+AENJPLPP_01589	pnp_2	Polyribonucleotide nucleotidyltransferase	20665
+AENJPLPP_01590		hypothetical protein	95
+AENJPLPP_01591	kup	Low affinity potassium transport system protein kup	6997
+AENJPLPP_01592		hypothetical protein	961
+AENJPLPP_01593	dinF	DNA damage-inducible protein F	2922
+AENJPLPP_01594		hypothetical protein	898
+AENJPLPP_01595	ctc	General stress protein CTC	2183
+AENJPLPP_01596	rsuA	Ribosomal small subunit pseudouridine synthase A	2152
+AENJPLPP_01597	yfnB_2	Putative HAD-hydrolase YfnB	808
+AENJPLPP_01598	udk	Uridine kinase	5697
+AENJPLPP_01599		hypothetical protein	9
+AENJPLPP_01600		IS3 family transposase ISEnfa3	1
+AENJPLPP_01601		hypothetical protein	15
+AENJPLPP_01602		hypothetical protein	534
+AENJPLPP_01603		hypothetical protein	818
+AENJPLPP_01604		hypothetical protein	1333
+AENJPLPP_01605		hypothetical protein	606
+AENJPLPP_01606	ubiB	putative protein kinase UbiB	584
+AENJPLPP_01607		hypothetical protein	51
+AENJPLPP_01608	ddl	D-alanine--D-alanine ligase	6641
+AENJPLPP_01609	murF	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	4782
+AENJPLPP_01610	cshA	ATP-dependent RNA helicase CshA	28374
+AENJPLPP_01611	acpS	Holo-[acyl-carrier-protein] synthase	420
+AENJPLPP_01612	alr	Alanine racemase	2651
+AENJPLPP_01613	ndoA	Endoribonuclease EndoA	679
+AENJPLPP_01614	rpsN2_2	Alternate 30S ribosomal protein S14	165
+AENJPLPP_01615		Zinc-type alcohol dehydrogenase-like protein	759
+AENJPLPP_01616		hypothetical protein	7282
+AENJPLPP_01617	kimA	Potassium transporter KimA	4825
+AENJPLPP_01618		hypothetical protein	477
+AENJPLPP_01619		hypothetical protein	727
+AENJPLPP_01620		hypothetical protein	39
+AENJPLPP_01621		hypothetical protein	51
+AENJPLPP_01622	opuCD	Glycine betaine/carnitine/choline transport system permease protein OpuCD	127
+AENJPLPP_01623	opuCC	Glycine betaine/carnitine/choline-binding protein OpuCC	428
+AENJPLPP_01624	opuCB	Carnitine transport permease protein OpuCB	145
+AENJPLPP_01625	opuCA_2	Carnitine transport ATP-binding protein OpuCA	730
+AENJPLPP_01626	queA	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	12124
+AENJPLPP_01627	yoaB	Calcium-transporting ATPase 1	221
+AENJPLPP_01628		Calcium-transporting ATPase 1	3622
+AENJPLPP_01629		hypothetical protein	6975
+AENJPLPP_01630	tgt	Queuine tRNA-ribosyltransferase	1931
+AENJPLPP_01631		hypothetical protein	12065
+AENJPLPP_01632		IS1380 family transposase IS1678	3
+AENJPLPP_01633	adhE	Aldehyde-alcohol dehydrogenase	3021
+AENJPLPP_01634		IS30 family transposase IS1252	77
+AENJPLPP_01635		hypothetical protein	861
+AENJPLPP_01636	rhaB	Rhamnulokinase	78
+AENJPLPP_01637	rhaA	L-rhamnose isomerase	40
+AENJPLPP_01638	rhaD	Rhamnulose-1-phosphate aldolase	16
+AENJPLPP_01639	rhaM	L-rhamnose mutarotase	16
+AENJPLPP_01640	fucO	Lactaldehyde reductase	28
+AENJPLPP_01641	iclR	Transcriptional repressor IclR	325
+AENJPLPP_01642	kdgA	KHG/KDPG aldolase	432
+AENJPLPP_01643	kdgK	2-dehydro-3-deoxygluconokinase	384
+AENJPLPP_01644	kduI1	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase 1	355
+AENJPLPP_01645		hypothetical protein	5
+AENJPLPP_01646	kduD	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase	635
+AENJPLPP_01647	fni	Isopentenyl-diphosphate delta-isomerase	4465
+AENJPLPP_01648		Phosphomevalonate kinase	2783
+AENJPLPP_01649		hypothetical protein	1605
+AENJPLPP_01650	galK_1	Galactokinase	2224
+AENJPLPP_01651		Deoxyguanosine kinase	2094
+AENJPLPP_01652		hypothetical protein	962
+AENJPLPP_01653		hypothetical protein	526
+AENJPLPP_01654	infC	Translation initiation factor IF-3	54789
+AENJPLPP_01655	rpmI	50S ribosomal protein L35	11783
+AENJPLPP_01656	rplT	50S ribosomal protein L20	20641
+AENJPLPP_01657		hypothetical protein	91
+AENJPLPP_01658		hypothetical protein	159
+AENJPLPP_01659		hypothetical protein	12
+AENJPLPP_01660	rspR_2	HTH-type transcriptional repressor RspR	486
+AENJPLPP_01661		hypothetical protein	109
+AENJPLPP_01662		1%2C4-dihydroxy-2-naphthoyl-CoA hydrolase	259
+AENJPLPP_01663	nnrD	ADP-dependent (S)-NAD(P)H-hydrate dehydratase	482
+AENJPLPP_01664	pepV	Beta-Ala-Xaa dipeptidase	14185
+AENJPLPP_01665		hypothetical protein	33
+AENJPLPP_01666		3-sulfolactaldehyde dehydrogenase	27
+AENJPLPP_01667		hypothetical protein	3803
+AENJPLPP_01668		hypothetical protein	320
+AENJPLPP_01669	pepA	Glutamyl aminopeptidase	3312
+AENJPLPP_01670	ytpP	Thioredoxin-like protein YtpP	1335
+AENJPLPP_01671		Putative universal stress protein	2398
+AENJPLPP_01672		hypothetical protein	8285
+AENJPLPP_01673	htrA	Serine protease Do-like HtrA	6679
+AENJPLPP_01674	rlmH	Ribosomal RNA large subunit methyltransferase H	500
+AENJPLPP_01675		IS3 family transposase IS1485	17
+AENJPLPP_01676		IS3 family transposase IS1485	17
+AENJPLPP_01677		hypothetical protein	1369
+AENJPLPP_01678		IS982 family transposase ISEfm1	234
+AENJPLPP_01679	rhaR_5	HTH-type transcriptional activator RhaR	1987
+AENJPLPP_01680	agaA_2	Alpha-galactosidase AgaA	191
+AENJPLPP_01681		hypothetical protein	155
+AENJPLPP_01682		IS1380 family transposase IS1678	1
+AENJPLPP_01683		IS256 family transposase ISEf1	69
+AENJPLPP_01684		IS256 family transposase ISEf1	11
+AENJPLPP_01685		hypothetical protein	0
+AENJPLPP_01686		hypothetical protein	7
+AENJPLPP_01687		hypothetical protein	8
+AENJPLPP_01688		IS1380 family transposase IS1678	1
+AENJPLPP_01689		hypothetical protein	32
+AENJPLPP_01690		hypothetical protein	100
+AENJPLPP_01691		hypothetical protein	527
+AENJPLPP_01692		hypothetical protein	824
+AENJPLPP_01693		hypothetical protein	1788
+AENJPLPP_01694		hypothetical protein	107
+AENJPLPP_01695		hypothetical protein	27
+AENJPLPP_01696		hypothetical protein	24
+AENJPLPP_01697		hypothetical protein	104
+AENJPLPP_01698		hypothetical protein	226
+AENJPLPP_01699		hypothetical protein	2307
+AENJPLPP_01700		IS30 family transposase IS1252	924
+AENJPLPP_01701		hypothetical protein	239
+AENJPLPP_01702		hypothetical protein	407
+AENJPLPP_01703	norR_1	Anaerobic nitric oxide reductase transcription regulator NorR	3916
+AENJPLPP_01704	sorB_2	PTS system sorbose-specific EIIB component	102
+AENJPLPP_01705	agaC_1	N-acetylgalactosamine permease IIC component 1	69
+AENJPLPP_01706	manZ_2	PTS system mannose-specific EIID component	28
+AENJPLPP_01707		hypothetical protein	97
+AENJPLPP_01708		hypothetical protein	172
+AENJPLPP_01709	gmuE_2	Putative fructokinase	162
+AENJPLPP_01710		hypothetical protein	8
+AENJPLPP_01711		IS30 family transposase IS1252	41
+AENJPLPP_01712		IS630 family transposase ISBs2	289
+AENJPLPP_01713		IS630 family transposase IS642	206
+AENJPLPP_01714		hypothetical protein	406
+AENJPLPP_01715	sstT	Serine/threonine transporter SstT	1215
+AENJPLPP_01716		hypothetical protein	396
+AENJPLPP_01717	manR_2	Transcriptional regulator ManR	147
+AENJPLPP_01718		hypothetical protein	26
+AENJPLPP_01719		hypothetical protein	11
+AENJPLPP_01720		IS30 family transposase IS1252	0
+AENJPLPP_01721		hypothetical protein	454
+AENJPLPP_01722	paiA	Spermidine/spermine N(1)-acetyltransferase	373
+AENJPLPP_01723		hypothetical protein	1311
+AENJPLPP_01724		hypothetical protein	59
+AENJPLPP_01725		hypothetical protein	75
+AENJPLPP_01726		hypothetical protein	1526
+AENJPLPP_01727	pbuG	Guanine/hypoxanthine permease PbuG	4443
+AENJPLPP_01728	malL_2	Oligo-1%2C6-glucosidase	249
+AENJPLPP_01729		hypothetical protein	471
+AENJPLPP_01730		putative oxidoreductase	500
+AENJPLPP_01731	hchA	Protein/nucleic acid deglycase 1	818
+AENJPLPP_01732	npr_1	NADH peroxidase	466
+AENJPLPP_01733		hypothetical protein	263
+AENJPLPP_01734	glpK	Glycerol kinase	202
+AENJPLPP_01735	glpO	Alpha-glycerophosphate oxidase	35
+AENJPLPP_01736	glpF	Glycerol uptake facilitator protein	14
+AENJPLPP_01737	mutS2_1	Endonuclease MutS2	1888
+AENJPLPP_01738	pgsA2	Putative cardiolipin synthase	722
+AENJPLPP_01739		hypothetical protein	66
+AENJPLPP_01740		hypothetical protein	127
+AENJPLPP_01741	glpE	Thiosulfate sulfurtransferase GlpE	88
+AENJPLPP_01742	cdr_1	Coenzyme A disulfide reductase	304
+AENJPLPP_01743	helD_2	DNA helicase IV	1404
+AENJPLPP_01744		hypothetical protein	529
+AENJPLPP_01745		hypothetical protein	275
+AENJPLPP_01746	pgaC	Poly-beta-1%2C6-N-acetyl-D-glucosamine synthase	856
+AENJPLPP_01747		hypothetical protein	1016
+AENJPLPP_01748		hypothetical protein	1066
+AENJPLPP_01749	dhaM-2	PEP-dependent dihydroxyacetone kinase 2%2C phosphoryl donor subunit DhaM	582
+AENJPLPP_01750	dhaK	PTS-dependent dihydroxyacetone kinase%2C dihydroxyacetone-binding subunit DhaK	532
+AENJPLPP_01751	dhaL	PTS-dependent dihydroxyacetone kinase%2C ADP-binding subunit DhaL	159
+AENJPLPP_01752		hypothetical protein	462
+AENJPLPP_01753	anr	Transcriptional activator protein Anr	189
+AENJPLPP_01754		Multidrug efflux system permease protein	449
+AENJPLPP_01755		Multidrug efflux system ATP-binding protein	111
+AENJPLPP_01756		IS30 family transposase IS1252	1
+AENJPLPP_01757	artM_3	Arginine transport ATP-binding protein ArtM	3
+AENJPLPP_01758		hypothetical protein	316
+AENJPLPP_01759		hypothetical protein	1438
+AENJPLPP_01760	tyrS1	Tyrosine--tRNA ligase 1	10913
+AENJPLPP_01761		hypothetical protein	10174
+AENJPLPP_01762	gadC_2	putative glutamate/gamma-aminobutyrate antiporter	3574
+AENJPLPP_01763	nhaC_1	Na(+)/H(+) antiporter NhaC	352
+AENJPLPP_01764	nhaC_2	Na(+)/H(+) antiporter NhaC	273
+AENJPLPP_01765	ccpA_1	Catabolite control protein A	2734
+AENJPLPP_01766	mro_1	Aldose 1-epimerase	415
+AENJPLPP_01767	pgmB	Beta-phosphoglucomutase	58
+AENJPLPP_01768	malP	Maltose phosphorylase	234
+AENJPLPP_01769	ptsG_3	PTS system glucose-specific EIICBA component	434
+AENJPLPP_01770	mapP	Maltose 6'-phosphate phosphatase	88
+AENJPLPP_01771		hypothetical protein	2350
+AENJPLPP_01772		IS1380 family transposase IS1678	147
+AENJPLPP_01773		hypothetical protein	412
+AENJPLPP_01774	yiaC	Peptidyl-lysine N-acetyltransferase YiaC	86
+AENJPLPP_01775	padC	Phenolic acid decarboxylase PadC	162
+AENJPLPP_01776		hypothetical protein	455
+AENJPLPP_01777		hypothetical protein	763
+AENJPLPP_01778	emrB	Multidrug export protein EmrB	1913
+AENJPLPP_01779		hypothetical protein	2977
+AENJPLPP_01780		hypothetical protein	103
+AENJPLPP_01781		hypothetical protein	82
+AENJPLPP_01782	vdcB	putative UbiX-like flavin prenyltransferase	179
+AENJPLPP_01783	lpdC	Gallate decarboxylase	323
+AENJPLPP_01784		hypothetical protein	173
+AENJPLPP_01785	btuD_4	Vitamin B12 import ATP-binding protein BtuD	2490
+AENJPLPP_01786	hssR	Heme response regulator HssR	281
+AENJPLPP_01787	sasA_3	Adaptive-response sensory-kinase SasA	837
+AENJPLPP_01788	gltC_2	HTH-type transcriptional regulator GltC	734
+AENJPLPP_01789	ydfK	putative membrane protein YdfK	230
+AENJPLPP_01790		hypothetical protein	484
+AENJPLPP_01791		hypothetical protein	633
+AENJPLPP_01792		hypothetical protein	1950
+AENJPLPP_01793		hypothetical protein	1152
+AENJPLPP_01794		hypothetical protein	1120
+AENJPLPP_01795		hypothetical protein	1235
+AENJPLPP_01796	bceA_1	Bacitracin export ATP-binding protein BceA	2752
+AENJPLPP_01797	bceB_1	Bacitracin export permease protein BceB	6141
+AENJPLPP_01798	mro_2	Aldose 1-epimerase	602
+AENJPLPP_01799		hypothetical protein	8392
+AENJPLPP_01800	bglF_1	PTS system beta-glucoside-specific EIIBCA component	19
+AENJPLPP_01801	rbsD	D-ribose pyranase	44
+AENJPLPP_01802	rbsK	Ribokinase	1131
+AENJPLPP_01803	degA_2	HTH-type transcriptional regulator DegA	1847
+AENJPLPP_01804	yecD	Isochorismatase family protein YecD	566
+AENJPLPP_01805		putative ABC transporter ATP-binding protein	189
+AENJPLPP_01806		hypothetical protein	1028
+AENJPLPP_01807	treA	Trehalose-6-phosphate hydrolase	4687
+AENJPLPP_01808		hypothetical protein	375
+AENJPLPP_01809		hypothetical protein	322
+AENJPLPP_01810	agrA	Accessory gene regulator protein A	866
+AENJPLPP_01811		hypothetical protein	1259
+AENJPLPP_01812		hypothetical protein	330
+AENJPLPP_01813	agrB	Accessory gene regulator protein B	3811
+AENJPLPP_01814		hypothetical protein	689
+AENJPLPP_01815		Deoxyguanosine kinase	4069
+AENJPLPP_01816		hypothetical protein	1103
+AENJPLPP_01817	yjcD	Putative ATP-dependent DNA helicase YjcD	2883
+AENJPLPP_01818	spxA_4	Regulatory protein Spx	214
+AENJPLPP_01819	spxA_5	Regulatory protein Spx	107
+AENJPLPP_01820	bsaA	Glutathione peroxidase BsaA	158
+AENJPLPP_01821	luxS	S-ribosylhomocysteine lyase	8604
+AENJPLPP_01822	metB	Cystathionine gamma-synthase	9513
+AENJPLPP_01823	cysM	Cysteine synthase	7153
+AENJPLPP_01824	efp	Elongation factor P	10678
+AENJPLPP_01825	lysA	Diaminopimelate decarboxylase	573
+AENJPLPP_01826	dapF	Diaminopimelate epimerase	529
+AENJPLPP_01827	dapA	4-hydroxy-tetrahydrodipicolinate synthase	528
+AENJPLPP_01828	dapB	4-hydroxy-tetrahydrodipicolinate reductase	407
+AENJPLPP_01829	dapH_2	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-acetyltransferase	491
+AENJPLPP_01830	asd	Aspartate-semialdehyde dehydrogenase	813
+AENJPLPP_01831	yclM	Aspartokinase 3	1346
+AENJPLPP_01832	scmP	N-acetylcysteine deacetylase	763
+AENJPLPP_01833	dapX	putative N-acetyl-LL-diaminopimelate aminotransferase	1511
+AENJPLPP_01834	npr_2	NADH peroxidase	2851
+AENJPLPP_01835		hypothetical protein	1
+AENJPLPP_01836		IS3 family transposase ISEfa10	16
+AENJPLPP_01837		hypothetical protein	545
+AENJPLPP_01838		hypothetical protein	495
+AENJPLPP_01839	umuC_1	Protein UmuC	1516
+AENJPLPP_01840	galK_2	Galactokinase	283
+AENJPLPP_01841	galM	Aldose 1-epimerase	203
+AENJPLPP_01842	lacS	Lactose permease	1587
+AENJPLPP_01843	rhaS_2	HTH-type transcriptional activator RhaS	246
+AENJPLPP_01844	kefG	Glutathione-regulated potassium-efflux system ancillary protein KefG	656
+AENJPLPP_01845		hypothetical protein	172
+AENJPLPP_01846		hypothetical protein	2019
+AENJPLPP_01847	yifK	putative transport protein YifK	1910
+AENJPLPP_01848	scaC_2	Manganese import ATP-binding protein ScaC	845
+AENJPLPP_01849	mntB	Manganese transport system membrane protein MntB	672
+AENJPLPP_01850	ssaB_2	Manganese ABC transporter substrate-binding lipoprotein	2177
+AENJPLPP_01851		hypothetical protein	1738
+AENJPLPP_01852	queG	Epoxyqueuosine reductase	3693
+AENJPLPP_01853		hypothetical protein	10195
+AENJPLPP_01854	pckA	Phosphoenolpyruvate carboxykinase (ATP)	469
+AENJPLPP_01855	thiO	Glycine oxidase	1337
+AENJPLPP_01856	ribZ_2	Riboflavin transporter RibZ	409
+AENJPLPP_01857		hypothetical protein	582
+AENJPLPP_01858	argR_2	Arginine repressor	838
+AENJPLPP_01859	algC	Phosphomannomutase/phosphoglucomutase	1284
+AENJPLPP_01860		hypothetical protein	98
+AENJPLPP_01861	ohrB_1	Organic hydroperoxide resistance protein OhrB	1060
+AENJPLPP_01862	rclA	putative pyridine nucleotide-disulfide oxidoreductase RclA	188
+AENJPLPP_01863		hypothetical protein	156
+AENJPLPP_01864	acuR	Transcriptional regulator AcuR	1208
+AENJPLPP_01865		hypothetical protein	205
+AENJPLPP_01866		hypothetical protein	69
+AENJPLPP_01867		hypothetical protein	23
+AENJPLPP_01868		hypothetical protein	688
+AENJPLPP_01869	mazF	Endoribonuclease toxin MazF	432
+AENJPLPP_01870		hypothetical protein	22
+AENJPLPP_01871		hypothetical protein	62
+AENJPLPP_01872	ydbD	putative manganese catalase	79
+AENJPLPP_01873	araN_1	putative arabinose-binding protein	203
+AENJPLPP_01874	lacF_4	Lactose transport system permease protein LacF	72
+AENJPLPP_01875	araQ_4	L-arabinose transport system permease protein AraQ	51
+AENJPLPP_01876		hypothetical protein	47
+AENJPLPP_01877		hypothetical protein	63
+AENJPLPP_01878		hypothetical protein	7
+AENJPLPP_01879		hypothetical protein	91
+AENJPLPP_01880		hypothetical protein	7
+AENJPLPP_01881		hypothetical protein	3
+AENJPLPP_01882		hypothetical protein	22
+AENJPLPP_01883		hypothetical protein	12
+AENJPLPP_01884	graR	Response regulator protein GraR	2194
+AENJPLPP_01885	graS	Sensor histidine kinase GraS	2056
+AENJPLPP_01886	glcU_2	putative glucose uptake protein GlcU	11263
+AENJPLPP_01887	yhdG	putative amino acid permease YhdG	6916
+AENJPLPP_01888		TelA-like protein	4471
+AENJPLPP_01889		hypothetical protein	2407
+AENJPLPP_01890	act	Methanol dehydrogenase activator	1660
+AENJPLPP_01891		hypothetical protein	515
+AENJPLPP_01892	mtnN	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	2757
+AENJPLPP_01893		hypothetical protein	1631
+AENJPLPP_01894		hypothetical protein	174
+AENJPLPP_01895	pepO	Neutral endopeptidase	6919
+AENJPLPP_01896		hypothetical protein	1782
+AENJPLPP_01897	prs2	Putative ribose-phosphate pyrophosphokinase 2	6840
+AENJPLPP_01898	iscS_1	Cysteine desulfurase IscS	2935
+AENJPLPP_01899		hypothetical protein	1881
+AENJPLPP_01900		hypothetical protein	382
+AENJPLPP_01901		hypothetical protein	262
+AENJPLPP_01902	mnmA	tRNA-specific 2-thiouridylase MnmA	6036
+AENJPLPP_01903	arcD1_1	Arginine/ornithine antiporter ArcD1	100
+AENJPLPP_01904	vioD	Capreomycidine synthase	118
+AENJPLPP_01905	sbnD_2	Staphyloferrin B transporter	145
+AENJPLPP_01906		hypothetical protein	840
+AENJPLPP_01907		hypothetical protein	1263
+AENJPLPP_01908	topB_2	DNA topoisomerase 3	5678
+AENJPLPP_01909	yfdH	Prophage bactoprenol glucosyl transferase 	1813
+AENJPLPP_01910	ogt	Methylated-DNA--protein-cysteine methyltransferase%2C constitutive	831
+AENJPLPP_01911		hypothetical protein	1317
+AENJPLPP_01912		hypothetical protein	168
+AENJPLPP_01913	cysL	HTH-type transcriptional regulator CysL	1264
+AENJPLPP_01914	rodA	Peptidoglycan glycosyltransferase RodA	7580
+AENJPLPP_01915	mgsR	Regulatory protein MgsR	1049
+AENJPLPP_01916	gcvH	Glycine cleavage system H protein	2471
+AENJPLPP_01917	metN2	Methionine import ATP-binding protein MetN 2	2214
+AENJPLPP_01918	metP_1	Methionine import system permease protein MetP	1866
+AENJPLPP_01919	metQ_1	Methionine-binding lipoprotein MetQ	3076
+AENJPLPP_01920		putative ABC transporter ATP-binding protein	1941
+AENJPLPP_01921		hypothetical protein	3950
+AENJPLPP_01922	sufS	Cysteine desulfurase SufS	2019
+AENJPLPP_01923	iscU	Iron-sulfur cluster assembly scaffold protein IscU	1497
+AENJPLPP_01924		hypothetical protein	5355
+AENJPLPP_01925	xerC_7	Tyrosine recombinase XerC	888
+AENJPLPP_01926		hypothetical protein	424
+AENJPLPP_01927		hypothetical protein	132
+AENJPLPP_01928		hypothetical protein	467
+AENJPLPP_01929		hypothetical protein	341
+AENJPLPP_01930		hypothetical protein	10
+AENJPLPP_01931		hypothetical protein	61
+AENJPLPP_01932		hypothetical protein	19
+AENJPLPP_01933		hypothetical protein	73
+AENJPLPP_01934		hypothetical protein	2002
+AENJPLPP_01935		hypothetical protein	2074
+AENJPLPP_01936		hypothetical protein	7531
+AENJPLPP_01937		IS1182 family transposase ISEfa7	1
+AENJPLPP_01938		hypothetical protein	303
+AENJPLPP_01939		hypothetical protein	103
+AENJPLPP_01940	yknY	putative ABC transporter ATP-binding protein YknY	52
+AENJPLPP_01941		hypothetical protein	108
+AENJPLPP_01942	prsA_3	Foldase protein PrsA	14313
+AENJPLPP_01943		hypothetical protein	106
+AENJPLPP_01944		Putative lipid kinase	1056
+AENJPLPP_01945		hypothetical protein	83
+AENJPLPP_01946		hypothetical protein	11
+AENJPLPP_01947		hypothetical protein	19
+AENJPLPP_01948		hypothetical protein	121
+AENJPLPP_01949		hypothetical protein	389
+AENJPLPP_01950		hypothetical protein	283
+AENJPLPP_01951		hypothetical protein	43
+AENJPLPP_01952		hypothetical protein	541
+AENJPLPP_01953	strA	Sortase A	1404
+AENJPLPP_01954	licT_2	Transcription antiterminator LicT	788
+AENJPLPP_01955		hypothetical protein	1
+AENJPLPP_01956	bglF_2	PTS system beta-glucoside-specific EIIBCA component	121
+AENJPLPP_01957	bglH_1	Aryl-phospho-beta-D-glucosidase BglH	310
+AENJPLPP_01958		hypothetical protein	502
+AENJPLPP_01959	fruA_2	PTS system fructose-specific EIIB'BC component	522
+AENJPLPP_01960		hypothetical protein	134
+AENJPLPP_01961	yvdD	LOG family protein YvdD	3825
+AENJPLPP_01962		hypothetical protein	5000
+AENJPLPP_01963		Deoxyguanosine kinase	6132
+AENJPLPP_01964		hypothetical protein	711
+AENJPLPP_01965		hypothetical protein	1473
+AENJPLPP_01966	rbsR	Ribose operon repressor	643
+AENJPLPP_01967	gmuD_2	6-phospho-beta-glucosidase GmuD	691
+AENJPLPP_01968		hypothetical protein	1089
+AENJPLPP_01969	ltaS1_2	Lipoteichoic acid synthase 1	1657
+AENJPLPP_01970		hypothetical protein	90
+AENJPLPP_01971	ndk	Nucleoside diphosphate kinase	896
+AENJPLPP_01972	mgtA	Magnesium-transporting ATPase%2C P-type 1	3621
+AENJPLPP_01973		Phosphorylated carbohydrates phosphatase	4969
+AENJPLPP_01974		hypothetical protein	1432
+AENJPLPP_01975	metN	Methionine import ATP-binding protein MetN	100
+AENJPLPP_01976	metP_2	Methionine import system permease protein MetP	34
+AENJPLPP_01977	metQ_2	D-methionine-binding lipoprotein MetQ	148
+AENJPLPP_01978	abgB	p-aminobenzoyl-glutamate hydrolase subunit B	121
+AENJPLPP_01979	nhaC_3	Na(+)/H(+) antiporter NhaC	1578
+AENJPLPP_01980		hypothetical protein	673
+AENJPLPP_01981	yvbW	putative amino acid permease YvbW	154
+AENJPLPP_01982		hypothetical protein	523
+AENJPLPP_01983	panE	2-dehydropantoate 2-reductase	4351
+AENJPLPP_01984	garK	Glycerate 2-kinase	499
+AENJPLPP_01985	eat(A)	ABC-F type ribosomal protection protein Eat(A)	751
+AENJPLPP_01986	pspB	Putative phosphoserine phosphatase 2	1153
+AENJPLPP_01987		hypothetical protein	97
+AENJPLPP_01988	murQ	N-acetylmuramic acid 6-phosphate etherase	269
+AENJPLPP_01989		hypothetical protein	661
+AENJPLPP_01990		Putative NrdI-like protein	1306
+AENJPLPP_01991	arcD1_2	Arginine/ornithine antiporter ArcD1	4229
+AENJPLPP_01992		hypothetical protein	958
+AENJPLPP_01993	bcrA_2	Bacitracin transport ATP-binding protein BcrA	1778
+AENJPLPP_01994	gdx	Guanidinium exporter	201
+AENJPLPP_01995		hypothetical protein	3880
+AENJPLPP_01996		hypothetical protein	4344
+AENJPLPP_01997	pcp	Pyrrolidone-carboxylate peptidase	2747
+AENJPLPP_01998		hypothetical protein	1597
+AENJPLPP_01999	pnuC	Nicotinamide riboside transporter PnuC	2433
+AENJPLPP_02000		hypothetical protein	472
+AENJPLPP_02001		hypothetical protein	1134
+AENJPLPP_02002		hypothetical protein	1434
+AENJPLPP_02003		hypothetical protein	4615
+AENJPLPP_02004		hypothetical protein	512
+AENJPLPP_02005	ywpJ_2	Phosphatase YwpJ	2478
+AENJPLPP_02006	ung	Uracil-DNA glycosylase	578
+AENJPLPP_02007	pta	Phosphate acetyltransferase	6780
+AENJPLPP_02008	tsaE	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	343
+AENJPLPP_02009		hypothetical protein	594
+AENJPLPP_02010	polC_2	DNA polymerase III PolC-type	673
+AENJPLPP_02011	exoA	Exodeoxyribonuclease	1029
+AENJPLPP_02012	yceM	Putative oxidoreductase YceM	587
+AENJPLPP_02013	murB	UDP-N-acetylenolpyruvoylglucosamine reductase	5491
+AENJPLPP_02014		hypothetical protein	28
+AENJPLPP_02015		hypothetical protein	119
+AENJPLPP_02016		hypothetical protein	751
+AENJPLPP_02017		hypothetical protein	403
+AENJPLPP_02018		Fumarate reductase flavoprotein subunit	811
+AENJPLPP_02019		2-haloacrylate reductase	1912
+AENJPLPP_02020	yhfK	putative sugar epimerase YhfK	882
+AENJPLPP_02021	panT_2	Pantothenic acid transporter PanT	445
+AENJPLPP_02022	coaBC_1	Coenzyme A biosynthesis bifunctional protein CoaBC	718
+AENJPLPP_02023	coaBC_2	Coenzyme A biosynthesis bifunctional protein CoaBC	1028
+AENJPLPP_02024	acuI	putative acrylyl-CoA reductase AcuI	803
+AENJPLPP_02025		hypothetical protein	549
+AENJPLPP_02026	potA	Spermidine/putrescine import ATP-binding protein PotA	1111
+AENJPLPP_02027	potB	Spermidine/putrescine transport system permease protein PotB	621
+AENJPLPP_02028	ydcV	Inner membrane ABC transporter permease protein YdcV	871
+AENJPLPP_02029	potD	Spermidine/putrescine-binding periplasmic protein	2024
+AENJPLPP_02030	dgaR_1	Transcriptional regulatory protein DagR	8000
+AENJPLPP_02031		hypothetical protein	141
+AENJPLPP_02032		putative phosphotransferase enzyme IIB component	57
+AENJPLPP_02033		hypothetical protein	108
+AENJPLPP_02034	manZ_3	PTS system mannose-specific EIID component	116
+AENJPLPP_02035		hypothetical protein	289
+AENJPLPP_02036		hypothetical protein	243
+AENJPLPP_02037	gmuE_3	Putative fructokinase	183
+AENJPLPP_02038		hypothetical protein	534
+AENJPLPP_02039		hypothetical protein	69
+AENJPLPP_02040		hypothetical protein	176
+AENJPLPP_02041		hypothetical protein	52
+AENJPLPP_02042	xerC_8	Tyrosine recombinase XerC	504
+AENJPLPP_02043	metE	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase	1752
+AENJPLPP_02044		IS30 family transposase IS1252	5
+AENJPLPP_02045	glnR	HTH-type transcriptional regulator GlnR	8347
+AENJPLPP_02046	glnA	Glutamine synthetase	38085
+AENJPLPP_02047		hypothetical protein	370
+AENJPLPP_02048	pyrG	CTP synthase	7137
+AENJPLPP_02049	fba	Fructose-bisphosphate aldolase	198157
+AENJPLPP_02050	murA1_1	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	4550
+AENJPLPP_02051	rho	Transcription termination factor Rho	2405
+AENJPLPP_02052	rpmE2	50S ribosomal protein L31 type B	27913
+AENJPLPP_02053	fruA_3	PTS system fructose-specific EIIABC component	7
+AENJPLPP_02054	fruA_4	PTS system fructose-specific EIIABC component	19
+AENJPLPP_02055	kbaY	D-tagatose-1%2C6-bisphosphate aldolase subunit KbaY	43
+AENJPLPP_02056	ydjF	putative HTH-type transcriptional regulator YdjF	71
+AENJPLPP_02057		hypothetical protein	392
+AENJPLPP_02058	yfcJ	putative MFS-type transporter YfcJ	384
+AENJPLPP_02059		hypothetical protein	37
+AENJPLPP_02060	larR	Lactate racemization regulatory protein	624
+AENJPLPP_02061		hypothetical protein	2659
+AENJPLPP_02062		hypothetical protein	2037
+AENJPLPP_02063		hypothetical protein	2800
+AENJPLPP_02064		hypothetical protein	7995
+AENJPLPP_02065		Nucleoid-associated protein	1356
+AENJPLPP_02066	recR	Recombination protein RecR	4361
+AENJPLPP_02067	tmk	Thymidylate kinase	5160
+AENJPLPP_02068	darA	Cyclic di-AMP receptor A	1596
+AENJPLPP_02069		hypothetical protein	3475
+AENJPLPP_02070		hypothetical protein	5533
+AENJPLPP_02071	yabA	Initiation-control protein YabA	978
+AENJPLPP_02072	rsmI	Ribosomal RNA small subunit methyltransferase I	1285
+AENJPLPP_02073	dinB	DNA polymerase IV	960
+AENJPLPP_02074		hypothetical protein	1408
+AENJPLPP_02075	nrdD	Anaerobic ribonucleoside-triphosphate reductase	7833
+AENJPLPP_02076	bceA_2	Bacitracin export ATP-binding protein BceA	594
+AENJPLPP_02077	bceB_2	Bacitracin export permease protein BceB	2754
+AENJPLPP_02078	dltA	D-alanine--D-alanyl carrier protein ligase	2678
+AENJPLPP_02079		hypothetical protein	3124
+AENJPLPP_02080	dltC	D-alanyl carrier protein	1186
+AENJPLPP_02081	dltD	Protein DltD	1993
+AENJPLPP_02082		hypothetical protein	987
+AENJPLPP_02083	ysdC	Putative aminopeptidase YsdC	3265
+AENJPLPP_02084		hypothetical protein	2164
+AENJPLPP_02085		putative protein	2272
+AENJPLPP_02086	lplJ	Lipoate-protein ligase LplJ	3860
+AENJPLPP_02087		hypothetical protein	1687
+AENJPLPP_02088		hypothetical protein	199
+AENJPLPP_02089	trmR	tRNA 5-hydroxyuridine methyltransferase	2682
+AENJPLPP_02091		hypothetical protein	222
+AENJPLPP_02092	dauA	C4-dicarboxylic acid transporter DauA	4525
+AENJPLPP_02093	udg	Type-4 uracil-DNA glycosylase	363
+AENJPLPP_02094	rplU	50S ribosomal protein L21	62893
+AENJPLPP_02095		hypothetical protein	21721
+AENJPLPP_02096	rpmA	50S ribosomal protein L27	59338
+AENJPLPP_02097	dgaR_2	Transcriptional regulatory protein DagR	7366
+AENJPLPP_02098	manX_2	PTS system mannose-specific EIIAB component	5059
+AENJPLPP_02099	manX_3	PTS system mannose-specific EIIAB component	11440
+AENJPLPP_02100	sorA_1	PTS system sorbose-specific EIIC component	5168
+AENJPLPP_02101	manZ_4	PTS system mannose-specific EIID component	5628
+AENJPLPP_02102		hypothetical protein	451
+AENJPLPP_02103		hypothetical protein	718
+AENJPLPP_02104	ypdF	Aminopeptidase YpdF	5754
+AENJPLPP_02105		putative protein	9837
+AENJPLPP_02106	nusB	Transcription antitermination protein NusB	3697
+AENJPLPP_02107	folD	Bifunctional protein FolD protein	1703
+AENJPLPP_02108	xseA	Exodeoxyribonuclease 7 large subunit	2637
+AENJPLPP_02109	xseB	Exodeoxyribonuclease 7 small subunit	400
+AENJPLPP_02110		Farnesyl diphosphate synthase	1857
+AENJPLPP_02111	tlyA	Hemolysin A	2266
+AENJPLPP_02112	argR_3	Arginine repressor	1560
+AENJPLPP_02113	recN	DNA repair protein RecN	8146
+AENJPLPP_02114		hypothetical protein	76
+AENJPLPP_02115		hypothetical protein	511
+AENJPLPP_02116		hypothetical protein	127
+AENJPLPP_02117	mraZ	Transcriptional regulator MraZ	3177
+AENJPLPP_02118	rsmH	Ribosomal RNA small subunit methyltransferase H	6269
+AENJPLPP_02119	ftsL	Cell division protein FtsL	1047
+AENJPLPP_02120	pbpX_2	Penicillin-binding protein 2X	11397
+AENJPLPP_02121	mraY	Phospho-N-acetylmuramoyl-pentapeptide-transferase	4672
+AENJPLPP_02122	murD	UDP-N-acetylmuramoylalanine--D-glutamate ligase	3982
+AENJPLPP_02123	murG	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	3151
+AENJPLPP_02124	divIB	Cell division protein DivIB	7752
+AENJPLPP_02125	ftsA	Cell division protein FtsA	25150
+AENJPLPP_02126	ftsZ	Cell division protein FtsZ	19002
+AENJPLPP_02127	yggS	Pyridoxal phosphate homeostasis protein	4121
+AENJPLPP_02128	sepF	Cell division protein SepF	8550
+AENJPLPP_02129		hypothetical protein	13562
+AENJPLPP_02130	divIVA	Cell division protein DivIVA	16159
+AENJPLPP_02131	ileS	Isoleucine--tRNA ligase	13379
+AENJPLPP_02132	zwf	Glucose-6-phosphate 1-dehydrogenase	5937
+AENJPLPP_02133	dtxR	Diphtheria toxin repressor	1861
+AENJPLPP_02134		hypothetical protein	296
+AENJPLPP_02135	sfsA	Sugar fermentation stimulation protein A	1862
+AENJPLPP_02136	iolU_2	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU	2428
+AENJPLPP_02137	yfmL	putative ATP-dependent RNA helicase YfmL	3236
+AENJPLPP_02138	dgaR_3	Transcriptional regulatory protein DagR	1960
+AENJPLPP_02139	ptcB_1	PTS system galactose-specific EIIB component	68
+AENJPLPP_02140	licA_2	Lichenan-specific phosphotransferase enzyme IIA component	99
+AENJPLPP_02141	celB	PTS system cellobiose-specific EIIC component	153
+AENJPLPP_02142		hypothetical protein	2
+AENJPLPP_02143		hypothetical protein	1
+AENJPLPP_02144		hypothetical protein	4
+AENJPLPP_02145	eis_2	N-acetyltransferase Eis	244
+AENJPLPP_02146		hypothetical protein	330
+AENJPLPP_02148	xerC_9	Tyrosine recombinase XerC	581
+AENJPLPP_02149		hypothetical protein	137
+AENJPLPP_02150		hypothetical protein	666
+AENJPLPP_02151		hypothetical protein	1028
+AENJPLPP_02152		hypothetical protein	336
+AENJPLPP_02153		hypothetical protein	451
+AENJPLPP_02154		hypothetical protein	1251
+AENJPLPP_02155		hypothetical protein	118
+AENJPLPP_02156		hypothetical protein	16
+AENJPLPP_02157		hypothetical protein	36
+AENJPLPP_02158		hypothetical protein	11
+AENJPLPP_02159		hypothetical protein	204
+AENJPLPP_02160		hypothetical protein	122
+AENJPLPP_02161		hypothetical protein	33
+AENJPLPP_02162		hypothetical protein	0
+AENJPLPP_02163		hypothetical protein	86
+AENJPLPP_02164		hypothetical protein	11
+AENJPLPP_02165		hypothetical protein	3
+AENJPLPP_02166		hypothetical protein	6
+AENJPLPP_02167		hypothetical protein	23
+AENJPLPP_02168		hypothetical protein	9
+AENJPLPP_02169		hypothetical protein	18
+AENJPLPP_02170		hypothetical protein	18
+AENJPLPP_02171		hypothetical protein	0
+AENJPLPP_02172		hypothetical protein	0
+AENJPLPP_02173		hypothetical protein	0
+AENJPLPP_02174		hypothetical protein	0
+AENJPLPP_02175		hypothetical protein	0
+AENJPLPP_02176		hypothetical protein	0
+AENJPLPP_02177		hypothetical protein	23
+AENJPLPP_02178		hypothetical protein	3
+AENJPLPP_02179		hypothetical protein	14
+AENJPLPP_02180		hypothetical protein	13
+AENJPLPP_02181		hypothetical protein	14
+AENJPLPP_02182		hypothetical protein	107
+AENJPLPP_02183		hypothetical protein	29
+AENJPLPP_02184	clpP_1	ATP-dependent Clp protease proteolytic subunit	5
+AENJPLPP_02185		hypothetical protein	41
+AENJPLPP_02186		hypothetical protein	18
+AENJPLPP_02187		hypothetical protein	2
+AENJPLPP_02188		hypothetical protein	1
+AENJPLPP_02189		hypothetical protein	0
+AENJPLPP_02190		hypothetical protein	9
+AENJPLPP_02191		hypothetical protein	21
+AENJPLPP_02192		hypothetical protein	2
+AENJPLPP_02193	smc_3	Chromosome partition protein Smc	96
+AENJPLPP_02194		ISL3 family transposase ISEfa11	0
+AENJPLPP_02195		hypothetical protein	8
+AENJPLPP_02196		hypothetical protein	88
+AENJPLPP_02197		hypothetical protein	147
+AENJPLPP_02198		hypothetical protein	79
+AENJPLPP_02199		hypothetical protein	0
+AENJPLPP_02200		hypothetical protein	0
+AENJPLPP_02201		hypothetical protein	0
+AENJPLPP_02202		hypothetical protein	0
+AENJPLPP_02203		hypothetical protein	0
+AENJPLPP_02205		IS3 family transposase ISEfa8	0
+AENJPLPP_02206		IS3 family transposase ISEfa8	0
+AENJPLPP_02207		IS3 family transposase ISEnfa3	0
+AENJPLPP_02208		hypothetical protein	0
+AENJPLPP_02209		hypothetical protein	0
+AENJPLPP_02210		hypothetical protein	0
+AENJPLPP_02211		hypothetical protein	33
+AENJPLPP_02212		hypothetical protein	87
+AENJPLPP_02213		IS256 family transposase IS16	0
+AENJPLPP_02214		hypothetical protein	27
+AENJPLPP_02215	ccpB	Catabolite control protein B	229
+AENJPLPP_02216	mta	HTH-type transcriptional activator mta	417
+AENJPLPP_02217		hypothetical protein	396
+AENJPLPP_02218	pncB2	Nicotinate phosphoribosyltransferase pncB2	5545
+AENJPLPP_02219	nadE	NH(3)-dependent NAD(+) synthetase	4709
+AENJPLPP_02220		hypothetical protein	269
+AENJPLPP_02221	abfA_1	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase	42
+AENJPLPP_02222	ugpB	sn-glycerol-3-phosphate-binding periplasmic protein UgpB	27
+AENJPLPP_02223	melD	Melibiose/raffinose/stachyose import permease protein MelD	47
+AENJPLPP_02224	araQ_5	L-arabinose transport system permease protein AraQ	25
+AENJPLPP_02225		hypothetical protein	16
+AENJPLPP_02226	abfA_2	Intracellular exo-alpha-(1->5)-L-arabinofuranosidase 1	151
+AENJPLPP_02227		Extracellular exo-alpha-(1->5)-L-arabinofuranosidase	151
+AENJPLPP_02228	araR_2	Arabinose metabolism transcriptional repressor	860
+AENJPLPP_02229	xylT	D-xylose transporter	159
+AENJPLPP_02230	xylB_3	Xylulose kinase	40
+AENJPLPP_02231	sgbE	L-ribulose-5-phosphate 4-epimerase SgbE	1
+AENJPLPP_02232	araA	L-arabinose isomerase	31
+AENJPLPP_02233	ghrB_2	Glyoxylate/hydroxypyruvate reductase B	203
+AENJPLPP_02234		hypothetical protein	923
+AENJPLPP_02235		hypothetical protein	1262
+AENJPLPP_02236		hypothetical protein	51
+AENJPLPP_02237	pgl	6-phosphogluconolactonase	876
+AENJPLPP_02238		hypothetical protein	791
+AENJPLPP_02239		hypothetical protein	1531
+AENJPLPP_02240	azoR	FMN-dependent NADH-azoreductase	4075
+AENJPLPP_02241		hypothetical protein	121
+AENJPLPP_02242		hypothetical protein	486
+AENJPLPP_02243		putative ABC transporter ATP-binding protein	1033
+AENJPLPP_02244		hypothetical protein	34
+AENJPLPP_02245		Fatty acid ABC transporter ATP-binding/permease protein	1295
+AENJPLPP_02246	catE	Catechol-2%2C3-dioxygenase	2618
+AENJPLPP_02247	amiE	N-acetylmuramyl-L-alanine amidase	551
+AENJPLPP_02248	gmuF	putative mannose-6-phosphate isomerase GmuF	4334
+AENJPLPP_02249	mtlA	PTS system mannitol-specific EIICB component	56
+AENJPLPP_02250		hypothetical protein	225
+AENJPLPP_02251	mtlR	Transcriptional regulator MtlR	213
+AENJPLPP_02252	mtlF_1	Mannitol-specific phosphotransferase enzyme IIA component	96
+AENJPLPP_02253		hypothetical protein	57
+AENJPLPP_02254	natA_1	ABC transporter ATP-binding protein NatA	28
+AENJPLPP_02255		hypothetical protein	12
+AENJPLPP_02256	mtlF_2	Mannitol-specific phosphotransferase enzyme IIA component	4
+AENJPLPP_02257	mtlD	Mannitol-1-phosphate 5-dehydrogenase	37
+AENJPLPP_02258	gatD	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD	1669
+AENJPLPP_02259	murT	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT	3323
+AENJPLPP_02260	ntpJ_1	Potassium/sodium uptake protein NtpJ	527
+AENJPLPP_02261	queH	Epoxyqueuosine reductase QueH	412
+AENJPLPP_02262		hypothetical protein	1884
+AENJPLPP_02263		hypothetical protein	2355
+AENJPLPP_02264		hypothetical protein	491
+AENJPLPP_02265	spsB	Signal peptidase IB	94
+AENJPLPP_02266	COQ5_2	2-methoxy-6-polyprenyl-1%2C4-benzoquinol methylase%2C mitochondrial	1571
+AENJPLPP_02267		hypothetical protein	37
+AENJPLPP_02268		hypothetical protein	78
+AENJPLPP_02269	tdk	Thymidine kinase	2399
+AENJPLPP_02270	prfA	Peptide chain release factor 1	5870
+AENJPLPP_02271	prmC	Release factor glutamine methyltransferase	1509
+AENJPLPP_02272	ywlC	Threonylcarbamoyl-AMP synthase	2623
+AENJPLPP_02273		hypothetical protein	380
+AENJPLPP_02274	glyA	Serine hydroxymethyltransferase	5105
+AENJPLPP_02275	nlhH	Carboxylesterase NlhH	1652
+AENJPLPP_02276	upp	Uracil phosphoribosyltransferase	3029
+AENJPLPP_02277		hypothetical protein	390
+AENJPLPP_02279		hypothetical protein	519
+AENJPLPP_02280		hypothetical protein	157
+AENJPLPP_02281		hypothetical protein	227
+AENJPLPP_02282	cna	Collagen adhesin	6247
+AENJPLPP_02283	proX	Prolyl-tRNA editing protein ProX	281
+AENJPLPP_02284	yecS_2	L-cystine transport system permease protein YecS	270
+AENJPLPP_02285	glnQ_2	Glutamine transport ATP-binding protein GlnQ	241
+AENJPLPP_02286	fliY	L-cystine-binding protein FliY	876
+AENJPLPP_02287	bglC	Aryl-phospho-beta-D-glucosidase BglC	1524
+AENJPLPP_02288	spoIIIE	DNA translocase SpoIIIE	6465
+AENJPLPP_02289	rlmN	putative dual-specificity RNA methyltransferase RlmN	3474
+AENJPLPP_02290		hypothetical protein	427
+AENJPLPP_02291		hypothetical protein	202
+AENJPLPP_02292	dppE	Dipeptide-binding protein DppE	817
+AENJPLPP_02293		hypothetical protein	95
+AENJPLPP_02294	oppB	Oligopeptide transport system permease protein OppB	99
+AENJPLPP_02295	dppC	Dipeptide transport system permease protein DppC	157
+AENJPLPP_02296	oppD_2	Oligopeptide transport ATP-binding protein OppD	376
+AENJPLPP_02297	oppF_2	Oligopeptide transport ATP-binding protein OppF	346
+AENJPLPP_02298		IS200/IS605 family transposase ISEfa4	485
+AENJPLPP_02299		hypothetical protein	2204
+AENJPLPP_02300		hypothetical protein	300
+AENJPLPP_02301	metG	Methionine--tRNA ligase	18994
+AENJPLPP_02302		hypothetical protein	545
+AENJPLPP_02303	steT_2	Serine/threonine exchanger SteT	2030
+AENJPLPP_02304	dtd3	D-aminoacyl-tRNA deacylase	1289
+AENJPLPP_02305	rnmV	Ribonuclease M5	1053
+AENJPLPP_02306	rsmA	Ribosomal RNA small subunit methyltransferase A	2529
+AENJPLPP_02307	niaX	Niacin transporter NiaX	325
+AENJPLPP_02308	msmX	Oligosaccharides import ATP-binding protein MsmX	475
+AENJPLPP_02309	mgsA	Methylglyoxal synthase	148
+AENJPLPP_02310	folT_2	Folate transporter FolT	11333
+AENJPLPP_02311		putative ABC transporter ATP-binding protein	1871
+AENJPLPP_02312		putative ABC transporter ATP-binding protein	2267
+AENJPLPP_02313		hypothetical protein	16
+AENJPLPP_02314	dgaR_4	Transcriptional regulatory protein DagR	114
+AENJPLPP_02315	manX_4	PTS system mannose-specific EIIAB component	4
+AENJPLPP_02316		putative phosphotransferase enzyme IIB component	5
+AENJPLPP_02317	sorA_2	PTS system sorbose-specific EIIC component	10
+AENJPLPP_02318	manZ_5	PTS system mannose-specific EIID component	11
+AENJPLPP_02319	nodM	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	34
+AENJPLPP_02320	frlB_1	Fructosamine deglycase FrlB	63
+AENJPLPP_02321	gpsA_1	Glycerol-3-phosphate dehydrogenase [NAD(P)+]	2857
+AENJPLPP_02322		IS110 family transposase ISSpn10	4
+AENJPLPP_02323	gtaB_1	UTP--glucose-1-phosphate uridylyltransferase	2919
+AENJPLPP_02324		hypothetical protein	635
+AENJPLPP_02325		hypothetical protein	91
+AENJPLPP_02326		hypothetical protein	9002
+AENJPLPP_02327	iadA	Isoaspartyl dipeptidase	5544
+AENJPLPP_02328		hypothetical protein	2584
+AENJPLPP_02329	lolD_2	Lipoprotein-releasing system ATP-binding protein LolD	21
+AENJPLPP_02330		hypothetical protein	24
+AENJPLPP_02331	rnj2	Ribonuclease J 2	11525
+AENJPLPP_02332	ybaK_2	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK	92
+AENJPLPP_02333		hypothetical protein	1080
+AENJPLPP_02334	IMPDH	Inosine-5'-monophosphate dehydrogenase	1044
+AENJPLPP_02335	nrnA	putative bifunctional oligoribonuclease and PAP phosphatase NrnA	1524
+AENJPLPP_02336		hypothetical protein	4433
+AENJPLPP_02337		hypothetical protein	5561
+AENJPLPP_02338		hypothetical protein	159
+AENJPLPP_02339		hypothetical protein	110
+AENJPLPP_02340	rsmF	Ribosomal RNA small subunit methyltransferase F	1822
+AENJPLPP_02341		hypothetical protein	1101
+AENJPLPP_02342	lrp	Leucine-rich protein	262
+AENJPLPP_02343	tadA_2	tRNA-specific adenosine deaminase	993
+AENJPLPP_02344		hypothetical protein	60
+AENJPLPP_02345		hypothetical protein	973
+AENJPLPP_02346		hypothetical protein	2622
+AENJPLPP_02347	yutF	Acid sugar phosphatase	2714
+AENJPLPP_02348		hypothetical protein	981
+AENJPLPP_02349	ypjQ	putative protein YpjQ	438
+AENJPLPP_02350	yumC	Ferredoxin--NADP reductase 2	547
+AENJPLPP_02351		Putative peptidyl-prolyl cis-trans isomerase	6147
+AENJPLPP_02352	patB	Cystathionine beta-lyase PatB	1066
+AENJPLPP_02353	yugI	General stress protein 13	889
+AENJPLPP_02354		hypothetical protein	1980
+AENJPLPP_02356		IS3 family transposase IS1485	0
+AENJPLPP_02357		IS3 family transposase IS1485	0
+AENJPLPP_02358		hypothetical protein	137
+AENJPLPP_02359	menH_2	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase	78
+AENJPLPP_02362		hypothetical protein	147
+AENJPLPP_02363	pepC	Aminopeptidase C	1790
+AENJPLPP_02364		putative ketoamine kinase	323
+AENJPLPP_02365		hypothetical protein	927
+AENJPLPP_02366	ansA	L-asparaginase	1813
+AENJPLPP_02367		hypothetical protein	784
+AENJPLPP_02368	yhaX	Stress response protein YhaX	855
+AENJPLPP_02369		hypothetical protein	813
+AENJPLPP_02370	ezrA	Septation ring formation regulator EzrA	30961
+AENJPLPP_02371	iscS_2	Cysteine desulfurase IscS	2491
+AENJPLPP_02372	thiI_1	putative tRNA sulfurtransferase	695
+AENJPLPP_02373	thiI_2	putative tRNA sulfurtransferase	2657
+AENJPLPP_02374	rex_1	Redox-sensing transcriptional repressor Rex	144
+AENJPLPP_02375	valS	Valine--tRNA ligase	18016
+AENJPLPP_02376	fpgS	Folylpolyglutamate synthase	2354
+AENJPLPP_02377		Phosphorylated carbohydrates phosphatase	933
+AENJPLPP_02378		hypothetical protein	313
+AENJPLPP_02379	cspLA_1	Cold shock-like protein CspLA	34523
+AENJPLPP_02380	rnj1	Ribonuclease J 1	12023
+AENJPLPP_02381		hypothetical protein	2442
+AENJPLPP_02382		putative ABC transporter ATP-binding protein	1893
+AENJPLPP_02383		putative ABC transporter ATP-binding protein	2789
+AENJPLPP_02384		hypothetical protein	504
+AENJPLPP_02385	yrdA	Protein YrdA	565
+AENJPLPP_02386	clpP_2	ATP-dependent Clp protease proteolytic subunit	4128
+AENJPLPP_02387		hypothetical protein	1375
+AENJPLPP_02388	glpQ	Glycerophosphodiester phosphodiesterase	908
+AENJPLPP_02389	miaA	tRNA dimethylallyltransferase	1143
+AENJPLPP_02390	hflX	GTPase HflX	1522
+AENJPLPP_02391		IS30 family transposase IS1252	9
+AENJPLPP_02392		hypothetical protein	65
+AENJPLPP_02393	cdr_2	Coenzyme A disulfide reductase	343
+AENJPLPP_02394	rhaR_6	HTH-type transcriptional activator RhaR	56
+AENJPLPP_02395	araN_2	putative arabinose-binding protein	18
+AENJPLPP_02396	lacF_5	Lactose transport system permease protein LacF	18
+AENJPLPP_02397	lacG_3	Lactose transport system permease protein LacG	22
+AENJPLPP_02398	ugl_1	Unsaturated glucuronyl hydrolase	81
+AENJPLPP_02399		hypothetical protein	104
+AENJPLPP_02400	ugl_2	Unsaturated chondroitin disaccharide hydrolase	128
+AENJPLPP_02401	yheS	putative ABC transporter ATP-binding protein YheS	2860
+AENJPLPP_02402	rex_2	Redox-sensing transcriptional repressor Rex	3163
+AENJPLPP_02403		hypothetical protein	94
+AENJPLPP_02404		Putative two-component membrane permease complex subunit SMU_747c	85
+AENJPLPP_02405		Putative two-component membrane permease complex subunit SMU_746c	116
+AENJPLPP_02406		hypothetical protein	23
+AENJPLPP_02407	natA_2	ABC transporter ATP-binding protein NatA	166
+AENJPLPP_02408		hypothetical protein	374
+AENJPLPP_02409		hypothetical protein	239
+AENJPLPP_02410		hypothetical protein	503
+AENJPLPP_02412	endA	DNA-entry nuclease	3038
+AENJPLPP_02413		hypothetical protein	2442
+AENJPLPP_02414	yrrK	Putative pre-16S rRNA nuclease	4035
+AENJPLPP_02415		hypothetical protein	5994
+AENJPLPP_02416	xerC_10	Tyrosine recombinase XerC	1504
+AENJPLPP_02417		hypothetical protein	863
+AENJPLPP_02418		hypothetical protein	4
+AENJPLPP_02419		hypothetical protein	10
+AENJPLPP_02420		hypothetical protein	2
+AENJPLPP_02421		hypothetical protein	18
+AENJPLPP_02422		hypothetical protein	4
+AENJPLPP_02423		hypothetical protein	10
+AENJPLPP_02424		hypothetical protein	49
+AENJPLPP_02425		hypothetical protein	158
+AENJPLPP_02426		hypothetical protein	67
+AENJPLPP_02427		hypothetical protein	46
+AENJPLPP_02428		hypothetical protein	4
+AENJPLPP_02429		hypothetical protein	22
+AENJPLPP_02430		hypothetical protein	2
+AENJPLPP_02431		hypothetical protein	51
+AENJPLPP_02432		hypothetical protein	281
+AENJPLPP_02433		hypothetical protein	120
+AENJPLPP_02434		hypothetical protein	7
+AENJPLPP_02435		hypothetical protein	2747
+AENJPLPP_02436		hypothetical protein	163
+AENJPLPP_02437		hypothetical protein	292
+AENJPLPP_02438	citS	Citrate-sodium symporter	36
+AENJPLPP_02439	mleS	Malolactic enzyme	50
+AENJPLPP_02440		hypothetical protein	190
+AENJPLPP_02441	hmo	4-hydroxymandelate oxidase	145
+AENJPLPP_02442		hypothetical protein	5
+AENJPLPP_02443		hypothetical protein	13
+AENJPLPP_02444		hypothetical protein	8
+AENJPLPP_02445		hypothetical protein	241
+AENJPLPP_02446		hypothetical protein	424
+AENJPLPP_02447	nox_2	NADH oxidase	337
+AENJPLPP_02448		putative ABC transporter permease	393
+AENJPLPP_02449	hrtA_2	Putative hemin import ATP-binding protein HrtA	330
+AENJPLPP_02450		hypothetical protein	758
+AENJPLPP_02451		hypothetical protein	123
+AENJPLPP_02452	rnhC	Ribonuclease HIII	607
+AENJPLPP_02453	zapA	Cell division protein ZapA	1344
+AENJPLPP_02454		hypothetical protein	691
+AENJPLPP_02455	mutS2_2	Endonuclease MutS2	11878
+AENJPLPP_02456	trxA	Thioredoxin	1978
+AENJPLPP_02457	uvrC_2	UvrABC system protein C	2051
+AENJPLPP_02458	btuD_5	Vitamin B12 import ATP-binding protein BtuD	1938
+AENJPLPP_02459	yhaP	putative protein YhaP	2983
+AENJPLPP_02460	fbp	Fructose-1%2C6-bisphosphatase class 3	1967
+AENJPLPP_02461	puuD	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD	1199
+AENJPLPP_02462		hypothetical protein	1560
+AENJPLPP_02463		hypothetical protein	7234
+AENJPLPP_02464	ntpK	V-type sodium ATPase subunit K	812
+AENJPLPP_02465	atpE_1	V-type proton ATPase subunit E	1791
+AENJPLPP_02466	ntpC	V-type sodium ATPase subunit C	4121
+AENJPLPP_02467	ntpG	V-type sodium ATPase subunit G	1216
+AENJPLPP_02468	ntpA	V-type sodium ATPase catalytic subunit A	9737
+AENJPLPP_02469	ntpB	V-type sodium ATPase subunit B	9985
+AENJPLPP_02470	ntpD	V-type sodium ATPase subunit D	5248
+AENJPLPP_02471	ntpJ_2	Potassium/sodium uptake protein NtpJ	5256
+AENJPLPP_02472	hisC	Histidinol-phosphate aminotransferase	193
+AENJPLPP_02473	lhpI	Delta(1)-pyrroline-2-carboxylate reductase	133
+AENJPLPP_02474	yddE	putative isomerase YddE	175
+AENJPLPP_02475	gloA	Lactoylglutathione lyase	1820
+AENJPLPP_02476		hypothetical protein	292
+AENJPLPP_02477	yidA_3	Sugar phosphatase YidA	1871
+AENJPLPP_02478		hypothetical protein	1560
+AENJPLPP_02479	lipL	Octanoyl-[GcvH]:protein N-octanoyltransferase	376
+AENJPLPP_02480		hypothetical protein	522
+AENJPLPP_02481	rpoE	putative DNA-directed RNA polymerase subunit delta	17915
+AENJPLPP_02482	sigV	RNA polymerase sigma factor SigV	94
+AENJPLPP_02483	rsiV	Anti-sigma-V factor RsiV	257
+AENJPLPP_02484		hypothetical protein	401
+AENJPLPP_02486	rpoN1	RNA polymerase sigma-54 factor 1	686
+AENJPLPP_02487	cggR	Central glycolytic genes regulator	7220
+AENJPLPP_02488	gap_2	Glyceraldehyde-3-phosphate dehydrogenase	170145
+AENJPLPP_02489	pgk	Phosphoglycerate kinase	61755
+AENJPLPP_02490	tpiA	Triosephosphate isomerase	59599
+AENJPLPP_02491	eno	Enolase	107250
+AENJPLPP_02492		hypothetical protein	0
+AENJPLPP_02493		IS3 family transposase ISEnfa3	0
+AENJPLPP_02494		ISL3 family transposase ISEfa11	6
+AENJPLPP_02495	dapE	putative succinyl-diaminopimelate desuccinylase	1240
+AENJPLPP_02496		hypothetical protein	2748
+AENJPLPP_02497	rihB	Pyrimidine-specific ribonucleoside hydrolase RihB	7866
+AENJPLPP_02498	menH_3	2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase	973
+AENJPLPP_02499	yjdJ	putative protein YjdJ	796
+AENJPLPP_02500	secG	putative protein-export membrane protein SecG	1855
+AENJPLPP_02501	est	Carboxylesterase	707
+AENJPLPP_02502	rnr	Ribonuclease R	6352
+AENJPLPP_02503	smpB	SsrA-binding protein	1152
+AENJPLPP_02504	atpB	ATP synthase subunit a	5819
+AENJPLPP_02505	atpE_2	ATP synthase subunit c	1774
+AENJPLPP_02506	atpF	ATP synthase subunit b	4695
+AENJPLPP_02507	atpH	ATP synthase subunit delta	3321
+AENJPLPP_02508	atpA	ATP synthase subunit alpha	18152
+AENJPLPP_02509	atpG	ATP synthase gamma chain	11801
+AENJPLPP_02510	atpD	ATP synthase subunit beta	16411
+AENJPLPP_02511	atpC	ATP synthase epsilon chain	6129
+AENJPLPP_02512		hypothetical protein	1262
+AENJPLPP_02513	murA1_2	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1	15340
+AENJPLPP_02514		hypothetical protein	669
+AENJPLPP_02515		Putative membrane protein insertion efficiency factor	420
+AENJPLPP_02516	yvbK	putative N-acetyltransferase YvbK	321
+AENJPLPP_02517	bglK	Beta-glucoside kinase	132
+AENJPLPP_02518		hypothetical protein	587
+AENJPLPP_02521		hypothetical protein	1106
+AENJPLPP_02522	nagR_1	HTH-type transcriptional repressor NagR	735
+AENJPLPP_02523	yigZ	IMPACT family member YigZ	506
+AENJPLPP_02524		hypothetical protein	139
+AENJPLPP_02525	ptcB_2	PTS system galactose-specific EIIB component	403
+AENJPLPP_02526	comFA	ComF operon protein 1	77
+AENJPLPP_02527		hypothetical protein	110
+AENJPLPP_02528	hpf	Ribosome hibernation promotion factor	7558
+AENJPLPP_02529	secA	Protein translocase subunit SecA	13576
+AENJPLPP_02530	prfB	Peptide chain release factor 2	2858
+AENJPLPP_02531	ftsE	Cell division ATP-binding protein FtsE	3140
+AENJPLPP_02532	ftsX	Cell division protein FtsX	3203
+AENJPLPP_02533	clsA_2	Major cardiolipin synthase ClsA	1219
+AENJPLPP_02534	pstS1_1	Phosphate-binding protein PstS 1	1022
+AENJPLPP_02535		hypothetical protein	1299
+AENJPLPP_02536		hypothetical protein	783
+AENJPLPP_02537	pstB3_1	Phosphate import ATP-binding protein PstB 3	2120
+AENJPLPP_02538	pstB3_2	Phosphate import ATP-binding protein PstB 3	1853
+AENJPLPP_02539	phoU	Phosphate-specific transport system accessory protein PhoU 	2836
+AENJPLPP_02540		hypothetical protein	237
+AENJPLPP_02541		hypothetical protein	111
+AENJPLPP_02542		hypothetical protein	8044
+AENJPLPP_02543		hypothetical protein	1533
+AENJPLPP_02544		hypothetical protein	164
+AENJPLPP_02545		ISL3 family transposase ISEfa5	3
+AENJPLPP_02546	hprK	HPr kinase/phosphorylase	1736
+AENJPLPP_02547	lgt	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase	1248
+AENJPLPP_02548	gpsA_2	Glycerol-3-phosphate dehydrogenase [NAD(P)+]	4021
+AENJPLPP_02549	gtaB_2	UTP--glucose-1-phosphate uridylyltransferase	4836
+AENJPLPP_02550		hypothetical protein	724
+AENJPLPP_02551		hypothetical protein	4941
+AENJPLPP_02552	pepQ	Xaa-Pro dipeptidase	4088
+AENJPLPP_02553	ccpA_2	Catabolite control protein A	13457
+AENJPLPP_02554	ponA_2	Penicillin-binding protein 1A/1B	8577
+AENJPLPP_02555	nfo	putative endonuclease 4	3376
+AENJPLPP_02556		IS110 family transposase ISBth13	1
+AENJPLPP_02557		hypothetical protein	508
+AENJPLPP_02558	mntH	Divalent metal cation transporter MntH	4220
+AENJPLPP_02559		hypothetical protein	1576
+AENJPLPP_02560	yheI	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI	899
+AENJPLPP_02561	yheH	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH	929
+AENJPLPP_02562	licT_3	Transcription antiterminator LicT	18
+AENJPLPP_02563	bglF_3	PTS system beta-glucoside-specific EIIBCA component	105
+AENJPLPP_02564	murR_2	HTH-type transcriptional regulator MurR	112
+AENJPLPP_02565	licH	putative 6-phospho-beta-glucosidase	187
+AENJPLPP_02566	bglH_2	Aryl-phospho-beta-D-glucosidase BglH	307
+AENJPLPP_02567	trxB	Thioredoxin reductase	4048
+AENJPLPP_02568	pgcA	Phosphoglucomutase	11619
+AENJPLPP_02569	czrA	HTH-type transcriptional repressor CzrA	465
+AENJPLPP_02570	yqfL	Putative pyruvate%2C phosphate dikinase regulatory protein	640
+AENJPLPP_02571	zur	Zinc-specific metallo-regulatory protein	555
+AENJPLPP_02572	rpsU	30S ribosomal protein S21	49107
+AENJPLPP_02573	yqeY	putative protein YqeY	32477
+AENJPLPP_02574	brnQ_2	Branched-chain amino acid transport system 2 carrier protein	182
+AENJPLPP_02575		PhoH-like protein	2170
+AENJPLPP_02576	pgpH	Cyclic-di-AMP phosphodiesterase PgpH	7300
+AENJPLPP_02577	ybeY	Endoribonuclease YbeY	1286
+AENJPLPP_02578	dgkA	Undecaprenol kinase	770
+AENJPLPP_02579	era	GTPase Era	5520
+AENJPLPP_02580	recO	DNA repair protein RecO	868
+AENJPLPP_02581	glyQ	Glycine--tRNA ligase alpha subunit	2814
+AENJPLPP_02582	glyS	Glycine--tRNA ligase beta subunit	11828
+AENJPLPP_02583		hypothetical protein	1234
+AENJPLPP_02584	tagU_3	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU	2912
+AENJPLPP_02585	ywqC	putative capsular polysaccharide biosynthesis protein YwqC	1965
+AENJPLPP_02586	ywqD	Tyrosine-protein kinase YwqD	1308
+AENJPLPP_02587	ywqE	Tyrosine-protein phosphatase YwqE	1121
+AENJPLPP_02588	pglF	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase	2035
+AENJPLPP_02589		hypothetical protein	1037
+AENJPLPP_02590	gph_2	Phosphoglycolate phosphatase	885
+AENJPLPP_02591	epsN	Putative pyridoxal phosphate-dependent aminotransferase EpsN	2531
+AENJPLPP_02592	epsL	putative sugar transferase EpsL	1426
+AENJPLPP_02593	pglA	N%2CN'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1%2C3-N-acetylgalactosaminyltransferase	1303
+AENJPLPP_02594		hypothetical protein	618
+AENJPLPP_02595		hypothetical protein	1102
+AENJPLPP_02596		hypothetical protein	685
+AENJPLPP_02597	pglH_2	GalNAc-alpha-(1->4)-GalNAc-alpha-(1->3)-diNAcBac-PP-undecaprenol alpha-1%2C4-N-acetyl-D-galactosaminyltransferase	1028
+AENJPLPP_02598		hypothetical protein	552
+AENJPLPP_02599		hypothetical protein	503
+AENJPLPP_02600		hypothetical protein	814
+AENJPLPP_02601		IS256 family transposase IS256	20
+AENJPLPP_02602	wbgU_2	UDP-N-acetylglucosamine 4-epimerase	674
+AENJPLPP_02603	ugd	UDP-glucose 6-dehydrogenase	1268
+AENJPLPP_02604	glvR	HTH-type transcriptional regulator GlvR	11
+AENJPLPP_02605	pfkB	ATP-dependent 6-phosphofructokinase isozyme 2	11
+AENJPLPP_02606	fruA_5	PTS system fructose-specific EIIABC component	14
+AENJPLPP_02607	mngA	PTS system 2-O-alpha-mannosyl-D-glycerate-specific EIIABC component	8
+AENJPLPP_02608	lacD2	Tagatose 1%2C6-diphosphate aldolase 2	21
+AENJPLPP_02609	yidC	Membrane protein insertase YidC	5990
+AENJPLPP_02610	acyP	Acylphosphatase	321
+AENJPLPP_02611		Putative TrmH family tRNA/rRNA methyltransferase	670
+AENJPLPP_02612		hypothetical protein	2590
+AENJPLPP_02613		hypothetical protein	4652
+AENJPLPP_02614	eriC	Chloride/fluoride channel protein	536
+AENJPLPP_02615		hypothetical protein	1172
+AENJPLPP_02616	dacA	D-alanyl-D-alanine carboxypeptidase DacA	7084
+AENJPLPP_02617		hypothetical protein	42
+AENJPLPP_02618		hypothetical protein	1579
+AENJPLPP_02619		hypothetical protein	46
+AENJPLPP_02620		hypothetical protein	99
+AENJPLPP_02621	cspLA_2	Cold shock-like protein CspLA	15591
+AENJPLPP_02622	dinG_2	3'-5' exonuclease DinG	3095
+AENJPLPP_02623		hypothetical protein	1316
+AENJPLPP_02624	aspB	Asparagine--oxo-acid transaminase	5929
+AENJPLPP_02625	asnS	Asparagine--tRNA ligase	8817
+AENJPLPP_02626	axe2	Acetylxylan esterase	405
+AENJPLPP_02627		hypothetical protein	295
+AENJPLPP_02628	yccF	Inner membrane protein YccF	84
+AENJPLPP_02629	cadA	Cadmium%2C zinc and cobalt-transporting ATPase	990
+AENJPLPP_02630	ycaM	Inner membrane transporter YcaM	9166
+AENJPLPP_02631		ISL3 family transposase ISEfa5	3
+AENJPLPP_02632		hypothetical protein	30
+AENJPLPP_02633	copY	Transcriptional repressor CopY	331
+AENJPLPP_02634	copZ	Copper chaperone CopZ	96
+AENJPLPP_02635	copA	putative copper-importing P-type ATPase A	1533
+AENJPLPP_02636	copB	Copper-exporting P-type ATPase B	2037
+AENJPLPP_02637		hypothetical protein	43
+AENJPLPP_02638		hypothetical protein	91
+AENJPLPP_02639		hypothetical protein	14
+AENJPLPP_02640		hypothetical protein	7
+AENJPLPP_02641		hypothetical protein	36
+AENJPLPP_02642		hypothetical protein	34
+AENJPLPP_02643		hypothetical protein	20
+AENJPLPP_02644		hypothetical protein	1903
+AENJPLPP_02645	lytA	Autolysin	94
+AENJPLPP_02646		hypothetical protein	115
+AENJPLPP_02647		IS3 family transposase ISEnfa3	1
+AENJPLPP_02648		hypothetical protein	1
+AENJPLPP_02649		IS256 family transposase ISEf1	1
+AENJPLPP_02650		hypothetical protein	0
+AENJPLPP_02651		IS3 family transposase ISEnfa3	5
+AENJPLPP_02652		hypothetical protein	269
+AENJPLPP_02653		hypothetical protein	93
+AENJPLPP_02654		IS110 family transposase ISSpn10	28
+AENJPLPP_02655	cbh_3	Choloylglycine hydrolase	2895
+AENJPLPP_02656		ISL3 family transposase ISEfa5	11
+AENJPLPP_02657		IS256 family transposase IS16	20
+AENJPLPP_02658		hypothetical protein	62
+AENJPLPP_02659		hypothetical protein	230
+AENJPLPP_02660		hypothetical protein	583
+AENJPLPP_02661	pstS1_2	Phosphate-binding protein PstS 1	254
+AENJPLPP_02662		ISL3 family transposase IS1251	0
+AENJPLPP_02663		ISL3 family transposase IS1476	79
+AENJPLPP_02664	ctpE_2	Calcium-transporting ATPase CtpE	816
+AENJPLPP_02665	phoR_3	Alkaline phosphatase synthesis sensor protein PhoR	2475
+AENJPLPP_02666	phoP	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP	841
+AENJPLPP_02667		hypothetical protein	1280
+AENJPLPP_02668		hypothetical protein	713
+AENJPLPP_02669	ffh	Signal recognition particle protein	4701
+AENJPLPP_02670	tag	DNA-3-methyladenine glycosylase 1	378
+AENJPLPP_02671		IS1595 family transposase ISCac2	382
+AENJPLPP_02672	chrR	Quinone reductase	527
+AENJPLPP_02673	rpsP	30S ribosomal protein S16	22746
+AENJPLPP_02674		hypothetical protein	3619
+AENJPLPP_02675		hypothetical protein	377
+AENJPLPP_02676	rimM	Ribosome maturation factor RimM	1260
+AENJPLPP_02677	trmD	tRNA (guanine-N(1)-)-methyltransferase	2554
+AENJPLPP_02678	rplS	50S ribosomal protein L19	18573
+AENJPLPP_02679		hypothetical protein	241
+AENJPLPP_02680		hypothetical protein	19
+AENJPLPP_02681		hypothetical protein	1
+AENJPLPP_02682		hypothetical protein	0
+AENJPLPP_02683		hypothetical protein	0
+AENJPLPP_02684		hypothetical protein	39
+AENJPLPP_02685		hypothetical protein	0
+AENJPLPP_02686		hypothetical protein	36
+AENJPLPP_02687		IS1595 family transposase ISCco3	10
+AENJPLPP_02688		hypothetical protein	0
+AENJPLPP_02689		hypothetical protein	2
+AENJPLPP_02690		hypothetical protein	0
+AENJPLPP_02691		hypothetical protein	0
+AENJPLPP_02692		hypothetical protein	10
+AENJPLPP_02693		hypothetical protein	958
+AENJPLPP_02694		hypothetical protein	332
+AENJPLPP_02695		hypothetical protein	14
+AENJPLPP_02696		hypothetical protein	51
+AENJPLPP_02697		IS256 family transposase IS16	0
+AENJPLPP_02698		hypothetical protein	43
+AENJPLPP_02699		hypothetical protein	7
+AENJPLPP_02700		hypothetical protein	11
+AENJPLPP_02701		IS21 family transposase ISCth15	55
+AENJPLPP_02702		hypothetical protein	134
+AENJPLPP_02703		IS4 family transposase IS4Bsu1	54
+AENJPLPP_02704		IS30 family transposase IS1252	50
+AENJPLPP_02705		hypothetical protein	734
+AENJPLPP_02706		IS3 family transposase ISEfa8	423
+AENJPLPP_02707		IS3 family transposase ISEfa8	973
+AENJPLPP_02708	degA_3	HTH-type transcriptional regulator DegA	2511
+AENJPLPP_02709	bfrA	Beta-fructosidase	137
+AENJPLPP_02710	treP_1	PTS system trehalose-specific EIIBC component	25
+AENJPLPP_02711		hypothetical protein	10
+AENJPLPP_02712	gmuE_4	Putative fructokinase	26
+AENJPLPP_02713	dgaR_5	Transcriptional regulatory protein DagR	28
+AENJPLPP_02714		hypothetical protein	2
+AENJPLPP_02715	agaC_2	N-acetylgalactosamine permease IIC component 1	10
+AENJPLPP_02716	manZ_6	PTS system mannose-specific EIID component	13
+AENJPLPP_02717	manX_5	PTS system mannose-specific EIIAB component	8
+AENJPLPP_02718		hypothetical protein	9
+AENJPLPP_02719		hypothetical protein	44
+AENJPLPP_02720		hypothetical protein	38
+AENJPLPP_02721		hypothetical protein	1
+AENJPLPP_02722		hypothetical protein	0
+AENJPLPP_02723		IS66 family transposase ISRob1	593
+AENJPLPP_02724		hypothetical protein	5
+AENJPLPP_02725		hypothetical protein	1
+AENJPLPP_02726		hypothetical protein	69
+AENJPLPP_02727		hypothetical protein	62
+AENJPLPP_02728	xerC_11	Tyrosine recombinase XerC	672
+AENJPLPP_02729		hypothetical protein	74
+AENJPLPP_02730		hypothetical protein	67
+AENJPLPP_02731		hypothetical protein	10
+AENJPLPP_02732		hypothetical protein	26
+AENJPLPP_02733		hypothetical protein	20
+AENJPLPP_02734		hypothetical protein	51
+AENJPLPP_02735		hypothetical protein	69
+AENJPLPP_02736		hypothetical protein	1
+AENJPLPP_02737		hypothetical protein	824
+AENJPLPP_02738		hypothetical protein	64
+AENJPLPP_02739	yjhB	Putative metabolite transport protein YjhB	204
+AENJPLPP_02740	adhR	HTH-type transcriptional regulator AdhR	115
+AENJPLPP_02741	hdfR_3	HTH-type transcriptional regulator HdfR	258
+AENJPLPP_02742		hypothetical protein	267
+AENJPLPP_02743		ISL3 family transposase ISEfa11	0
+AENJPLPP_02744	araQ_6	L-arabinose transport system permease protein AraQ	22
+AENJPLPP_02745		hypothetical protein	9
+AENJPLPP_02746		IS256 family transposase ISEf1	11
+AENJPLPP_02747	alsS_1	Acetolactate synthase	2412
+AENJPLPP_02748	alsS_2	Acetolactate synthase	399
+AENJPLPP_02749	aldC	Alpha-acetolactate decarboxylase	1996
+AENJPLPP_02750		hypothetical protein	939
+AENJPLPP_02751		hypothetical protein	141
+AENJPLPP_02752		hypothetical protein	16
+AENJPLPP_02753		IS256 family transposase ISEf1	4
+AENJPLPP_02754		hypothetical protein	0
+AENJPLPP_02756		ISL3 family transposase ISEfa5	4
+AENJPLPP_02757		ISL3 family transposase ISEfa5	3
+AENJPLPP_02758		hypothetical protein	358
+AENJPLPP_02759		hypothetical protein	889
+AENJPLPP_02760		hypothetical protein	130
+AENJPLPP_02761		hypothetical protein	107
+AENJPLPP_02762		hypothetical protein	33
+AENJPLPP_02763		hypothetical protein	106
+AENJPLPP_02764		hypothetical protein	191
+AENJPLPP_02765		hypothetical protein	252
+AENJPLPP_02766		hypothetical protein	52
+AENJPLPP_02767		hypothetical protein	383
+AENJPLPP_02768	srtA_1	Sortase A	167
+AENJPLPP_02769		hypothetical protein	139
+AENJPLPP_02770		hypothetical protein	51
+AENJPLPP_02771		hypothetical protein	546
+AENJPLPP_02772		hypothetical protein	1161
+AENJPLPP_02773		hypothetical protein	71
+AENJPLPP_02774		hypothetical protein	35
+AENJPLPP_02775		hypothetical protein	264
+AENJPLPP_02776		hypothetical protein	179
+AENJPLPP_02777		hypothetical protein	0
+AENJPLPP_02778		hypothetical protein	62
+AENJPLPP_02779		hypothetical protein	18
+AENJPLPP_02780		hypothetical protein	0
+AENJPLPP_02781		hypothetical protein	0
+AENJPLPP_02782		hypothetical protein	0
+AENJPLPP_02783		hypothetical protein	0
+AENJPLPP_02784		hypothetical protein	36
+AENJPLPP_02785		hypothetical protein	37
+AENJPLPP_02786		hypothetical protein	59
+AENJPLPP_02787		hypothetical protein	8
+AENJPLPP_02788		hypothetical protein	105
+AENJPLPP_02789		hypothetical protein	21
+AENJPLPP_02790		hypothetical protein	23
+AENJPLPP_02791		hypothetical protein	16
+AENJPLPP_02792		hypothetical protein	94
+AENJPLPP_02793		hypothetical protein	23
+AENJPLPP_02794		hypothetical protein	27
+AENJPLPP_02795		IS110 family transposase ISSpn10	4
+AENJPLPP_02796		hypothetical protein	145
+AENJPLPP_02797		hypothetical protein	105
+AENJPLPP_02798	topB_3	DNA topoisomerase 3	90
+AENJPLPP_02799		hypothetical protein	23
+AENJPLPP_02800		hypothetical protein	399
+AENJPLPP_02801		hypothetical protein	706
+AENJPLPP_02802	ssbA	Single-stranded DNA-binding protein A	98
+AENJPLPP_02803	ssb_2	Single-stranded DNA-binding protein	289
+AENJPLPP_02804		hypothetical protein	18
+AENJPLPP_02805		hypothetical protein	2
+AENJPLPP_02806		hypothetical protein	1
+AENJPLPP_02807		hypothetical protein	0
+AENJPLPP_02808		hypothetical protein	5
+AENJPLPP_02809		hypothetical protein	8
+AENJPLPP_02810		hypothetical protein	6
+AENJPLPP_02811		hypothetical protein	14
+AENJPLPP_02812		IS30 family transposase IS1252	19
+AENJPLPP_02813		hypothetical protein	58
+AENJPLPP_02814		hypothetical protein	220
+AENJPLPP_02815		IS256 family transposase ISEf1	1
+AENJPLPP_02816	manR_3	Transcriptional regulator ManR	932
+AENJPLPP_02817		hypothetical protein	145
+AENJPLPP_02818	gatC_3	PTS system galactitol-specific EIIC component	699
+AENJPLPP_02819		hypothetical protein	46
+AENJPLPP_02820		hypothetical protein	286
+AENJPLPP_02821	rpe_2	Ribulose-phosphate 3-epimerase	723
+AENJPLPP_02822	hxlB	3-hexulose-6-phosphate isomerase	361
+AENJPLPP_02823		IS66 family transposase ISCth11	3289
+AENJPLPP_02824		hypothetical protein	9
+AENJPLPP_02825		hypothetical protein	12
+AENJPLPP_02826	xerC_12	Tyrosine recombinase XerC	190
+AENJPLPP_02827		hypothetical protein	205
+AENJPLPP_02828		IS6 family transposase IS1216V	40
+AENJPLPP_02829		hypothetical protein	0
+AENJPLPP_02830	gmuE_5	Putative fructokinase	841
+AENJPLPP_02831		IS256 family transposase IS256	163
+AENJPLPP_02832		hypothetical protein	4835
+AENJPLPP_02833	scrB_1	Sucrose-6-phosphate hydrolase	8109
+AENJPLPP_02834	degA_4	HTH-type transcriptional regulator DegA	2662
+AENJPLPP_02835		IS3 family transposase ISEfa10	224
+AENJPLPP_02836		IS3 family transposase ISEfa10	127
+AENJPLPP_02837		IS200/IS605 family transposase ISAac3	40
+AENJPLPP_02838		hypothetical protein	12
+AENJPLPP_02839		IS1380 family transposase IS1678	2
+AENJPLPP_02840		hypothetical protein	123
+AENJPLPP_02841	rpiR	HTH-type transcriptional regulator RpiR	545
+AENJPLPP_02842	nanE_2	Putative N-acetylmannosamine-6-phosphate 2-epimerase	315
+AENJPLPP_02843	glcB	PTS system glucoside-specific EIICBA component	445
+AENJPLPP_02844		IS110 family transposase ISSpn10	0
+AENJPLPP_02845		hypothetical protein	147
+AENJPLPP_02846		IS3 family transposase IS1485	0
+AENJPLPP_02847		hypothetical protein	1035
+AENJPLPP_02848	xerS	Tyrosine recombinase XerS	919
+AENJPLPP_02849		IS30 family transposase IS1252	75
+AENJPLPP_02850	licC_3	Lichenan permease IIC component	686
+AENJPLPP_02851		hypothetical protein	289
+AENJPLPP_02852	lacD	Tagatose 1%2C6-diphosphate aldolase	458
+AENJPLPP_02853	agaS	D-galactosamine-6-phosphate deaminase AgaS	1226
+AENJPLPP_02854	nagR_2	HTH-type transcriptional repressor NagR	505
+AENJPLPP_02855		IS3 family transposase IS1485	16
+AENJPLPP_02856		IS1182 family transposase ISEfa12	1
+AENJPLPP_02857		hypothetical protein	21
+AENJPLPP_02858		IS200/IS605 family transposase ISEfa4	3
+AENJPLPP_02859	treP_2	PTS system trehalose-specific EIIBC component	459
+AENJPLPP_02860	scrB_2	Sucrose-6-phosphate hydrolase	34
+AENJPLPP_02861	rhaS_3	HTH-type transcriptional activator RhaS	98
+AENJPLPP_02862	agaA_3	Alpha-galactosidase AgaA	426
+AENJPLPP_02863	crr	PTS system glucose-specific EIIA component	149
+AENJPLPP_02864		IS3 family transposase IS1485	9
+AENJPLPP_02865		IS3 family transposase IS1485	4
+AENJPLPP_02866		hypothetical protein	0
+AENJPLPP_02867		IS3 family transposase ISEnfa3	0
+AENJPLPP_02868		IS256 family transposase ISBsu2	240
+AENJPLPP_02869		IS256 family transposase ISBsu2	144
+AENJPLPP_02870		ISL3 family transposase ISEfa5	3
+AENJPLPP_02871		hypothetical protein	182
+AENJPLPP_02872		IS200/IS605 family transposase ISEfa4	4274
+AENJPLPP_02873		hypothetical protein	5654
+AENJPLPP_02874		IS256 family transposase ISEf1	72
+AENJPLPP_02875		hypothetical protein	790
+AENJPLPP_02876	qseB	Transcriptional regulatory protein QseB	1482
+AENJPLPP_02877		ISL3 family transposase IS1476	191
+AENJPLPP_02878	guaA_2	GMP synthase [glutamine-hydrolyzing]	457
+AENJPLPP_02879		hypothetical protein	618
+AENJPLPP_02880		hypothetical protein	249
+AENJPLPP_02881	ebgA	Evolved beta-galactosidase subunit alpha	256
+AENJPLPP_02882		hypothetical protein	286
+AENJPLPP_02883		hypothetical protein	45
+AENJPLPP_02884		hypothetical protein	89
+AENJPLPP_02885	araQ_7	L-arabinose transport system permease protein AraQ	21
+AENJPLPP_02886	yteP_3	putative multiple-sugar transport system permease YteP	14
+AENJPLPP_02887		hypothetical protein	119
+AENJPLPP_02888		putative response regulatory protein	140
+AENJPLPP_02889		ISL3 family transposase IS1476	21
+AENJPLPP_02890	btuD_6	Vitamin B12 import ATP-binding protein BtuD	117
+AENJPLPP_02891		hypothetical protein	71
+AENJPLPP_02892		hypothetical protein	54
+AENJPLPP_02893		hypothetical protein	52
+AENJPLPP_02894		hypothetical protein	145
+AENJPLPP_02895	hisK	Histidinol-phosphatase	324
+AENJPLPP_02896		hypothetical protein	241
+AENJPLPP_02897		Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase	74
+AENJPLPP_02898	cutD	Choline trimethylamine-lyase activating enzyme	162
+AENJPLPP_02899		IS1182 family transposase ISEfa7	0
+AENJPLPP_02900		hypothetical protein	1
+AENJPLPP_02901		ISL3 family transposase ISEfa5	33
+AENJPLPP_02902		IS66 family transposase ISRob1	46
+AENJPLPP_02903		hypothetical protein	2
+AENJPLPP_02904		hypothetical protein	26
+AENJPLPP_02905		hypothetical protein	2364
+AENJPLPP_02906		putative ABC transporter ATP-binding protein	264
+AENJPLPP_02907		hypothetical protein	260
+AENJPLPP_02908		IS3 family transposase ISEfa8	83
+AENJPLPP_02909		IS3 family transposase ISEfa8	23
+AENJPLPP_02910	resA	Thiol-disulfide oxidoreductase ResA	485
+AENJPLPP_02911		hypothetical protein	524
+AENJPLPP_02912		IS3 family transposase ISEfa8	73
+AENJPLPP_02913		IS3 family transposase ISEfa8	585
+AENJPLPP_02914		hypothetical protein	161
+AENJPLPP_02915		IS30 family transposase IS1062	637
+AENJPLPP_02916		hypothetical protein	169
+AENJPLPP_02917		IS200/IS605 family transposase ISEfa4	97
+AENJPLPP_02918		hypothetical protein	0
+AENJPLPP_02919	xerC_13	Tyrosine recombinase XerC	379
+AENJPLPP_02920		IS982 family transposase ISEfm1	29
+AENJPLPP_02921		Protein adenylyltransferase NmFic	683
+AENJPLPP_02922		hypothetical protein	24
+AENJPLPP_02923		IS30 family transposase IS1252	12
+AENJPLPP_02924		hypothetical protein	69
+AENJPLPP_02925		hypothetical protein	35
+AENJPLPP_02926	hsdS	Type-1 restriction enzyme EcoKI specificity protein	192
+AENJPLPP_02927		hypothetical protein	474
+AENJPLPP_02928	ohrB_2	Organic hydroperoxide resistance protein OhrB	872
+AENJPLPP_02929		hypothetical protein	102
+AENJPLPP_02930		IS256 family transposase ISEf1	30
+AENJPLPP_02931		IS30 family transposase IS6770	19
+AENJPLPP_02932		IS256 family transposase ISEf1	5
+AENJPLPP_02933		hypothetical protein	190
+AENJPLPP_02934		hypothetical protein	252
+AENJPLPP_02935		IS30 family transposase IS6770	257
+AENJPLPP_02936		IS30 family transposase IS1062	507
+AENJPLPP_02937	bglF_4	PTS system beta-glucoside-specific EIIBCA component	244
+AENJPLPP_02938		ISL3 family transposase IS1251	22
+AENJPLPP_02939	licT_4	Transcription antiterminator LicT	1846
+AENJPLPP_02940	bglH_3	Aryl-phospho-beta-D-glucosidase BglH	2067
+AENJPLPP_02941	bglF_5	PTS system beta-glucoside-specific EIIBCA component	1875
+AENJPLPP_02942		IS6 family transposase IS1216E	31
+AENJPLPP_02943	manZ_7	PTS system mannose-specific EIID component	50
+AENJPLPP_02944	sorA_3	PTS system sorbose-specific EIIC component	42
+AENJPLPP_02945		hypothetical protein	1
+AENJPLPP_02946		putative phosphotransferase enzyme IIB component	6
+AENJPLPP_02947		hypothetical protein	11
+AENJPLPP_02948	frlB_2	Fructosamine deglycase FrlB	117
+AENJPLPP_02949	fadR	Fatty acid metabolism regulator protein	305
+AENJPLPP_02950		IS6 family transposase IS1216V	64
+AENJPLPP_02951		IS6 family transposase IS1216V	13
+AENJPLPP_02952	hxpB	Hexitol phosphatase B	166
+AENJPLPP_02953		hypothetical protein	41
+AENJPLPP_02954	norR_2	Anaerobic nitric oxide reductase transcription regulator NorR	300
+AENJPLPP_02955		hypothetical protein	12
+AENJPLPP_02956	frlB_3	Fructosamine deglycase FrlB	207
+AENJPLPP_02957		hypothetical protein	41
+AENJPLPP_02958	manZ_8	PTS system mannose-specific EIID component	38
+AENJPLPP_02959	sorA_4	PTS system sorbose-specific EIIC component	56
+AENJPLPP_02960	manX_6	PTS system mannose-specific EIIAB component	7
+AENJPLPP_02961		hypothetical protein	58
+AENJPLPP_02962		hypothetical protein	181
+AENJPLPP_02963		IS200/IS605 family transposase ISEfa4	3
+AENJPLPP_02964		hypothetical protein	0
+AENJPLPP_02965		hypothetical protein	383
+AENJPLPP_02966		hypothetical protein	104
+AENJPLPP_02967		hypothetical protein	9
+AENJPLPP_02968		IS6 family transposase IS1297	341
+AENJPLPP_02969		IS1182 family transposase ISEfa12	1
+AENJPLPP_02970		hypothetical protein	111
+AENJPLPP_02971		hypothetical protein	52
+AENJPLPP_02972		hypothetical protein	159
+AENJPLPP_02973	srtA_2	Sortase A	80
+AENJPLPP_02974		hypothetical protein	224
+AENJPLPP_02975		hypothetical protein	148
+AENJPLPP_02976		hypothetical protein	59
+AENJPLPP_02977		hypothetical protein	12
+AENJPLPP_02978		hypothetical protein	42
+AENJPLPP_02979		hypothetical protein	40
+AENJPLPP_02980		hypothetical protein	58
+AENJPLPP_02981		hypothetical protein	47
+AENJPLPP_02982		hypothetical protein	2289
+AENJPLPP_02983		hypothetical protein	42
+AENJPLPP_02984		hypothetical protein	458
+AENJPLPP_02985		hypothetical protein	404
+AENJPLPP_02986		hypothetical protein	17
+AENJPLPP_02987		hypothetical protein	172
+AENJPLPP_02988		hypothetical protein	20
+AENJPLPP_02989		hypothetical protein	209
+AENJPLPP_02990	umuC_2	Protein UmuC	727
+AENJPLPP_02991	bin3_1	Putative transposon Tn552 DNA-invertase bin3	211
+AENJPLPP_02992	pemK	Endoribonuclease PemK	1131
+AENJPLPP_02993		hypothetical protein	2481
+AENJPLPP_02994		hypothetical protein	61
+AENJPLPP_02995		hypothetical protein	17
+AENJPLPP_02996		hypothetical protein	523
+AENJPLPP_02997		hypothetical protein	90
+AENJPLPP_02998		hypothetical protein	23
+AENJPLPP_02999		hypothetical protein	7
+AENJPLPP_03000		hypothetical protein	19
+AENJPLPP_03001		hypothetical protein	213
+AENJPLPP_03002	ssb_3	Single-stranded DNA-binding protein	314
+AENJPLPP_03003		hypothetical protein	479
+AENJPLPP_03004		hypothetical protein	276
+AENJPLPP_03005		hypothetical protein	6
+AENJPLPP_03006	topB_4	DNA topoisomerase 3	152
+AENJPLPP_03007		hypothetical protein	106
+AENJPLPP_03008		hypothetical protein	71
+AENJPLPP_03009		hypothetical protein	0
+AENJPLPP_03010		hypothetical protein	0
+AENJPLPP_03011		hypothetical protein	8
+AENJPLPP_03012		hypothetical protein	73
+AENJPLPP_03013		IS110 family transposase ISSpn10	0
+AENJPLPP_03014		hypothetical protein	79
+AENJPLPP_03015		hypothetical protein	56
+AENJPLPP_03016		hypothetical protein	29
+AENJPLPP_03017		hypothetical protein	28
+AENJPLPP_03018		hypothetical protein	24
+AENJPLPP_03019		hypothetical protein	3
+AENJPLPP_03020		hypothetical protein	13
+AENJPLPP_03021		hypothetical protein	27
+AENJPLPP_03022		hypothetical protein	29
+AENJPLPP_03023		hypothetical protein	33
+AENJPLPP_03024		hypothetical protein	75
+AENJPLPP_03025		hypothetical protein	42
+AENJPLPP_03026		hypothetical protein	0
+AENJPLPP_03027		hypothetical protein	0
+AENJPLPP_03028		hypothetical protein	0
+AENJPLPP_03029		hypothetical protein	0
+AENJPLPP_03030		hypothetical protein	0
+AENJPLPP_03031		hypothetical protein	0
+AENJPLPP_03032		hypothetical protein	0
+AENJPLPP_03033		hypothetical protein	0
+AENJPLPP_03034		hypothetical protein	0
+AENJPLPP_03035		hypothetical protein	0
+AENJPLPP_03036		hypothetical protein	0
+AENJPLPP_03037		hypothetical protein	0
+AENJPLPP_03038		hypothetical protein	0
+AENJPLPP_03039		hypothetical protein	1
+AENJPLPP_03040		hypothetical protein	0
+AENJPLPP_03041		hypothetical protein	0
+AENJPLPP_03042		IS6 family transposase IS1216E	0
+AENJPLPP_03043	walR_2	Transcriptional regulatory protein WalR	1
+AENJPLPP_03044	sasA_4	Adaptive-response sensory-kinase SasA	137
+AENJPLPP_03045	vanH_1	D-specific alpha-keto acid dehydrogenase	0
+AENJPLPP_03046	vanA_1	Vancomycin/teicoplanin A-type resistance protein VanA	0
+AENJPLPP_03047	vanX	D-alanyl-D-alanine dipeptidase	459
+AENJPLPP_03048		IS6 family transposase IS1216E	202
+AENJPLPP_03049		hypothetical protein	547
+AENJPLPP_03050		hypothetical protein	3995
+AENJPLPP_03051		hypothetical protein	47
+AENJPLPP_03052		hypothetical protein	303
+AENJPLPP_03053		hypothetical protein	75
+AENJPLPP_03054	bin3_2	Putative transposon Tn552 DNA-invertase bin3	513
+AENJPLPP_03055		hypothetical protein	0
+AENJPLPP_03056		IS6 family transposase IS1216E	27
+AENJPLPP_03057		hypothetical protein	262
+AENJPLPP_03058		hypothetical protein	362
+AENJPLPP_03059		hypothetical protein	22657
+AENJPLPP_03060		hypothetical protein	5327
+AENJPLPP_03061	bin3_3	Putative transposon Tn552 DNA-invertase bin3	1166
+AENJPLPP_03062	ligA_2	DNA ligase	250
+AENJPLPP_03063		hypothetical protein	184
+AENJPLPP_03064	bin3_4	Putative transposon Tn552 DNA-invertase bin3	193
+AENJPLPP_03065		Tn3 family transposase TnBth1	1731
+AENJPLPP_03066		IS6 family transposase IS1216E	17
+AENJPLPP_03067		hypothetical protein	257
+AENJPLPP_03068	repD	Replication initiation protein	482
+AENJPLPP_03069		IS6 family transposase IS1216E	0
+AENJPLPP_03070		hypothetical protein	569
+AENJPLPP_03071		hypothetical protein	1027
+AENJPLPP_03072		hypothetical protein	347
+AENJPLPP_03073		hypothetical protein	51
+AENJPLPP_03074		hypothetical protein	315
+AENJPLPP_03075	repN	Replication initiation protein	196
+AENJPLPP_03076		IS6 family transposase IS1216E	0
+AENJPLPP_03077		hypothetical protein	6
+AENJPLPP_03078		hypothetical protein	699
+AENJPLPP_03079	soj_2	Sporulation initiation inhibitor protein Soj	1680
+AENJPLPP_03080		hypothetical protein	176
+AENJPLPP_03081		hypothetical protein	0
+AENJPLPP_03082		IS6 family transposase IS1216E	0
+AENJPLPP_03083	rssB	Regulator of RpoS	0
+AENJPLPP_03084	walK_2	Sensor protein kinase WalK	0
+AENJPLPP_03085	vanH_2	D-specific alpha-keto acid dehydrogenase	0
+AENJPLPP_03086	vanA_2	Vancomycin/teicoplanin A-type resistance protein VanA	1
+AENJPLPP_03087		hypothetical protein	0
+AENJPLPP_03088		hypothetical protein	0
+AENJPLPP_03089		hypothetical protein	0
+AENJPLPP_03090		hypothetical protein	0
+AENJPLPP_03091		hypothetical protein	0
+AENJPLPP_03092		hypothetical protein	0
+AENJPLPP_03093		hypothetical protein	0
+AENJPLPP_03094		hypothetical protein	0
+AENJPLPP_03095		hypothetical protein	74
+AENJPLPP_03096		hypothetical protein	118
+AENJPLPP_03097		hypothetical protein	0
+AENJPLPP_03098	ltrA	Group II intron-encoded protein LtrA	2
+AENJPLPP_03099		hypothetical protein	26
+AENJPLPP_03100		hypothetical protein	96
+AENJPLPP_03101		hypothetical protein	18
+AENJPLPP_03102		hypothetical protein	2
+AENJPLPP_03103		hypothetical protein	58
+AENJPLPP_03104		hypothetical protein	14
+AENJPLPP_03105		hypothetical protein	34
+AENJPLPP_03106		hypothetical protein	72
+AENJPLPP_03107		hypothetical protein	26
+AENJPLPP_03108		hypothetical protein	0
+AENJPLPP_03109		hypothetical protein	61
+AENJPLPP_03110		IS6 family transposase IS1216V	4
+AENJPLPP_03111		hypothetical protein	0
+AENJPLPP_03112		hypothetical protein	0
+AENJPLPP_03113		hypothetical protein	0
+AENJPLPP_03114		hypothetical protein	0
+AENJPLPP_03115		hypothetical protein	405
+AENJPLPP_03116		hypothetical protein	3
+AENJPLPP_03117		hypothetical protein	0
+AENJPLPP_03118		hypothetical protein	305
+AENJPLPP_03119	bin3_5	Putative transposon Tn552 DNA-invertase bin3	50
+AENJPLPP_03120	umuC_3	Protein UmuC	508
+AENJPLPP_03121		hypothetical protein	113
+AENJPLPP_03122		hypothetical protein	6
+AENJPLPP_03123		hypothetical protein	13
+AENJPLPP_03124	soj_3	Sporulation initiation inhibitor protein Soj	809
+AENJPLPP_03125		hypothetical protein	631
+AENJPLPP_03126		hypothetical protein	1570
+AENJPLPP_03127		IS6 family transposase IS1216V	0
+AENJPLPP_03128		hypothetical protein	1
+AENJPLPP_03129		hypothetical protein	0
+AENJPLPP_03130		hypothetical protein	0
+AENJPLPP_03131		hypothetical protein	0
+AENJPLPP_03132		hypothetical protein	0
+AENJPLPP_03133	yoeB	Toxin YoeB	642
+AENJPLPP_03134		hypothetical protein	2
+AENJPLPP_03135		hypothetical protein	0
+AENJPLPP_03136		hypothetical protein	84
+AENJPLPP_03137		hypothetical protein	153
+AENJPLPP_03138		hypothetical protein	19
+AENJPLPP_03139		hypothetical protein	64
+AENJPLPP_03140		hypothetical protein	17
+AENJPLPP_03141		hypothetical protein	32
+AENJPLPP_03142		hypothetical protein	18
+AENJPLPP_03143		hypothetical protein	40
+AENJPLPP_03144		hypothetical protein	9
+AENJPLPP_03145		hypothetical protein	19
+AENJPLPP_03146		hypothetical protein	19
+AENJPLPP_03147		hypothetical protein	6
+AENJPLPP_03148		hypothetical protein	10
+AENJPLPP_03149		hypothetical protein	27
+AENJPLPP_03150		hypothetical protein	3
+AENJPLPP_03151		hypothetical protein	59
+AENJPLPP_03152		hypothetical protein	36
+AENJPLPP_03153		hypothetical protein	33
+AENJPLPP_03154		hypothetical protein	1
+AENJPLPP_03155		hypothetical protein	58
+AENJPLPP_03156		hypothetical protein	386
+AENJPLPP_03157		hypothetical protein	2
+AENJPLPP_03158		hypothetical protein	16
+AENJPLPP_03159		hypothetical protein	15
+AENJPLPP_03160		hypothetical protein	19
+AENJPLPP_03161		hypothetical protein	7
+AENJPLPP_03162		hypothetical protein	6
+AENJPLPP_03163		hypothetical protein	0
+AENJPLPP_03164		hypothetical protein	49
+AENJPLPP_03165		hypothetical protein	32
+AENJPLPP_03166		hypothetical protein	86
+AENJPLPP_03167		hypothetical protein	13
+AENJPLPP_03168		hypothetical protein	17
+AENJPLPP_03169	yxdL_2	ABC transporter ATP-binding protein YxdL	0
+AENJPLPP_03170		hypothetical protein	0
+AENJPLPP_03171		hypothetical protein	0
+AENJPLPP_03172		hypothetical protein	0
+AENJPLPP_03173		hypothetical protein	0
+AENJPLPP_03174		hypothetical protein	309
+AENJPLPP_03175		hypothetical protein	0
+AENJPLPP_03176		hypothetical protein	222
+AENJPLPP_03177		hypothetical protein	0
+AENJPLPP_03178		hypothetical protein	356
+AENJPLPP_03179		hypothetical protein	792
+AENJPLPP_03180		hypothetical protein	324
+AENJPLPP_03181	yxdL_3	ABC transporter ATP-binding protein YxdL	68
+AENJPLPP_03182		hypothetical protein	0
+AENJPLPP_03183		hypothetical protein	1
+AENJPLPP_03184		hypothetical protein	0
+AENJPLPP_03185		hypothetical protein	0
+AENJPLPP_03186		hypothetical protein	0
+AENJPLPP_03187		hypothetical protein	2
+AENJPLPP_03188		hypothetical protein	0
+AENJPLPP_03189		hypothetical protein	1
+__no_feature			781856
+__ambiguous			993711
+__too_low_aQual			141994
+__not_aligned			173357
+__alignment_not_unique			0
