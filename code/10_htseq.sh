@@ -2,7 +2,7 @@
 #SBATCH -A uppmax2026-1-61
 #SBATCH -p pelle
 #SBATCH -c 1
-#SBATCH -t 05:00:00
+#SBATCH -t 04:00:00
 #SBATCH -J htseq
 #SBATCH --mail-type=ALL
 #SBATCH --output=%x.%j.out
@@ -20,7 +20,7 @@ for sample in ERR1797969 ERR1797970 ERR1797971 ERR1797972 ERR1797973 ERR1797974;
     htseq-count \
         --format bam \
         --order pos \
-        --stranded no \
+        --stranded yes \
         --type CDS \
         --idattr ID \
         --additional-attr gene \
