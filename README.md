@@ -10,7 +10,7 @@ Covers:
 - RNA-Seq DE between serum and BHI medium
 ```
 
-<img width="400" height="1198" alt="bild" src="https://github.com/user-attachments/assets/f825b147-136b-465b-a736-6e90e78b4ae6" /> <br>
+<img width="400" height="800" alt="bild" src="https://github.com/user-attachments/assets/f825b147-136b-465b-a736-6e90e78b4ae6" /> <br>
 
 ## Repository Structure <br>
 ```
