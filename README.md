@@ -10,7 +10,7 @@ Covers:
 - RNA-Seq DE between serum and BHI medium
 ```
 
-<img width="400" height="800" alt="bild" src="https://github.com/user-attachments/assets/f825b147-136b-465b-a736-6e90e78b4ae6" /> <br>
+<img width="400" height="600" alt="bild" src="https://github.com/user-attachments/assets/f825b147-136b-465b-a736-6e90e78b4ae6" /> <br>
 
 ## Repository Structure <br>
 ```
@@ -18,9 +18,12 @@ Covers:
 ├── README.md
 ├── analyses/
 │   ├── 01_qc/
+│   │   ├── fastqc_raw/
+│   │   └── fastqc_trimmed/
 │   ├── 02_assembly/
 │   │   └── canu/
 │   ├── 03_assembly_eval/
+│   │   ├── busco/
 │   │   ├── quast/
 │   │   └── mummer/
 │   ├── 04_annotation/
@@ -30,6 +33,8 @@ Covers:
 │   └── 08_deseq2
 ├── code/
 └── data/
+    ├── adapters/
+    ├── bam_files/
     ├── metadata/ 
     │	└──sample_information.csv
     ├── raw_data/
